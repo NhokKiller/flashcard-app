@@ -1,0 +1,359 @@
+[
+  {
+    "number": 1,
+    "word": "Complimentary",
+    "definition": "miễn phí",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/kɒm.plɪˈmen.tər.i/ (UK), /ˌkɑːm.pləˈmen.tər.i/ (US)"
+  },
+  {
+    "number": 2,
+    "word": "detour",
+    "definition": "đường vòng, đi vòng",
+    "partOfSpeech": "(n)(v)",
+    "pronunciation": "/ˈdiː.tʊər/ (UK), /ˈdiː.tʊr/ (US)"
+  },
+  {
+    "number": 3,
+    "word": "Package",
+    "definition": "gói đồ, bưu kiện, đóng gói",
+    "partOfSpeech": "(n)(v)",
+    "pronunciation": "/ˈpæk.ɪdʒ/ (US)"
+  },
+  {
+    "number": 4,
+    "word": "Decorate",
+    "definition": "trang trí",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ˈdek.ə.reɪt/"
+  },
+  {
+    "number": 5,
+    "word": "Latest",
+    "definition": "mới nhất",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ˈleɪ.tɪst/ (UK), /ˈleɪ.təst/ (US)"
+  },
+  {
+    "number": 6,
+    "word": "Prohibit",
+    "definition": "ngăn cấm",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/prəˈhɪb.ɪt/ (UK), /proʊˈhɪb.ɪt/ (US)"
+  },
+  {
+    "number": 7,
+    "word": "Commute",
+    "definition": "sự đi lại, đi lại",
+    "partOfSpeech": "(n)(v)",
+    "pronunciation": "/kəˈmjuːt/"
+  },
+  {
+    "number": 8,
+    "word": "Occasion",
+    "definition": "thời điểm, dịp",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/əˈkeɪ.ʒən/"
+  },
+  {
+    "number": 9,
+    "word": "Restore",
+    "definition": "phục hồi",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/rɪˈstɔːr/ (UK), /rɪˈstɔːr/ (US)"
+  },
+  {
+    "number": 10,
+    "word": "article",
+    "definition": "bài báo, chuyên mục, đồ đạc, vật phẩm",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈɑːtɪkl/ (UK), /ˈɑːrtɪkl/ (US)"
+  },
+  {
+    "number": 11,
+    "word": "confident",
+    "definition": "tự tin",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ˈkɒnfɪdənt/ (UK), /ˈkɑːnfɪdənt/ (US)"
+  },
+  {
+    "number": 12,
+    "word": "Prepare",
+    "definition": "chuẩn bị",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/prɪˈpeər/"
+  },
+  {
+    "number": 13,
+    "word": "Expert",
+    "definition": "chuyên gia, thành thạo, (về mặt) chuyên môn",
+    "partOfSpeech": "(n) (a)",
+    "pronunciation": "/ˈekspɜːt/ (UK), /ˈekspɜːrt/ (US)"
+  },
+  {
+    "number": 14,
+    "word": "Minor",
+    "definition": "nhỏ (hơn), thứ yếu",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ˈmaɪnər/ (UK), /ˈmaɪnər/ (US)"
+  },
+  {
+    "number": 15,
+    "word": "sale",
+    "definition": "đợt giảm giá, doanh số",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/seɪl/"
+  },
+  {
+    "number": 16,
+    "word": "unique",
+    "definition": "duy nhất, độc đáo",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/juːˈniːk/"
+  },
+  {
+    "number": 17,
+    "word": "point out",
+    "definition": "chỉ ra, đề cập",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/pɔɪnt/ /aʊt/"
+  },
+  {
+    "number": 18,
+    "word": "thrilled",
+    "definition": "hồi hộp, vui sướng",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/θrɪld/"
+  },
+  {
+    "number": 19,
+    "word": "athletic",
+    "definition": "khỏe mạnh, (thuộc) điền kinh/thể thao",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/æθˈlet.ɪk/"
+  },
+  {
+    "number": 20,
+    "word": "Nutritious",
+    "definition": "(có chất) dinh dưỡng, bổ dưỡng",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/njuːˈtrɪʃ.əs/"
+  },
+  {
+    "number": 21,
+    "word": "run low",
+    "definition": "thiếu hụt",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/rʌn/ /ləʊ/"
+  },
+  {
+    "number": 22,
+    "word": "Introduce",
+    "definition": "giới thiệu",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ˌɪn.trəˈdʒuːs/"
+  },
+  {
+    "number": 23,
+    "word": "fit",
+    "definition": "phù hợp, vừa vặn",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/fɪt/"
+  },
+  {
+    "number": 24,
+    "word": "Comfortable",
+    "definition": "thoải mái",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/kʌm.fə.tə.bəl/"
+  },
+  {
+    "number": 25,
+    "word": "Honor",
+    "definition": "thể hiện sự kính trọng, tôn vinh, danh dự, sự kính trọng",
+    "partOfSpeech": "(v)(n)",
+    "pronunciation": "/'ɒn.ər/ (UK), /'ɑː.nər/ (US)"
+  },
+  {
+    "number": 26,
+    "word": "career",
+    "definition": "công việc, sự nghiệp",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/kə'rɪər/"
+  },
+  {
+    "number": 27,
+    "word": "Vote",
+    "definition": "bầu, bỏ phiếu, sự bỏ phiếu, hình chọn, lá phiếu",
+    "partOfSpeech": "(v)(n)",
+    "pronunciation": "/vəʊt/ (UK), /voʊt/ (US)"
+  },
+  {
+    "number": 28,
+    "word": "forecast",
+    "definition": "dự báo, (sự) dự báo",
+    "partOfSpeech": "(v)(n)",
+    "pronunciation": "/'fɔː.kɑːst/ (UK), /'fɔːr.kæst/ (US)"
+  },
+  {
+    "number": 29,
+    "word": "high-quality",
+    "definition": "chất lượng cao",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ˌhaɪˈkwɒl.ə.ti/ (UK), /ˌhaɪˈkwɑː.lə.ti/ (US)"
+  },
+  {
+    "number": 30,
+    "word": "feel free to",
+    "definition": "cứ tự nhiên, thoải mái",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/fiːl friː tuː/"
+  },
+  {
+    "number": 31,
+    "word": "match",
+    "definition": "phù hợp, vinh được, trận đấu",
+    "partOfSpeech": "(v)(n)",
+    "pronunciation": "/mætʃ/"
+  },
+  {
+    "number": 32,
+    "word": "Innovative",
+    "definition": "(có tính) đổi mới, sáng tạo",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'ɪn.ə.və.tɪv/"
+  },
+  {
+    "number": 33,
+    "word": "Market",
+    "definition": "bán (ở chợ, thị trường), chợ, thị trường",
+    "partOfSpeech": "(v)(n)",
+    "pronunciation": "/'mɑː.kɪt/ (UK), /'mɑːr.kɪt/ (US)"
+  },
+  {
+    "number": 34,
+    "word": "Fund",
+    "definition": "quỹ (năm), cấp tiền, tài trợ",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/fʌnd/"
+  },
+  {
+    "number": 35,
+    "word": "Discount",
+    "definition": "tiền giảm giá, chiết khấu, giảm giá, chiết khấu",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/'diskaʊnt/"
+  },
+  {
+    "number": 36,
+    "word": "Reminder",
+    "definition": "lời, giấy nhắc nhở",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ri'main.dər/"
+  },
+  {
+    "number": 37,
+    "word": "Private",
+    "definition": "riêng tư, cá nhân",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'praɪ.vət/"
+  },
+  {
+    "number": 38,
+    "word": "Explain",
+    "definition": "giải thích",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ɪk'spleɪn/"
+  },
+  {
+    "number": 39,
+    "word": "favorable",
+    "definition": "thuận lợi, tán thành",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'feɪ.vər.ə.bəl/"
+  },
+  {
+    "number": 40,
+    "word": "Inspire",
+    "definition": "truyền cảm hứng",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ɪn'spaɪər (UK), /ɪn'spaɪr/ (US)"
+  },
+  {
+    "number": 41,
+    "word": "look forward to",
+    "definition": "trông mong",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/lʊk/ /'fɔː.wəd/ /tu/"
+  },
+  {
+    "number": 42,
+    "word": "keynote",
+    "definition": "chính, chủ đạo",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'ki:.nout/"
+  },
+  {
+    "number": 43,
+    "word": "Announcement",
+    "definition": "(bản) thông báo",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ə'nauns.mənt/"
+  },
+  {
+    "number": 44,
+    "word": "take time",
+    "definition": "dành thời gian, mất, tốn thời gian",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/teik/ /taim/"
+  },
+  {
+    "number": 45,
+    "word": "Renowned",
+    "definition": "nổi tiếng, lừng danh",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/rɪ'naʊnd/, /'ren.aʊnd/, /'ren.əʊnd/"
+  },
+  {
+    "number": 46,
+    "word": "in case",
+    "definition": "phòng khi",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/ɪn/ /keɪs/"
+  },
+  {
+    "number": 47,
+    "word": "list",
+    "definition": "danh sách, liệt kê",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/lɪst/"
+  },
+  {
+    "number": 48,
+    "word": "Fair",
+    "definition": "hội chợ, công bằng, ngay thẳng",
+    "partOfSpeech": "(n) (a)",
+    "pronunciation": "/feər/ (UK), /fer/ (US)"
+  },
+  {
+    "number": 49,
+    "word": "Furnishings",
+    "definition": "đồ đạc, đồ dùng trong nhà",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'fɜː.nɪ.dʒɪŋz/ (UK), /'fɜːr.nɪ.dʒɪŋz/ (US)"
+  },
+  {
+    "number": 50,
+    "word": "Device",
+    "definition": "thiết bị, dụng cụ",
+    "partOfSpeech": "n",
+    "pronunciation": "/dɪˈvaɪs/ /ˈɡædʒɪt/"
+  },
+  {
+    "number": 51,
+    "word": "Slippery",
+    "definition": "trơn",
+    "partOfSpeech": "a",
+    "pronunciation": "/ˈslɪp.ər.i/"
+  }
+]

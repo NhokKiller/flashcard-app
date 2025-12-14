@@ -1,0 +1,352 @@
+[
+  {
+    "number": 1,
+    "word": "Refreshments",
+    "definition": "đồ ăn, thức uống (nhẹ)",
+    "partOfSpeech": "n",
+    "pronunciation": "/riˈfref.mənt/"
+  },
+  {
+    "number": 2,
+    "word": "Loyal",
+    "definition": "trung thành",
+    "partOfSpeech": "a",
+    "pronunciation": "/'lɔɪ.əl/"
+  },
+  {
+    "number": 3,
+    "word": "Accurate",
+    "definition": "chính xác",
+    "partOfSpeech": "a",
+    "pronunciation": "/ˈæk.jə.rət/"
+  },
+  {
+    "number": 4,
+    "word": "Enthusiastic",
+    "definition": "hăng hái, nhiệt tình",
+    "partOfSpeech": "a",
+    "pronunciation": "/ɪnˌθjuː.ziˈæs.tɪk/"
+  },
+  {
+    "number": 5,
+    "word": "Attention",
+    "definition": "sự chú ý",
+    "partOfSpeech": "n",
+    "pronunciation": "/əˈten.ʃən/"
+  },
+  {
+    "number": 6,
+    "word": "host",
+    "definition": "đăng cai, dẫn chương trình, người dẫn chương trình",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/həʊst/ (UK), /hoʊst/ (US)"
+  },
+  {
+    "number": 7,
+    "word": "Broadcast",
+    "definition": "phát thanh, phát sóng, chương trình phát thanh, truyền hình",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/brɔːd.kɑːst/ (UK), /brɑːd.kæst/ (US)"
+  },
+  {
+    "number": 8,
+    "word": "Construction",
+    "definition": "sự xây dựng, thi công",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/kənˈstrʌk.ʃən/"
+  },
+  {
+    "number": 9,
+    "word": "Outdated",
+    "definition": "lỗi thời, lạc hậu",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ˌaʊtˈdeɪ.tɪd/, /ˌoʊldˈfæʃ.ənd/"
+  },
+  {
+    "number": 10,
+    "word": "mark",
+    "definition": "đánh dấu (cột mốc), đánh dấu, ghi chú",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/mɑːk/ (UK), /mɑːrk/ (US)"
+  },
+  {
+    "number": 11,
+    "word": "Remarkable",
+    "definition": "đáng kể, xuất sắc",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/rɪˈmɑː.kə.bəl/ (UK), /rɪˈmɑːr.kə.bəl/ (US)"
+  },
+  {
+    "number": 12,
+    "word": "Reward",
+    "definition": "thưởng (công), đền đáp, phần thưởng",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/rɪˈwɔːd/ (UK), /rɪˈwɔːrd/ (US)"
+  },
+  {
+    "number": 13,
+    "word": "organization",
+    "definition": "tổ chức, cơ quan",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˌɔː.ɡən.aɪˈzeɪ.ʃən/ (UK), /ˌɔːr.ɡə.nəˈzeɪ.ʃən/ (US)"
+  },
+  {
+    "number": 14,
+    "word": "Note",
+    "definition": "lưu ý, ghi nhớ, ghi lại, chú thích",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/nəʊt/ (UK), /noʊt/ (US)"
+  },
+  {
+    "number": 15,
+    "word": "Talented",
+    "definition": "có tài, năng khiếu",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'tæl.ən.tɪd/"
+  },
+  {
+    "number": 16,
+    "word": "demonstration",
+    "definition": "sự chứng minh, trình diễn",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˌdem.ən.'streɪ.ʃən/"
+  },
+  {
+    "number": 17,
+    "word": "award",
+    "definition": "giải thưởng, trao tặng, thưởng",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/əˈwɔːd/ (UK), /ɔːˈwɔːrd/ (US)"
+  },
+  {
+    "number": 18,
+    "word": "Applause",
+    "definition": "tiếng vỗ tay, sự tán thưởng",
+    "partOfSpeech": "n",
+    "pronunciation": "/əˈplɔːz/ (UK), /əˈplɑːz/ (US)"
+  },
+  {
+    "number": 19,
+    "word": "Recognize",
+    "definition": "công nhận, nhận ra",
+    "partOfSpeech": "v",
+    "pronunciation": "/ˈrek.əɡ.naɪz/"
+  },
+  {
+    "number": 20,
+    "word": "Concern",
+    "definition": "sự lo âu, mối bận tâm, làm (ai) bận khoăn, lo âu",
+    "partOfSpeech": "n, v",
+    "pronunciation": "/kənˈsɜːn/ (UK), /kənˈsɝːn/ (US)"
+  },
+  {
+    "number": 21,
+    "word": "Comprehensive",
+    "definition": "toàn diện, đầy đủ",
+    "partOfSpeech": "a",
+    "pronunciation": "/ˌkɒm.prɪˈhen.sɪv/ (UK), /ˌkɑːm.prəˈhen.sɪv/ (US)"
+  },
+  {
+    "number": 22,
+    "word": "Contain",
+    "definition": "chứa đựng, bao gồm",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/kən'tein/"
+  },
+  {
+    "number": 23,
+    "word": "prestigious",
+    "definition": "uy tín, danh tiếng",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/pres'tɪdʒ.əs/"
+  },
+  {
+    "number": 24,
+    "word": "Patron",
+    "definition": "khách hàng quen",
+    "partOfSpeech": "(n) = customer, client",
+    "pronunciation": "/'pei.trən/ = /'kæs.tə.mər/, /'klai.ənt/"
+  },
+  {
+    "number": 25,
+    "word": "culinary",
+    "definition": "(thuộc) ẩm thực",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'kʌl.ɪ.nər.i/"
+  },
+  {
+    "number": 26,
+    "word": "Discuss",
+    "definition": "bàn bạc, thảo luận",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/dɪ'skʌs/"
+  },
+  {
+    "number": 27,
+    "word": "Smoothly",
+    "definition": "một cách trôi chảy, suôn sẻ",
+    "partOfSpeech": "(adv)",
+    "pronunciation": "/'smu:.ð.li/"
+  },
+  {
+    "number": 28,
+    "word": "Remind",
+    "definition": "nhắc nhở, gợi nhớ",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ri'maind/"
+  },
+  {
+    "number": 29,
+    "word": "Feature",
+    "definition": "đặc điểm, tính năng, có (ai) đóng vai chính, khắc họa, bao gồm",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/'fi:.tʃə(r)/ (UK), /'fi:.tʃər/ (US)"
+  },
+  {
+    "number": 30,
+    "word": "Hesitate",
+    "definition": "do dự, ngập ngừng",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/'hez.i.teit/"
+  },
+  {
+    "number": 31,
+    "word": "Practical",
+    "definition": "thực tế, thiết thực",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'præk.ti.kəl/"
+  },
+  {
+    "number": 32,
+    "word": "Task",
+    "definition": "nhiệm vụ, bài tập, giao việc",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/tɑ:sk/"
+  },
+  {
+    "number": 33,
+    "word": "Outgoing",
+    "definition": "sắp thôi việc, mãn nhiệm kỳ, đi ra, thân thiện, hướng ngoại",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ˌaʊtˈɡoʊ.ɪŋ/"
+  },
+  {
+    "number": 34,
+    "word": "anniversary",
+    "definition": "lễ kỷ niệm",
+    "partOfSpeech": "n",
+    "pronunciation": "(n) /ˌæn.ɪˈvɜː.sər.i/ (UK), /ˌæn.ɪˈvɝː.sər.i/ (US)"
+  },
+  {
+    "number": 35,
+    "word": "Alternative",
+    "definition": "sự lựa chọn, thay thế, khác, thay thế",
+    "partOfSpeech": "n, a",
+    "pronunciation": "(n) (a) /ɒlˈtɜː.nə.tɪv/ (UK), /ɒlˈtɝː.nə.tɪv/ (US)"
+  },
+  {
+    "number": 36,
+    "word": "Highlight",
+    "definition": "nhấn mạnh, nêu bật, phần tiêu biểu, trọng tâm",
+    "partOfSpeech": "v, a",
+    "pronunciation": "(v) (a) = emphasize /ˈhaɪ.laɪt/ /ˈem.fə.saɪz/"
+  },
+  {
+    "number": 37,
+    "word": "Attendee",
+    "definition": "người tham dự",
+    "partOfSpeech": "n",
+    "pronunciation": "(n) /ə.tenˈdiː/"
+  },
+  {
+    "number": 38,
+    "word": "Reputation",
+    "definition": "sự nổi tiếng, danh tiếng",
+    "partOfSpeech": "n",
+    "pronunciation": "/rep.jəˈteɪ.ʃən/ /feɪm/"
+  },
+  {
+    "number": 39,
+    "word": "Volunteer",
+    "definition": "tình nguyện, tình nguyện viên",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/ˌvɒl.ənˈtɪə(r)/ (UK), /ˌvɑː.lənˈtɪr/ (US)"
+  },
+  {
+    "number": 40,
+    "word": "share",
+    "definition": "chia sẻ, chia đều, phần (góp), cổ phiếu",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/ʃeə(r)/ (UK), /ʃer/ (US)"
+  },
+  {
+    "number": 41,
+    "word": "Permit",
+    "definition": "cho phép, giấy phép",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/pəˈmɪt/"
+  },
+  {
+    "number": 42,
+    "word": "Last",
+    "definition": "kéo dài, tồn tại, cuối cùng, vừa qua",
+    "partOfSpeech": "(v) (a)",
+    "pronunciation": "/lɑːst/ (UK), /læst/ (US)"
+  },
+  {
+    "number": 43,
+    "word": "Retail",
+    "definition": "việc bán lẻ, bán lẻ",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/'riː.teil/"
+  },
+  {
+    "number": 44,
+    "word": "tune",
+    "definition": "thay đổi, điều chỉnh (kênh)",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/tjuːn/"
+  },
+  {
+    "number": 45,
+    "word": "report",
+    "definition": "báo cáo, tường thuật, bản báo cáo, biên bản, trình diện, gặp",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/rɪˈpɔːt/ (UK), /rɪˈpɔːrt/ (US)"
+  },
+  {
+    "number": 46,
+    "word": "Representative",
+    "definition": "đại diện, người đại diện",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/rep.ri'zen.tə.tiv/"
+  },
+  {
+    "number": 47,
+    "word": "Direct",
+    "definition": "chỉ đường, hướng dẫn, thẳng, trực tiếp, làm đạo diễn",
+    "partOfSpeech": "(v) (a) / indirect; gián tiếp / (adv) trực tiếp",
+    "pronunciation": "/di'rekt/ /di.da'rekt/"
+  },
+  {
+    "number": 48,
+    "word": "proceed to",
+    "definition": "đi đến, tiếp tục",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/prə'si:d/ /tu:/"
+  },
+  {
+    "number": 49,
+    "word": "souvenir",
+    "definition": "quà lưu niệm",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/su:.və'niə (r)/ (UK), /su:.vən'iər/ (US)"
+  },
+  {
+    "number": 50,
+    "word": "get back to",
+    "definition": "gọi lại, phản hồi, quay lại, trở về",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/get/ /bæk/ /tu:/"
+  }
+]

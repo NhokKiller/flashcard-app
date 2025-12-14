@@ -1,0 +1,345 @@
+[
+  {
+    "number": 1,
+    "word": "Support",
+    "definition": "sự ủng hộ, hỗ trợ, ủng hộ, hỗ trợ",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/sə'pɔ:t/ (UK), /sə'pɔ:rt/ (US)"
+  },
+  {
+    "number": 2,
+    "word": "Continue",
+    "definition": "tiếp tục, làm tiếp",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/kən'tɪn.ju:/"
+  },
+  {
+    "number": 3,
+    "word": "extraordinary",
+    "definition": "phi thường",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ɪk'strɔ:dɪn.ər.i/ /ɪk'strɑ:dən.er.i/"
+  },
+  {
+    "number": 4,
+    "word": "warehouse",
+    "definition": "kho (hàng, chứa đồ)",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'weə.haʊs/ (UK), /'wer.haʊs/ (US)"
+  },
+  {
+    "number": 5,
+    "word": "payroll",
+    "definition": "bảng lương, lương bổng",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'peɪ.rəʊl/ (UK), /'peɪ.roʊl/ (US)"
+  },
+  {
+    "number": 6,
+    "word": "need",
+    "definition": "sự cần thiết, nhu cầu (v): cần (phải)",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ni:d/"
+  },
+  {
+    "number": 7,
+    "word": "Renovation",
+    "definition": "sự cải tạo, sửa chữa",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ren.ə'veɪ.ʃən/"
+  },
+  {
+    "number": 8,
+    "word": "sample",
+    "definition": "mẫu vật, hàng mẫu, lấy mẫu, thử",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/'sɑ:m.pəl/"
+  },
+  {
+    "number": 9,
+    "word": "Historic",
+    "definition": "nổi tiếng, có thật, quan trọng trong lịch sử",
+    "partOfSpeech": "(a)",
+    "pronunciation": "(a) /hɪˈstɒr.ɪk/ (UK), /hɪˈstɔːr.ɪk/ (US)"
+  },
+  {
+    "number": 10,
+    "word": "in advance",
+    "definition": "trước",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "(phr) /ɪn/ ədˈvɑːns/ (UK), /ɪn/ ədˈvæns/ (US)"
+  },
+  {
+    "number": 11,
+    "word": "Merger",
+    "definition": "việc sáp nhập",
+    "partOfSpeech": "(n)",
+    "pronunciation": "(n) /ˈmɜː.dʒər/ (UK), /ˈmɝː.dʒɚ/ (US)"
+  },
+  {
+    "number": 12,
+    "word": "Administrative",
+    "definition": "hành chính",
+    "partOfSpeech": "(a)",
+    "pronunciation": "(a) /ədˈmɪn.ɪ.strə.tɪv/"
+  },
+  {
+    "number": 13,
+    "word": "Agency",
+    "definition": "đại lý, cơ quan",
+    "partOfSpeech": "(n)",
+    "pronunciation": "(n) /ˈeɪ.dʒən.si/"
+  },
+  {
+    "number": 14,
+    "word": "Successful",
+    "definition": "thành công",
+    "partOfSpeech": "(a)",
+    "pronunciation": "(a) /səkˈses.fəl/"
+  },
+  {
+    "number": 15,
+    "word": "upgrade",
+    "definition": "nâng cấp, cải tạo, sự nâng cấp, cải tiến",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "(v) (n) /ˈʌp.ɡreɪd/"
+  },
+  {
+    "number": 16,
+    "word": "Total",
+    "definition": "hoàn toàn, toàn bộ, tổng cộng, cộng lại, lên tới",
+    "partOfSpeech": "(a) (n) (v)",
+    "pronunciation": "/'təʊ.təl/ (UK), /'toʊ.təl/ (US)"
+  },
+  {
+    "number": 17,
+    "word": "Various",
+    "definition": "khác nhau, đa dạng",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'veə.ri.əs/ (UK), /'ver.i.əs/ (US)"
+  },
+  {
+    "number": 18,
+    "word": "Spend",
+    "definition": "chi tiêu (tiền), dành (thời gian)",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/spend/"
+  },
+  {
+    "number": 19,
+    "word": "apprentice",
+    "definition": "người học việc, tập sự",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ə'pren.tɪs/"
+  },
+  {
+    "number": 20,
+    "word": "figure",
+    "definition": "số liệu, nhân vật",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'fɪg.ər/"
+  },
+  {
+    "number": 21,
+    "word": "Research",
+    "definition": "nghiên cứu",
+    "partOfSpeech": "(on) (n, v)",
+    "pronunciation": "/rɪ'sɜːtʃ/"
+  },
+  {
+    "number": 22,
+    "word": "Pleasure",
+    "definition": "niềm vui thích, sự hân hạnh",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'pleʒ.ər/"
+  },
+  {
+    "number": 23,
+    "word": "drop",
+    "definition": "rơi, giảm xuống, giọt",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/drɒp/ (UK), /drɑːp/ (US)"
+  },
+  {
+    "number": 24,
+    "word": "Track",
+    "definition": "theo dõi, truy tìm, dấu vết, đường ray tàu hỏa",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/træk/ /tress/"
+  },
+  {
+    "number": 25,
+    "word": "Generous",
+    "definition": "hào phóng, cao thượng",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'dʒen.ər.əs/"
+  },
+  {
+    "number": 26,
+    "word": "treat",
+    "definition": "sự đối đãi, đối xử, thiết đãi, điều trị",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/triːt/"
+  },
+  {
+    "number": 27,
+    "word": "Negative",
+    "definition": "tiêu cực",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'neg.ə.tɪv/"
+  },
+  {
+    "number": 28,
+    "word": "Train",
+    "definition": "đào tạo, huấn luyện",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/treɪn/"
+  },
+  {
+    "number": 29,
+    "word": "Familiar",
+    "definition": "hiểu rõ, quen thuộc",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/fəˈmɪl.i.ər/"
+  },
+  {
+    "number": 30,
+    "word": "Explore",
+    "definition": "khám phá, thám hiểm, nghiên cứu",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ɪkˈsplɔːr/ (UK), /ɪkˈsplɔːr/ (US)"
+  },
+  {
+    "number": 31,
+    "word": "keep in mind",
+    "definition": "ghi nhớ",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/kiːp/ /ɪn/ /maɪnd/"
+  },
+  {
+    "number": 32,
+    "word": "Inexpensive",
+    "definition": "không đắt, rẻ",
+    "partOfSpeech": "a",
+    "pronunciation": "(a) /ˌɪn.ɪkˈspen.sɪv/"
+  },
+  {
+    "number": 33,
+    "word": "Seating",
+    "definition": "chỗ ngồi",
+    "partOfSpeech": "n",
+    "pronunciation": "(n) /ˈsiː.tɪŋ/"
+  },
+  {
+    "number": 34,
+    "word": "take place",
+    "definition": "diễn ra",
+    "partOfSpeech": "phr",
+    "pronunciation": "(phr) /teɪk/ /pleɪs/"
+  },
+  {
+    "number": 35,
+    "word": "Priority",
+    "definition": "sự ưu thế, quyền ưu tiên",
+    "partOfSpeech": "n",
+    "pronunciation": "(n) /praɪˈɒr.ə.ti/ (UK), /ˈpraɪˈɔːr.ə.t̬i/ (US)"
+  },
+  {
+    "number": 36,
+    "word": "Grateful",
+    "definition": "biết ơn",
+    "partOfSpeech": "a",
+    "pronunciation": "(to sb for sth) (a) /ˈɡreɪt.fəl/"
+  },
+  {
+    "number": 37,
+    "word": "District",
+    "definition": "quận, khu vực",
+    "partOfSpeech": "n",
+    "pronunciation": "District (n) – area /'dɪs.trɪkt/ /'eə.ri.ə/"
+  },
+  {
+    "number": 38,
+    "word": "Congratulate",
+    "definition": "chúc mừng",
+    "partOfSpeech": "v",
+    "pronunciation": "(sb on sth) (v) /kənˈɡrætʃ.ə.leɪt/"
+  },
+  {
+    "number": 39,
+    "word": "audience",
+    "definition": "khán giả, thính giả",
+    "partOfSpeech": "n",
+    "pronunciation": "(n) /ˈɔː.di.əns/ (UK) /ˌˈɑː.di.əns/ (US)"
+  },
+  {
+    "number": 40,
+    "word": "Competition",
+    "definition": "cuộc thi, sự cạnh tranh",
+    "partOfSpeech": "n",
+    "pronunciation": "(n) /ˌkɒm.pəˈtɪʃ.ən/ (UK), /ˌkɑːm.pəˈtɪʃ.ən/ (US)"
+  },
+  {
+    "number": 41,
+    "word": "recall",
+    "definition": "gợi về, thu hồi, sự gợi về, thu hồi",
+    "partOfSpeech": "v (n)",
+    "pronunciation": "(v) (n) /rɪˈkɔːl/ (UK), /rɪˈkɑːl/ (US)"
+  },
+  {
+    "number": 43,
+    "word": "intact",
+    "definition": "nguyên vẹn, không bị tổn hại",
+    "partOfSpeech": "(a)",
+    "pronunciation": "(a) /ɪnˈtækt/"
+  },
+  {
+    "number": 44,
+    "word": "leadership",
+    "definition": "cương vị lãnh nđạo/sự lãnh đạo",
+    "partOfSpeech": "(n)",
+    "pronunciation": "(n) /ˈliː.dɚ.ʃɪp/"
+  },
+  {
+    "number": 45,
+    "word": "break",
+    "definition": "giờ nghỉ, làm gián đoạn, phá, vỡ nứt",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "(n) (v) /breɪk/"
+  },
+  {
+    "number": 46,
+    "word": "Moment",
+    "definition": "một lát, thời điểm",
+    "partOfSpeech": "(n)",
+    "pronunciation": "(n) /ˈmoʊ.mənt/ (UK), /ˈmoʊ.mənt/ (US)"
+  },
+  {
+    "number": 47,
+    "word": "Limited",
+    "definition": "hạn chế, có giới hạn",
+    "partOfSpeech": "(a)",
+    "pronunciation": "(a) /ˈlɪm.ɪtɪd/"
+  },
+  {
+    "number": 48,
+    "word": "Individual",
+    "definition": "người, cá nhân, cá nhân, riêng lẻ",
+    "partOfSpeech": "(n) (a)",
+    "pronunciation": "(n) (a) /.ɪn.dɪˈvɪdʒ.u.əl/"
+  },
+  {
+    "number": 49,
+    "word": "Resident",
+    "definition": "cư dân",
+    "partOfSpeech": "n",
+    "pronunciation": "/'rez.i.dənt/"
+  },
+  {
+    "number": 50,
+    "word": "Belongings",
+    "definition": "đồ dùng cá nhân",
+    "partOfSpeech": "n",
+    "pronunciation": "/bɪˈlɒŋ.ɪŋz/"
+  }
+]

@@ -1,0 +1,353 @@
+[
+  {
+    "number": 1,
+    "word": "interested",
+    "definition": "quan tâm, thích thú",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'ɪn.trə.stɪd/"
+  },
+  {
+    "number": 2,
+    "word": "property",
+    "definition": "tài sản, bất động sản",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'prɒp.ə.ti/ (UK), /'prɑː.pə.ti/ (US)"
+  },
+  {
+    "number": 3,
+    "word": "out of town",
+    "definition": "đi khỏi, bên ngoài thành phố",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/aʊt/ /əv/ /taʊn/"
+  },
+  {
+    "number": 4,
+    "word": "Lack",
+    "definition": "thiếu, không có, (sự) thiếu",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/læk/"
+  },
+  {
+    "number": 5,
+    "word": "management",
+    "definition": "ban quản lý, sự quản lý, kiểm soát",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'mæn.ɪdʒ.mənt/"
+  },
+  {
+    "number": 6,
+    "word": "advertisement",
+    "definition": "quảng cáo",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ədˈvɜː.tɪs.mənt/"
+  },
+  {
+    "number": 7,
+    "word": "Apply",
+    "definition": "xin, ứng tuyển",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/əˈplaɪ/"
+  },
+  {
+    "number": 8,
+    "word": "edition",
+    "definition": "ấn bản, phiên bản",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ɪˈdɪʃ.ən/"
+  },
+  {
+    "number": 9,
+    "word": "luncheon",
+    "definition": "tiệc trưa",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/ˈlʌn.tʃən/"
+  },
+  {
+    "number": 10,
+    "word": "last-minute",
+    "definition": "phút cuối, phút chót",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/la:st 'mɪn.ɪt/"
+  },
+  {
+    "number": 11,
+    "word": "a couple of",
+    "definition": "một số, một vài",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/ə 'kʌp.əl.əv/"
+  },
+  {
+    "number": 12,
+    "word": "maintenance",
+    "definition": "sự duy trì, bảo trì",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'meɪn.tən.əns/"
+  },
+  {
+    "number": 13,
+    "word": "estimate",
+    "definition": "sự ước tính, ước tính",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/'es.tɪ.meɪt/"
+  },
+  {
+    "number": 14,
+    "word": "hire",
+    "definition": "thuê, mướn, sự cho thuê",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/haɪər/ /ɪm'plɔɪ/ /rɪ'kru:t/"
+  },
+  {
+    "number": 15,
+    "word": "detail",
+    "definition": "chi tiết, kể chi tiết; tỉ mỉ",
+    "partOfSpeech": "n, a",
+    "pronunciation": "/'di:.teil/"
+  },
+  {
+    "number": 16,
+    "word": "fee",
+    "definition": "thù lao, lệ phí",
+    "partOfSpeech": "n",
+    "pronunciation": "/fi:/"
+  },
+  {
+    "number": 17,
+    "word": "Negotiate",
+    "definition": "đàm phán, thương lượng",
+    "partOfSpeech": "v",
+    "pronunciation": "/nəˈgəʊ.ʃi.eɪt/ (UK), /nəˈgoʊ.ʃi.eɪt/ (US)"
+  },
+  {
+    "number": 18,
+    "word": "collection",
+    "definition": "bộ sưu tập, sự thu gom",
+    "partOfSpeech": "n",
+    "pronunciation": "/kəˈlek.ʃən/"
+  },
+  {
+    "number": 19,
+    "word": "layout",
+    "definition": "sơ đồ, bản thiết kế",
+    "partOfSpeech": "n",
+    "pronunciation": "/'lei.aʊt/"
+  },
+  {
+    "number": 20,
+    "word": "attend",
+    "definition": "participate in (v); tham gia",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/əˈtend/"
+  },
+  {
+    "number": 21,
+    "word": "payment",
+    "definition": "số tiền, sự thanh toán",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈpeɪ.mənt/"
+  },
+  {
+    "number": 22,
+    "word": "influence",
+    "definition": "ảnh hưởng, tác động, sự ảnh hưởng",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈɪn.flu.əns/"
+  },
+  {
+    "number": 23,
+    "word": "Error",
+    "definition": "sai sót, lỗi",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈer.ə(r)/ (UK), /ˈer.ər/ (US)"
+  },
+  {
+    "number": 24,
+    "word": "register",
+    "definition": "đăng ký, máy tính tiền (= cash register)",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/ˈredʒ.ɪ.stər/"
+  },
+  {
+    "number": 25,
+    "word": "routine",
+    "definition": "lộ trình, lề thói, việc thường ngày",
+    "partOfSpeech": "(a) (n)",
+    "pronunciation": "/ruːˈtiːn/"
+  },
+  {
+    "number": 26,
+    "word": "originally",
+    "definition": "ban đầu, trước tiên",
+    "partOfSpeech": "(adv)",
+    "pronunciation": "/əˈrɪdʒ.ən.əl.i/"
+  },
+  {
+    "number": 27,
+    "word": "sold out",
+    "definition": "(đã) bán hết",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/səʊld/ /aʊt/"
+  },
+  {
+    "number": 28,
+    "word": "Select",
+    "definition": "lựa chọn",
+    "partOfSpeech": "(v) (a)",
+    "pronunciation": "/sɪˈlekt/"
+  },
+ 
+  {
+    "number": 29,
+    "word": "develop",
+    "definition": "phát triển",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/dɪˈvel.əp/"
+  },
+  {
+    "number": 30,
+    "word": "progress",
+    "definition": "sự tiến triển, đi lên, tiến bộ, phát triển",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/ˈprəʊ.ɡres/ (UK), /ˈprɑː.ɡres/ (US)"
+  },
+  {
+    "number": 31,
+    "word": "later",
+    "definition": "sau (này), sau đó, muộn hơn",
+    "partOfSpeech": "(adv) (a)",
+    "pronunciation": "/ˈleɪ.tər/"
+  },
+  {
+    "number": 32,
+    "word": "lay off",
+    "definition": "đuổi việc, sa thải",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/ˈleɪ.ɒf/ (UK), /ˈleɪ.ɑːf/ (US)"
+  },
+  {
+    "number": 33,
+    "word": "Missing",
+    "definition": "mất, thiếu",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ˈmɪs.ɪŋ/"
+  },
+  {
+    "number": 34,
+    "word": "Manufacturer",
+    "definition": "nhà, hãng sản xuất",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˌmæn.jəˈfæk.tʃər.ə(r)/ (UK), /ˌmæn.jəˈfæk.tʃər.ər/ (US)"
+  },
+  {
+    "number": 35,
+    "word": "tenant",
+    "definition": "người thuê, mướn (nhà/đất)",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'ten.ənt/"
+  },
+  {
+    "number": 36,
+    "word": "flexible",
+    "definition": "linh hoạt",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'flek.sə.bəl/"
+  },
+  {
+    "number": 37,
+    "word": "calculate",
+    "definition": "tính toán",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/'kæl.kjə.leɪt/"
+  },
+  {
+    "number": 38,
+    "word": "attract",
+    "definition": "thu hút, hấp dẫn",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ə'trækt/"
+  },
+  {
+    "number": 39,
+    "word": "deposit",
+    "definition": "gửi tiền (tiết kiệm), đặt cọc, khoản tiền gửi, tiền đặt cọc",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/dɪ'pɒz.ɪt/"
+  },
+  {
+    "number": 40,
+    "word": "Fascinating",
+    "definition": "hấp dẫn, thú vị",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'fæs.ən.eɪ.tɪŋ/"
+  },
+  {
+    "number": 41,
+    "word": "leak",
+    "definition": "lỗ thủng, khe hở, rò rỉ, lọt ra",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/li:k/"
+  },
+  {
+    "number": 42,
+    "word": "Terrific",
+    "definition": "xuất sắc, tuyệt vời",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/təˈrɪf.ɪk/"
+  },
+  {
+    "number": 43,
+    "word": "electronically",
+    "definition": "bằng điện tử, qua máy tính",
+    "partOfSpeech": "(adv)",
+    "pronunciation": "/ˌel.ekˈtrɒn.ɪkəl.i/"
+  },
+  {
+    "number": 44,
+    "word": "overcharge",
+    "definition": "tính giá/phí quá cao",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ˌəʊ.vəˈtʃɑːdʒ/ (UK), /ˌoʊ.vɚˈtʃɑːrdʒ/ (US)"
+  },
+  {
+    "number": 45,
+    "word": "Catering",
+    "definition": "sự phục vụ tiệc, cung cấp thực phẩm",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈkeɪ.tər.ɪŋ/"
+  },
+  {
+    "number": 46,
+    "word": "rush",
+    "definition": "vội vã, gấp rút, sự vội vàng, gấp rút",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/rʌʃ/"
+  },
+  {
+    "number": 47,
+    "word": "cancel",
+    "definition": "hủy bỏ",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/'kæn.səl/"
+  },
+  {
+    "number": 48,
+    "word": "refundable",
+    "definition": "có thể hoàn tiền",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ri:'fʌn.də.bəl/"
+  },
+  {
+    "number": 49,
+    "word": "charity",
+    "definition": "từ thiện",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'tʃær.ə.ti/"
+  },
+  {
+    "number": 50,
+    "word": "mix-up",
+    "definition": "(tình trạng) lộn xộn, hỗn loạn, nhầm lẫn",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/'mɪks.ʌp/"
+  }
+]
