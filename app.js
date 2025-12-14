@@ -91,16 +91,91 @@ const elements = {
 async function init() {
     loadFromLocalStorage();
     loadBatchCounter();
+    loadLoadedJsonFiles();
 
-    // Load default vocabulary if no flashcards exist
-    if (flashcards.length === 0) {
-        await loadDefaultVocabulary();
-    }
+    // Always check for new JSON files
+    await loadNewJsonFiles();
 
     setupEventListeners();
     updateCategoryFilter();
     renderFlashcards();
     updateStats();
+}
+
+// Track which JSON files have been loaded
+let loadedJsonFiles = [];
+
+function loadLoadedJsonFiles() {
+    const saved = localStorage.getItem('loadedJsonFiles');
+    if (saved) loadedJsonFiles = JSON.parse(saved);
+}
+
+function saveLoadedJsonFiles() {
+    localStorage.setItem('loadedJsonFiles', JSON.stringify(loadedJsonFiles));
+}
+
+// Load only NEW JSON files that haven't been loaded before
+async function loadNewJsonFiles() {
+    try {
+        const indexResponse = await fetch('JSON/index.json');
+        if (!indexResponse.ok) return;
+
+        const indexData = await indexResponse.json();
+        const jsonFiles = indexData.files || [];
+
+        // Find files that haven't been loaded yet
+        const newFiles = jsonFiles.filter(file => !loadedJsonFiles.includes(file));
+
+        if (newFiles.length === 0) {
+            console.log('No new JSON files to load');
+            return;
+        }
+
+        console.log(`Found ${newFiles.length} new JSON files to load:`, newFiles);
+        let totalAdded = 0;
+
+        for (const fileName of newFiles) {
+            try {
+                const response = await fetch(`JSON/${fileName}`);
+                if (!response.ok) continue;
+
+                const jsonData = await response.json();
+                if (!Array.isArray(jsonData) || jsonData.length === 0) continue;
+
+                // Increment batch counter
+                batchCounter++;
+                const currentBatch = batchCounter;
+
+                // Parse and create flashcards (skip duplicates)
+                const vocabularies = parseVocabularyFromJSON(jsonData);
+                let addedCount = 0;
+                vocabularies.forEach((vocab, index) => {
+                    if (!isWordDuplicate(vocab.word)) {
+                        createFlashcardFromVocabSilent(vocab, null, index, currentBatch);
+                        addedCount++;
+                    }
+                });
+
+                // Mark file as loaded
+                loadedJsonFiles.push(fileName);
+                totalAdded += addedCount;
+
+                console.log(`Loaded ${addedCount}/${vocabularies.length} words from ${fileName} as Batch ${currentBatch}`);
+            } catch (error) {
+                console.log(`Could not load ${fileName}:`, error.message);
+            }
+        }
+
+        // Save after loading
+        if (totalAdded > 0) {
+            saveToLocalStorage();
+            saveBatchCounter();
+            saveLoadedJsonFiles();
+            console.log(`✅ Total: Added ${totalAdded} new words from ${newFiles.length} files`);
+        }
+    } catch (error) {
+        console.log('Error loading new JSON files:', error.message);
+    }
 }
 
 // Load default vocabulary from JSON files
