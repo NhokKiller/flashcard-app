@@ -97,35 +97,52 @@ async function init() {
 
 // Load default vocabulary from JSON files
 async function loadDefaultVocabulary() {
-    const jsonFiles = ['1.json', '2.json', '3.json', '4.json', '5.json', '6.json', '7.json', '8.json', '9.json', '10.json', '11.json'];
-
-    for (let i = 0; i < jsonFiles.length; i++) {
-        try {
-            const response = await fetch(`JSON/${jsonFiles[i]}`);
-            if (!response.ok) continue;
-
-            const jsonData = await response.json();
-            if (!Array.isArray(jsonData) || jsonData.length === 0) continue;
-
-            // Increment batch counter
-            batchCounter++;
-            const currentBatch = batchCounter;
-
-            // Parse and create flashcards
-            const vocabularies = parseVocabularyFromJSON(jsonData);
-            vocabularies.forEach((vocab, index) => {
-                createFlashcardFromVocabSilent(vocab, null, index, currentBatch);
-            });
-
-            console.log(`Loaded ${vocabularies.length} words from ${jsonFiles[i]} as Batch ${currentBatch}`);
-        } catch (error) {
-            console.log(`Could not load ${jsonFiles[i]}:`, error.message);
+    try {
+        // Load list of JSON files from index.json
+        const indexResponse = await fetch('JSON/index.json');
+        if (!indexResponse.ok) {
+            console.log('Could not load JSON/index.json');
+            return;
         }
-    }
 
-    // Save after loading all defaults
-    saveToLocalStorage();
-    saveBatchCounter();
+        const indexData = await indexResponse.json();
+        const jsonFiles = indexData.files || [];
+
+        if (jsonFiles.length === 0) {
+            console.log('No JSON files listed in index.json');
+            return;
+        }
+
+        for (let i = 0; i < jsonFiles.length; i++) {
+            try {
+                const response = await fetch(`JSON/${jsonFiles[i]}`);
+                if (!response.ok) continue;
+
+                const jsonData = await response.json();
+                if (!Array.isArray(jsonData) || jsonData.length === 0) continue;
+
+                // Increment batch counter
+                batchCounter++;
+                const currentBatch = batchCounter;
+
+                // Parse and create flashcards
+                const vocabularies = parseVocabularyFromJSON(jsonData);
+                vocabularies.forEach((vocab, index) => {
+                    createFlashcardFromVocabSilent(vocab, null, index, currentBatch);
+                });
+
+                console.log(`Loaded ${vocabularies.length} words from ${jsonFiles[i]} as Batch ${currentBatch}`);
+            } catch (error) {
+                console.log(`Could not load ${jsonFiles[i]}:`, error.message);
+            }
+        }
+
+        // Save after loading all defaults
+        saveToLocalStorage();
+        saveBatchCounter();
+    } catch (error) {
+        console.log('Error loading default vocabulary:', error.message);
+    }
 }
 
 // Create flashcard without re-rendering (for bulk import)
