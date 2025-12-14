@@ -1,0 +1,554 @@
+[
+  {
+    "number": 1,
+    "word": "adjust",
+    "definition": "điều chỉnh",
+    "partOfSpeech": "V",
+    "pronunciation": "/ə'dzost/"
+  },
+  {
+    "number": 2,
+    "word": "hand",
+    "definition": "bàn tay/ đưa cho",
+    "partOfSpeech": "n/v",
+    "pronunciation": "/hænd/"
+  },
+  {
+    "number": 3,
+    "word": "fit",
+    "definition": "vừa/ (thân hình) cân đối",
+    "partOfSpeech": "v/adj",
+    "pronunciation": "/fit/"
+  },
+  {
+    "number": 4,
+    "word": "department",
+    "definition": "phòng ban, bộ phận",
+    "partOfSpeech": "n",
+    "pronunciation": "/dı'pa:t.mənt/"
+  },
+  {
+    "number": 5,
+    "word": "current",
+    "definition": "hiện tại",
+    "partOfSpeech": "adj",
+    "pronunciation": "/'kar.ǝnt/"
+  },
+  {
+    "number": 6,
+    "word": "outdated",
+    "definition": "lỗi thời",
+    "partOfSpeech": "adj",
+    "pronunciation": "/aut'der.tid/"
+  },
+  {
+    "number": 7,
+    "word": "rent",
+    "definition": "cho thuê",
+    "partOfSpeech": "V",
+    "pronunciation": "/rent/"
+  },
+  {
+    "number": 8,
+    "word": "portable",
+    "definition": "có thể cầm tay",
+    "partOfSpeech": "adj",
+    "pronunciation": "/'pɔ:.tə.bəl/"
+  },
+  {
+    "number": 9,
+    "word": "unexpected",
+    "definition": "bất ngờ",
+    "partOfSpeech": "adj",
+    "pronunciation": "/an.ik'spek.tid/"
+  },
+  {
+    "number": 10,
+    "word": "display",
+    "definition": "trưng bày",
+    "partOfSpeech": "V",
+    "pronunciation": "/di'splei/"
+  },
+  {
+    "number": 11,
+    "word": "headquarters",
+    "definition": "trụ sở",
+    "partOfSpeech": "n",
+    "pronunciation": "/hed'kwɔ:təz/"
+  },
+  {
+    "number": 12,
+    "word": "flavor",
+    "definition": "vị",
+    "partOfSpeech": "n",
+    "pronunciation": "/'flei.vər/"
+  },
+  {
+    "number": 13,
+    "word": "be sold out",
+    "definition": "bán hết"
+  },
+  {
+    "number": 14,
+    "word": "preference",
+    "definition": "sở thích, thị hiếu",
+    "partOfSpeech": "n",
+    "pronunciation": "/'pref.ǝr.əns/"
+  },
+  {
+    "number": 15,
+    "word": "upstairs",
+    "definition": "trên lầu",
+    "partOfSpeech": "adj",
+    "pronunciation": "/ap'steǝz/"
+  },
+  {
+    "number": 16,
+    "word": "business hours",
+    "definition": "giờ làm việc",
+    "partOfSpeech": "n",
+    "pronunciation": "/'bız.nıs 'auǝz/"
+  },
+  {
+    "number": 17,
+    "word": "collaboration",
+    "definition": "sự hợp tác",
+    "partOfSpeech": "n",
+    "pronunciation": "/kə, læb.ə'reı.fən/"
+  },
+  {
+    "number": 18,
+    "word": "material",
+    "definition": "nguyên liệu, vật liệu",
+    "partOfSpeech": "n",
+    "pronunciation": "/mə'tıə.ri.ǝl/"
+  },
+  {
+    "number": 19,
+    "word": "responsibility",
+    "definition": "trách nhiệm",
+    "partOfSpeech": "n",
+    "pronunciation": "/rı, spon.sı bıl.ə.ti/"
+  },
+  {
+    "number": 20,
+    "word": "impress",
+    "definition": "gây ấn tượng",
+    "partOfSpeech": "V",
+    "pronunciation": "/ım'pres/"
+  },
+  {
+    "number": 21,
+    "word": "relocation",
+    "definition": "sự di dời",
+    "partOfSpeech": "n",
+    "pronunciation": "/ri:.lǝu'keı.Şən/"
+  },
+  {
+    "number": 22,
+    "word": "press conference",
+    "definition": "họp báo",
+    "partOfSpeech": "n",
+    "pronunciation": "/'pres kon.fər.ǝns/"
+  },
+  {
+    "number": 23,
+    "word": "customize",
+    "definition": "điều chỉnh theo đặt riêng",
+    "partOfSpeech": "V",
+    "pronunciation": "/'kas.tə.maız/"
+  },
+  {
+    "number": 24,
+    "word": "go over something",
+    "definition": "xem kỹ lại cái gì"
+  },
+  {
+    "number": 25,
+    "word": "added",
+    "definition": "được thêm vào",
+    "partOfSpeech": "adj",
+    "pronunciation": "/'æd.id/"
+  },
+  {
+    "number": 26,
+    "word": "expense",
+    "definition": "chi phí",
+    "partOfSpeech": "n",
+    "pronunciation": "/ık'spens/"
+  },
+  {
+    "number": 27,
+    "word": "available",
+    "definition": "có sẵn",
+    "partOfSpeech": "adj",
+    "pronunciation": "/ə'ver.lə.bǝl/"
+  },
+  {
+    "number": 28,
+    "word": "identification",
+    "definition": "sự nhận diện, giấy tờ tuỳ thân",
+    "partOfSpeech": "n",
+    "pronunciation": "/aı, den.tı.fı'ker.fǝn/"
+  },
+  {
+    "number": 29,
+    "word": "theory",
+    "definition": "lý thuyết",
+    "partOfSpeech": "n",
+    "pronunciation": "/'ıǝ.ri/"
+  },
+  {
+    "number": 30,
+    "word": "take apart something",
+    "definition": "tách, tháo cái gì ra"
+  },
+  {
+    "number": 31,
+    "word": "knowledgeable",
+    "definition": "có hiểu biết, có kiến thức",
+    "partOfSpeech": "adj",
+    "pronunciation": "/'npl.1.dzə.bǝl/"
+  },
+  {
+    "number": 32,
+    "word": "medicine",
+    "definition": "thuốc",
+    "partOfSpeech": "n",
+    "pronunciation": "/'med.1.sən/"
+  },
+  {
+    "number": 33,
+    "word": "develop",
+    "definition": "phát triển",
+    "partOfSpeech": "V",
+    "pronunciation": "/dı'vel.ǝp/"
+  },
+  {
+    "number": 34,
+    "word": "publish",
+    "definition": "xuất bản, công bố",
+    "partOfSpeech": "V",
+    "pronunciation": "/'pab.lif/"
+  },
+  {
+    "number": 35,
+    "word": "hand out something",
+    "definition": "phân phát cái gì"
+  },
+  {
+    "number": 36,
+    "word": "attendee",
+    "definition": "người tham dự",
+    "partOfSpeech": "n",
+    "pronunciation": "/ǝ.ten'di:/"
+  },
+  {
+    "number": 37,
+    "word": "load",
+    "definition": "tải, gánh",
+    "partOfSpeech": "V",
+    "pronunciation": "/lǝud/"
+  },
+  {
+    "number": 38,
+    "word": "utility",
+    "definition": "dịch vụ điện nước",
+    "partOfSpeech": "n",
+    "pronunciation": "/ju: 'tıl.ə.ti/"
+  },
+  {
+    "number": 39,
+    "word": "policy",
+    "definition": "chính sách",
+    "partOfSpeech": "n",
+    "pronunciation": "/'ppl.ə.si/"
+  },
+  {
+    "number": 40,
+    "word": "presenter",
+    "definition": "người trình bày, thuyết trình",
+    "partOfSpeech": "n",
+    "pronunciation": "/prı'zen.tər/"
+  },
+  {
+    "number": 41,
+    "word": "invitation",
+    "definition": "lời mời",
+    "partOfSpeech": "n",
+    "pronunciation": "/,ın.vı teı.Sən/"
+  },
+  {
+    "number": 42,
+    "word": "lately",
+    "definition": "gần đây",
+    "partOfSpeech": "adv",
+    "pronunciation": "/'lert.li/"
+  },
+  {
+    "number": 43,
+    "word": "possibility",
+    "definition": "khả năng, xác suất",
+    "partOfSpeech": "n",
+    "pronunciation": "/pps.ə'bıl.ə.ti/"
+  },
+  {
+    "number": 44,
+    "word": "lead",
+    "definition": "dẫn dắt",
+    "partOfSpeech": "V",
+    "pronunciation": "/li:d/"
+  },
+  {
+    "number": 45,
+    "word": "handle",
+    "definition": "xử lý, giải quyết",
+    "partOfSpeech": "V",
+    "pronunciation": "/'hæn.dəl/"
+  },
+  {
+    "number": 46,
+    "word": "complete",
+    "definition": "hoàn thành",
+    "partOfSpeech": "V",
+    "pronunciation": "/kəm'pli:t/"
+  },
+  {
+    "number": 47,
+    "word": "multiple",
+    "definition": "nhiều",
+    "partOfSpeech": "adj",
+    "pronunciation": "/'mʌl.tı.pǝl/"
+  },
+  {
+    "number": 48,
+    "word": "personnel",
+    "definition": "nhân sự",
+    "partOfSpeech": "n",
+    "pronunciation": "/p3:.sən'el/"
+  },
+  {
+    "number": 49,
+    "word": "manage",
+    "definition": "quản lý",
+    "partOfSpeech": "V",
+    "pronunciation": "/'mæn.id3/"
+  },
+  {
+    "number": 50,
+    "word": "complex",
+    "definition": "phức tạp",
+    "partOfSpeech": "adj",
+    "pronunciation": "/'kom.pleks/"
+  },
+  {
+    "number": 51,
+    "word": "reserve",
+    "definition": "đặt (chỗ, bàn,...)",
+    "partOfSpeech": "V",
+    "pronunciation": "/ri'z3:v/"
+  },
+  {
+    "number": 52,
+    "word": "skip",
+    "definition": "bỏ qua",
+    "partOfSpeech": "V",
+    "pronunciation": "/skip/"
+  },
+  {
+    "number": 53,
+    "word": "up-to-date",
+    "definition": "mới nhất",
+    "partOfSpeech": "adj",
+    "pronunciation": "/ap.tǝ 'dert/"
+  },
+  {
+    "number": 54,
+    "word": "revision",
+    "definition": "sự ôn lại, sự chỉnh sửa",
+    "partOfSpeech": "n",
+    "pronunciation": "/rıvız.ən/"
+  },
+  {
+    "number": 55,
+    "word": "procedure",
+    "definition": "quy trình",
+    "partOfSpeech": "n",
+    "pronunciation": "/prǝ'si:.dzər/"
+  },
+  {
+    "number": 56,
+    "word": "introduce",
+    "definition": "giới thiệu",
+    "partOfSpeech": "V",
+    "pronunciation": "/ın.trǝ'dzu:s/"
+  },
+  {
+    "number": 57,
+    "word": "resolve",
+    "definition": "giải quyết",
+    "partOfSpeech": "V",
+    "pronunciation": "/ri'zplv/"
+  },
+  {
+    "number": 58,
+    "word": "protect",
+    "definition": "bảo vệ",
+    "partOfSpeech": "V",
+    "pronunciation": "/prǝ'tekt/"
+  },
+  {
+    "number": 59,
+    "word": "conservation",
+    "definition": "sự bảo tồn",
+    "partOfSpeech": "n",
+    "pronunciation": "/kvn.sə'veı.fən/"
+  },
+  {
+    "number": 60,
+    "word": "effort",
+    "definition": "nỗ lực",
+    "partOfSpeech": "n",
+    "pronunciation": "/'ef.ǝt/"
+  },
+  {
+    "number": 61,
+    "word": "guidance",
+    "definition": "hướng dẫn",
+    "partOfSpeech": "n",
+    "pronunciation": "/'gaı.dəns/"
+  },
+  {
+    "number": 62,
+    "word": "recommendation",
+    "definition": "khuyến nghị, đề xuất",
+    "partOfSpeech": "n",
+    "pronunciation": "/rek.ə.men'der.fən/"
+  },
+  {
+    "number": 63,
+    "word": "usage",
+    "definition": "cách sử dụng",
+    "partOfSpeech": "n",
+    "pronunciation": "/'ju:.sıd3/"
+  },
+  {
+    "number": 64,
+    "word": "demonstrate",
+    "definition": "chứng minh, minh hoạ (sản phẩm)",
+    "partOfSpeech": "V",
+    "pronunciation": "/'dem.ǝn.streit/"
+  },
+  {
+    "number": 65,
+    "word": "exhibit",
+    "definition": "triển lãm",
+    "partOfSpeech": "V",
+    "pronunciation": "/ig'zıb.it/"
+  },
+  {
+    "number": 66,
+    "word": "obtain",
+    "definition": "có được",
+    "partOfSpeech": "V",
+    "pronunciation": "/ǝb'tein/"
+  },
+  {
+    "number": 67,
+    "word": "produce",
+    "definition": "sản xuất",
+    "partOfSpeech": "V",
+    "pronunciation": "/prǝ'dzu:s/"
+  },
+  {
+    "number": 68,
+    "word": "positive",
+    "definition": "tích cực",
+    "partOfSpeech": "adj",
+    "pronunciation": "/'pvz.ə.tiv/"
+  },
+  {
+    "number": 69,
+    "word": "understandable",
+    "definition": "có thể hiểu được",
+    "partOfSpeech": "adj",
+    "pronunciation": "/an.də stæn.də.bəl/"
+  },
+  {
+    "number": 70,
+    "word": "liquid",
+    "definition": "chất lỏng",
+    "partOfSpeech": "n",
+    "pronunciation": "/'lık.wid/"
+  },
+  {
+    "number": 71,
+    "word": "leak",
+    "definition": "làm rò rỉ",
+    "partOfSpeech": "V",
+    "pronunciation": "/li:k/"
+  },
+  {
+    "number": 72,
+    "word": "extend",
+    "definition": "gia hạn",
+    "partOfSpeech": "V",
+    "pronunciation": "/ık'stend/"
+  },
+  {
+    "number": 73,
+    "word": "register",
+    "definition": "đăng ký",
+    "partOfSpeech": "V",
+    "pronunciation": "/'red3.1.stər/"
+  },
+  {
+    "number": 74,
+    "word": "affordable",
+    "definition": "có giá phải chăng",
+    "partOfSpeech": "adj",
+    "pronunciation": "/ǝ'fɔ:.də.bəl/"
+  },
+  {
+    "number": 75,
+    "word": "promotional",
+    "definition": "có tính quảng bá",
+    "partOfSpeech": "adj",
+    "pronunciation": "/prǝ'mǝu.fən.ǝl/"
+  },
+  {
+    "number": 76,
+    "word": "comfortable",
+    "definition": "thoải mái",
+    "partOfSpeech": "adj",
+    "pronunciation": "/'kam.fə.tə.bəl/"
+  },
+  {
+    "number": 77,
+    "word": "demand",
+    "definition": "nhu cầu",
+    "partOfSpeech": "n",
+    "pronunciation": "/dı'ma:nd/"
+  },
+  {
+    "number": 78,
+    "word": "loan",
+    "definition": "khoản vay",
+    "partOfSpeech": "n",
+    "pronunciation": "/lǝun/"
+  },
+  {
+    "number": 79,
+    "word": "operation",
+    "definition": "sự vận hành",
+    "partOfSpeech": "n",
+    "pronunciation": "/,pp.ǝr'eı.fən/"
+  },
+  {
+    "number": 80,
+    "word": "fund",
+    "definition": "quỹ",
+    "partOfSpeech": "n",
+    "pronunciation": "/fʌnd/"
+  }
+]
