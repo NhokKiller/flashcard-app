@@ -23,6 +23,14 @@ let uploadedImages = [];
 let cardIdCounter = 0; // Counter for unique IDs
 let batchCounter = 0; // Counter for JSON import batches
 
+// Check if a word already exists in flashcards (case-insensitive)
+function isWordDuplicate(word) {
+    const normalizedWord = word.toLowerCase().trim();
+    return flashcards.some(card =>
+        card.vocabulary.word.toLowerCase().trim() === normalizedWord
+    );
+}
+
 // DOM Elements
 const elements = {
     uploadArea: document.getElementById('uploadArea'),
@@ -125,13 +133,17 @@ async function loadDefaultVocabulary() {
                 batchCounter++;
                 const currentBatch = batchCounter;
 
-                // Parse and create flashcards
+                // Parse and create flashcards (skip duplicates)
                 const vocabularies = parseVocabularyFromJSON(jsonData);
+                let addedCount = 0;
                 vocabularies.forEach((vocab, index) => {
-                    createFlashcardFromVocabSilent(vocab, null, index, currentBatch);
+                    if (!isWordDuplicate(vocab.word)) {
+                        createFlashcardFromVocabSilent(vocab, null, index, currentBatch);
+                        addedCount++;
+                    }
                 });
 
-                console.log(`Loaded ${vocabularies.length} words from ${jsonFiles[i]} as Batch ${currentBatch}`);
+                console.log(`Loaded ${addedCount}/${vocabularies.length} words from ${jsonFiles[i]} as Batch ${currentBatch} (${vocabularies.length - addedCount} duplicates skipped)`);
             } catch (error) {
                 console.log(`Could not load ${jsonFiles[i]}:`, error.message);
             }
@@ -268,9 +280,16 @@ function createCardsFromText() {
             return;
         }
 
-        // Create flashcard for each vocabulary with batch number
+        // Create flashcard for each vocabulary with batch number (skip duplicates)
+        let addedCount = 0;
+        let duplicateCount = 0;
         vocabularies.forEach((vocab, index) => {
-            createFlashcardFromVocab(vocab, null, index, currentBatch);
+            if (!isWordDuplicate(vocab.word)) {
+                createFlashcardFromVocab(vocab, null, index, currentBatch);
+                addedCount++;
+            } else {
+                duplicateCount++;
+            }
         });
 
         // Update category filter
@@ -279,7 +298,13 @@ function createCardsFromText() {
 
         // Clear input and show success
         elements.vocabTextInput.value = '';
-        alert(`✅ Đã tạo thành công ${vocabularies.length} thẻ flashcard vào Danh mục ${currentBatch}!`);
+
+        // Show result with duplicate info
+        if (duplicateCount > 0) {
+            alert(`✅ Đã tạo ${addedCount} thẻ flashcard vào Danh mục ${currentBatch}!\n⚠️ Bỏ qua ${duplicateCount} từ bị trùng lặp.`);
+        } else {
+            alert(`✅ Đã tạo thành công ${addedCount} thẻ flashcard vào Danh mục ${currentBatch}!`);
+        }
     } catch (error) {
         console.error('JSON Parse Error:', error);
         alert('❌ Lỗi parse JSON! Vui lòng kiểm tra format:\n\n' + error.message);
