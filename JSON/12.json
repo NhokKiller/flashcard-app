@@ -1,0 +1,345 @@
+[
+  {
+    "number": 1,
+    "word": "turn on",
+    "definition": "bật",
+    "partOfSpeech": "phr.v",
+    "pronunciation": "/tɜːn.ɒn/ /tɜːn.ɒf/"
+  },
+  {
+    "number": 2,
+    "word": "line",
+    "definition": "xếp (thành) hàng, hàng, dòng",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/laɪn/"
+  },
+  {
+    "number": 3,
+    "word": "perform",
+    "definition": "trình diễn",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/pəˈfɔːm/ (UK), /pəˈfɔːrm/ (US)"
+  },
+  {
+    "number": 4,
+    "word": "face",
+    "definition": "đối mặt",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/feɪs/"
+  },
+  {
+    "number": 5,
+    "word": "address",
+    "definition": "nói chuyện (trang trọng), phát biểu, bài nói, diễn văn",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/əˈdres/"
+  },
+  {
+    "number": 6,
+    "word": "park",
+    "definition": "đậu xe",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/pa:k/ (UK), /pa:rk/ (US)"
+  },
+  {
+    "number": 7,
+    "word": "copy",
+    "definition": "sao chép",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ˈkɒpi/ (UK), /ˈkɑːpi/ (US)"
+  },
+  {
+    "number": 8,
+    "word": "fold",
+    "definition": "gấp lại",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/fəʊld/"
+  },
+  {
+    "number": 9,
+    "word": "shop",
+    "definition": "mua sắm",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ʃɒp/ (UK), /ʃɑːp/ (US)"
+  },
+  {
+    "number": 10,
+    "word": "fill",
+    "definition": "đổ, lấp đầy",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/fɪl/"
+  },
+  {
+    "number": 11,
+    "word": "hang",
+    "definition": "(được) treo, mắc",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/hæŋ/"
+  },
+  {
+    "number": 12,
+    "word": "point",
+    "definition": "chỉ",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/pɔɪnt/"
+  },
+  {
+    "number": 13,
+    "word": "assemble",
+    "definition": "tập hợp, lắp ráp",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/əˈsɛmbl/ /ˈɡæðər/"
+  },
+  {
+    "number": 14,
+    "word": "reach",
+    "definition": "với lấy, vươn tới",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ri:tʃ/"
+  },
+  {
+    "number": 15,
+    "word": "file",
+    "definition": "sắp xếp (giấy tờ), hồ sơ, tài liệu",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/fail/"
+  },
+  {
+    "number": 16,
+    "word": "distribute",
+    "definition": "phân phát",
+    "partOfSpeech": "v",
+    "pronunciation": "/'strɪbju:t/"
+  },
+  {
+    "number": 17,
+    "word": "overlook",
+    "definition": "nhìn ra",
+    "partOfSpeech": "v",
+    "pronunciation": "/ˌoʊvərˈlʊk/"
+  },
+  {
+    "number": 18,
+    "word": "tow",
+    "definition": "kéo, cẩu",
+    "partOfSpeech": "v",
+    "pronunciation": "/təʊ/"
+  },
+  {
+    "number": 19,
+    "word": "pave",
+    "definition": "lát đường",
+    "partOfSpeech": "v",
+    "pronunciation": "/peɪv/"
+  },
+  {
+    "number": 20,
+    "word": "occupied",
+    "definition": "bị chiếm, có người sử dụng",
+    "partOfSpeech": "a",
+    "pronunciation": "/'ɒkjəpaɪd/"
+  },
+  {
+    "number": 21,
+    "word": "pack",
+    "definition": "gói ghém",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/pæk/"
+  },
+  {
+    "number": 22,
+    "word": "arrange",
+    "definition": "sắp xếp",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/əˈreɪndʒ/"
+  },
+  {
+    "number": 23,
+    "word": "cross",
+    "definition": "băng qua, vắt chéo",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/krɒs/ (UK), /krɑːs/ (US)"
+  },
+  {
+    "number": 24,
+    "word": "plug in",
+    "definition": "cắm vào (nguồn điện)",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/plʌɡ.ɪn/"
+  },
+  {
+    "number": 25,
+    "word": "trim",
+    "definition": "cắt, tỉa",
+    "partOfSpeech": "v",
+    "pronunciation": "/trim/"
+  },
+  {
+    "number": 26,
+    "word": "sail",
+    "definition": "lướt, trôi, (cánh) buồm",
+    "partOfSpeech": "v, n",
+    "pronunciation": "/seil/"
+  },
+  {
+    "number": 27,
+    "word": "lean",
+    "definition": "tựa vào",
+    "partOfSpeech": "v",
+    "pronunciation": "/li:n/"
+  },
+  {
+    "number": 28,
+    "word": "rake",
+    "definition": "cào, cái cào",
+    "partOfSpeech": "v, n",
+    "pronunciation": "/reik/"
+  },
+  {
+    "number": 29,
+    "word": "clap",
+    "definition": "vỗ tay",
+    "partOfSpeech": "v",
+    "pronunciation": "/klæp/"
+  },
+  {
+    "number": 30,
+    "word": "surround",
+    "definition": "vây, bao quanh",
+    "partOfSpeech": "v",
+    "pronunciation": "/sə'raond/"
+  },
+  {
+    "number": 31,
+    "word": "mow",
+    "definition": "cắt cỏ",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/maʊ/"
+  },
+  {
+    "number": 32,
+    "word": "stack",
+    "definition": "chất đống, xếp chồng, đống, chồng",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/stæk/"
+  },
+  {
+    "number": 33,
+    "word": "transport",
+    "definition": "vận chuyển, chuyên chở",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/trænspɔːt/ (UK), /trænspɔːrt/ (US)"
+  },
+  {
+    "number": 34,
+    "word": "place",
+    "definition": "để, đặt",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/pleɪs/"
+  },
+  {
+    "number": 35,
+    "word": "pour",
+    "definition": "đổ, rót",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/pɔːr/ (UK), /pɔːr/ (US)"
+  },
+  {
+    "number": 36,
+    "word": "plant",
+    "definition": "trồng, gieo, thực vật, cây xanh",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/plɑːnt/ (UK), /plænt/ (US)"
+  },
+  {
+    "number": 37,
+    "word": "aisle",
+    "definition": "lối đi (giữa các hàng ghế)",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ail/"
+  },
+  {
+    "number": 38,
+    "word": "operate",
+    "definition": "vận hành, điều khiển",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ˈɒpəreɪt/ (UK), /ˈɑːpəreɪt/ (US)"
+  },
+  {
+    "number": 39,
+    "word": "bend",
+    "definition": "uốn cong, gập người",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/bend/"
+  },
+  {
+    "number": 40,
+    "word": "reflect",
+    "definition": "phản chiếu",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/rɪˈflekt/"
+  },
+  {
+    "number": 41,
+    "word": "kneel",
+    "definition": "quỳ gối",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/niːl/"
+  },
+  {
+    "number": 42,
+    "word": "stroll",
+    "definition": "đi dạo",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/strəʊl/"
+  },
+  {
+    "number": 43,
+    "word": "adjust",
+    "definition": "điều chỉnh",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/əˈdʒʌst/"
+  },
+  {
+    "number": 44,
+    "word": "shade",
+    "definition": "che, bóng râm, rèm (cửa sổ)",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/∫eid/"
+  },
+  {
+    "number": 45,
+    "word": "throw away",
+    "definition": "vứt đi",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/θrəʊ.əˈweɪ/ /dɪˈskɑːd/ (UK), /dɪˈskɑːrd/ (US)"
+  },
+  {
+    "number": 46,
+    "word": "inspect",
+    "definition": "kiểm tra",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ɪnˈspekt/"
+  },
+  {
+    "number": 47,
+    "word": "load",
+    "definition": "chất lên",
+    "partOfSpeech": "(v) ≠ unload",
+    "pronunciation": "/ləʊd/, /ˌʌnˈləʊd/"
+  },
+  {
+    "number": 48,
+    "word": "hold",
+    "definition": "cầm, nắm",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/həʊld/ /ɡrɑːsp/"
+  },
+  {
+    "number": 49,
+    "word": "pass",
+    "definition": "đi qua, chuyển, đưa cho",
+    "partOfSpeech": "(v) = hand",
+    "pronunciation": "/pɑːs/ /hænd/"
+  }
+]

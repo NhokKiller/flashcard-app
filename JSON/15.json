@@ -1,0 +1,352 @@
+[
+  {
+    "number": 1,
+    "word": "identification",
+    "definition": "giấy chứng minh",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/aIˌden.tɪ.fɪˈkeɪ.ʃən/"
+  },
+  {
+    "number": 2,
+    "word": "ask for",
+    "definition": "xin, yêu cầu",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/ɑːsk/ /fɔːr/"
+  },
+  {
+    "number": 3,
+    "word": "ride",
+    "definition": "đi (xe cộ), việc đi lại",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/raɪd/ /rɪd/ /lɪft/"
+  },
+  {
+    "number": 4,
+    "word": "reception",
+    "definition": "sự tiếp đón, tiệc chiêu đãi",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/rɪˈsep.ʃən/"
+  },
+  {
+    "number": 5,
+    "word": "mail",
+    "definition": "thư, gửi thư",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/meil/"
+  },
+  {
+    "number": 6,
+    "word": "lend / borrow (mượn)",
+    "definition": "cho mượn, vay",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/lend/ /'bɔr.əʊ/"
+  },
+  {
+    "number": 7,
+    "word": "sign",
+    "definition": "ký tên, dấu hiệu, biển báo",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/sain/"
+  },
+  {
+    "number": 8,
+    "word": "lower",
+    "definition": "hạ thấp, giảm xuống (giá cả)",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/'ləʊ.ər/"
+  },
+  {
+    "number": 9,
+    "word": "deliver",
+    "definition": "giao hàng",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/dɪ'lɪv.ər/"
+  },
+  {
+    "number": 10,
+    "word": "monitor",
+    "definition": "giám sát, màn hình",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/'mɒn.ɪ.tər/ (UK), /'mɑː.nə.t̬ər/ (US)"
+  },
+  {
+    "number": 11,
+    "word": "manual",
+    "definition": "cẩm nang, sách hướng dẫn, thủ công, bằng tay",
+    "partOfSpeech": "(n) (a)",
+    "pronunciation": "/'mæn.ju.əl/"
+  },
+  {
+    "number": 12,
+    "word": "upstairs",
+    "definition": "(ở) tầng trên",
+    "partOfSpeech": "(adv,a,n)",
+    "pronunciation": "/ʌpˈsteəz/"
+  },
+  {
+    "number": 13,
+    "word": "recommend",
+    "definition": "giới thiệu, khuyên",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ˌrek.əˈmend/"
+  },
+  {
+    "number": 14,
+    "word": "be supposed to",
+    "definition": "được cho là, được mong đợi là",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/bi/ /səˈpəʊzd/ /tə/"
+  },
+  {
+    "number": 15,
+    "word": "local",
+    "definition": "địa phương",
+    "partOfSpeech": "a",
+    "pronunciation": "/'lou.kəl/ (UK), /'loo.kəl/ (US)"
+  },
+  {
+    "number": 16,
+    "word": "run out",
+    "definition": "hết, cạn kiệt",
+    "partOfSpeech": "phr.v",
+    "pronunciation": "/rʌn/ /aʊt/"
+  },
+  {
+    "number": 17,
+    "word": "belong to",
+    "definition": "của, thuộc về",
+    "partOfSpeech": "phr.v",
+    "pronunciation": "/bɪˈlɒŋ/ /tuː/"
+  },
+  {
+    "number": 18,
+    "word": "wonder",
+    "definition": "tự hỏi, thắc mắc",
+    "partOfSpeech": "v",
+    "pronunciation": "/ˈwʌn.dər/ (UK), /ˈwʌn.dər/ (US)"
+  },
+  {
+    "number": 19,
+    "word": "label",
+    "definition": "dán nhãn, nhãn (hiệu)",
+    "partOfSpeech": "v, n",
+    "pronunciation": "/'leɪ.bəl/"
+  },
+  {
+    "number": 20,
+    "word": "require",
+    "definition": "yêu cầu",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/rɪˈkwaɪər/ (UK), /rɪˈkwaɪər/ (US)"
+  },
+  {
+    "number": 21,
+    "word": "celebrate",
+    "definition": "ăn mừng, làm tiệc",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ˈsel.ə.breɪt/"
+  },
+  {
+    "number": 22,
+    "word": "process",
+    "definition": "xử lý, quy trình, quá trình",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/ˈprəʊ.ses/ (UK), /ˈprɑː.ses/ (US)"
+  },
+  {
+    "number": 23,
+    "word": "reimburse",
+    "definition": "hoàn trả",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ˌriː.ɪmˈbɜːs/ (UK), /ˌriː.ɪmˈbɝːs/ (US)"
+  },
+  {
+    "number": 24,
+    "word": "consult",
+    "definition": "hỏi ý kiến, tham khảo",
+    "partOfSpeech": "v",
+    "pronunciation": "/kən'sʌlt/"
+  },
+  {
+    "number": 25,
+    "word": "schedule",
+    "definition": "lên lịch, sắp xếp, lịch trình, thời gian biểu",
+    "partOfSpeech": "v, n",
+    "pronunciation": "/'ʃedʒ.u.əl/, /'skedʒ.u.əl/"
+  },
+  {
+    "number": 26,
+    "word": "downtown",
+    "definition": "trung tâm thành phố",
+    "partOfSpeech": "adv, n",
+    "pronunciation": "/'daʊn.taʊn/"
+  },
+  {
+    "number": 27,
+    "word": "donate",
+    "definition": "tặng, quyên góp",
+    "partOfSpeech": "v",
+    "pronunciation": "/dəʊ'neɪt/ (UK), /'doʊ.neɪt/ (US)"
+  },
+  {
+    "number": 28,
+    "word": "accept",
+    "definition": "chấp nhận",
+    "partOfSpeech": "v",
+    "pronunciation": "/ək'sept/"
+  },
+  {
+    "number": 29,
+    "word": "travel",
+    "definition": "đi (lại), chuyến đi, du lịch",
+    "partOfSpeech": "v, n",
+    "pronunciation": "/'træv.əl/"
+  },
+  {
+    "number": 30,
+    "word": "manage",
+    "definition": "quản lý, giải quyết, xoay sở",
+    "partOfSpeech": "v",
+    "pronunciation": "/'mæn.ɪdʒ/"
+  },
+  {
+    "number": 31,
+    "word": "go ahead",
+    "definition": "tiếp tục, tiến triển",
+    "partOfSpeech": "phr.v",
+    "pronunciation": "/gəʊ ə'hed/"
+  },
+  {
+    "number": 32,
+    "word": "employee",
+    "definition": "nhân viên",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ım plɔı/"
+  },
+  {
+    "number": 33,
+    "word": "renew",
+    "definition": "đổi mới, gia hạn",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/rı'nju:/"
+  },
+  {
+    "number": 34,
+    "word": "inventory",
+    "definition": "kiểm kê",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ın.ven.tər.i/ /'ınvəntɔri/"
+  },
+  {
+    "number": 35,
+    "word": "deserve",
+    "definition": "xứng đáng",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/dı'zɜ:v/ (UK), /dı'zɜ:rv/ (US)"
+  },
+  {
+    "number": 36,
+    "word": "supervisor",
+    "definition": "người giám sát",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'su:.pə.vaı.zər/"
+  },
+  {
+    "number": 37,
+    "word": "survey",
+    "definition": "cuộc khảo sát, điều tra, khảo sát, điều tra",
+    "partOfSpeech": "(n) / (v)",
+    "pronunciation": "/'s3:.vei/"
+  },
+  {
+    "number": 38,
+    "word": "improve",
+    "definition": "cải thiện, cải tiến",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/im'pru:v/"
+  },
+  {
+    "number": 39,
+    "word": "know if",
+    "definition": "biết nếu",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/nəʊ if/"
+  },
+  {
+    "number": 40,
+    "word": "suggest",
+    "definition": "đề xuất, gợi ý",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/sə'dʒest/"
+  },
+  {
+    "number": 41,
+    "word": "no later than",
+    "definition": "muộn nhất, không muộn hơn",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/nəʊ 'leɪtər ðæn/ or /ət ðə 'leɪtɪst/, /nəʊ 'leɪtər ðæn/ /ət ðə 'leɪtɪst/"
+  },
+  {
+    "number": 42,
+    "word": "invoice",
+    "definition": "hóa đơn",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'ɪnvɔɪs/"
+  },
+  {
+    "number": 43,
+    "word": "purchase",
+    "definition": "mua, sắm, hàng, vật được mua",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/ˈpɜː.tʃəs/ (UK), /pɝː.tʃəs/ (US)"
+  },
+  {
+    "number": 44,
+    "word": "challenging",
+    "definition": "(đầy) thách thức",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ˈtʃæl.ɪn.dʒɪŋ/"
+  },
+  {
+    "number": 45,
+    "word": "transfer",
+    "definition": "dời, chuyển sang, sự di dời, chuyển nhượng",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/trænsˈfɜːr/ (UK), /trænsˈfɝː/ (US) // n: /trænˈsfɜːr/, /ˈtræn.sfɝː/"
+  },
+  {
+    "number": 46,
+    "word": "holiday",
+    "definition": "ngày, kỳ nghỉ",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈhɒl.ə.deɪ/"
+  },
+  {
+    "number": 47,
+    "word": "lead",
+    "definition": "dẫn dắt, đứng đầu, sự dẫn đầu, lãnh đạo, dẫn đến (+) to",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/liːd/"
+  },
+  {
+    "number": 48,
+    "word": "make sure",
+    "definition": "chắc chắn, đảm bảo",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/meɪk/ /ʃʊər/"
+  },
+  {
+    "number": 49,
+    "word": "head",
+    "definition": "hướng, đi về, người đứng đầu, thủ trưởng",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/hed/"
+  },
+  {
+    "number": 50,
+    "word": "branch",
+    "definition": "chi nhánh, nhánh (cây)",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/brɑːntʃ/ (UK), /bræntʃ/ (US)"
+  }
+]

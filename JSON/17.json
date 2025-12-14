@@ -1,0 +1,352 @@
+[
+  {
+    "number": 1,
+    "word": "Away",
+    "definition": "đi ra ngoài, vắng mặt, cách (bao lâu, xa)",
+    "partOfSpeech": "(a) (adv)",
+    "pronunciation": "/əˈweɪ/"
+  },
+  {
+    "number": 2,
+    "word": "Misplace",
+    "definition": "để không đúng chỗ",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/mɪsˈpleɪs/"
+  },
+  {
+    "number": 3,
+    "word": "Rent",
+    "definition": "thuê, mướn, tiền, giá thuê",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/rent/"
+  },
+  {
+    "number": 4,
+    "word": "connect",
+    "definition": "kết nối",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/kəˈnekt/"
+  },
+  {
+    "number": 5,
+    "word": "Annual",
+    "definition": "hàng năm",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'æn.ju.əl/"
+  },
+  {
+    "number": 6,
+    "word": "application",
+    "definition": "mẫu đơn, đơn xin",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˌæp.lɪˈkeɪ.ʃən/"
+  },
+  {
+    "number": 7,
+    "word": "evaluation",
+    "definition": "sự đánh giá",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ɪˌvæl.juˈeɪ.ʃən/"
+  },
+  {
+    "number": 8,
+    "word": "promote",
+    "definition": "thúc đẩy, xúc tiến, thăng chức",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/prəˈməʊt/"
+  },
+  {
+    "number": 9,
+    "word": "block",
+    "definition": "chắn, ngăn, dãy nhà",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/blok/ (UK), /bla:k/ (US)"
+  },
+  {
+    "number": 10,
+    "word": "crowded",
+    "definition": "đông đúc, chật ních",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'krao.did/"
+  },
+  {
+    "number": 11,
+    "word": "author",
+    "definition": "tác giả",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'ɔ:.θər/"
+  },
+  {
+    "number": 12,
+    "word": "Broken",
+    "definition": "bị hỏng, vỡ",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'brəʊ.kən/ (UK), /'broʊ.kən/ (US)"
+  },
+  {
+    "number": 13,
+    "word": "own",
+    "definition": "sở hữu, (nhấn mạnh) của riêng mình, tự mình",
+    "partOfSpeech": "(v) (a)",
+    "pronunciation": "/əʊn/ (UK), /oʊn/ (US)"
+  },
+  {
+    "number": 14,
+    "word": "that way",
+    "definition": "theo cách đó",
+    "partOfSpeech": "(phr.)",
+    "pronunciation": "/ðæt/ /weɪ/"
+  },
+  {
+    "number": 15,
+    "word": "set aside",
+    "definition": "dự trữ, để dành",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/set/ /əˈsaɪd/"
+  },
+  {
+    "number": 16,
+    "word": "regional",
+    "definition": "(thuộc) vùng, khu vực",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ˈriːdʒən.əl/"
+  },
+  {
+    "number": 17,
+    "word": "Deal",
+    "definition": "đối phó, giải quyết (+ with), sự thỏa thuận",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/diːl/"
+  },
+  {
+    "number": 18,
+    "word": "landscaping",
+    "definition": "sự làm đẹp cảnh quan",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈlænd.skeɪpɪŋ/"
+  },
+  {
+    "number": 19,
+    "word": "Budget",
+    "definition": "ngân sách, dự thảo ngân sách",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/ˈbʌdʒ.ɪt/"
+  },
+  {
+    "number": 20,
+    "word": "Project",
+    "definition": "dự án, công trình, đặt kế hoạch",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/ˈprɒdʒ.ekt/ (UK), /ˈprɑː.dʒekt/ (US)"
+  },
+  {
+    "number": 21,
+    "word": "turn out",
+    "definition": "hóa ra, thành ra",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/ˈtɜːn.aʊt/"
+  },
+  {
+    "number": 22,
+    "word": "background",
+    "definition": "hoàn cảnh, nền tảng",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈbæk.graʊnd/"
+  },
+  {
+    "number": 23,
+    "word": "inconvenience",
+    "definition": "sự bất tiện, làm phiền, quấy rầy",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/ˌɪn.kənˈviː.ni.əns/"
+  },
+  {
+    "number": 24,
+    "word": "cut back on something",
+    "definition": "cắt, giảm bớt",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/kʌt ˈbæk/"
+  },
+  {
+    "number": 25,
+    "word": "reasonable",
+    "definition": "hợp lý, vừa phải, phải chăng",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'ri:.zən.ə.bəl/"
+  },
+  {
+    "number": 26,
+    "word": "correction",
+    "definition": "sự sửa chữa, hiệu chỉnh",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/kə'rek.fən/"
+  },
+  {
+    "number": 27,
+    "word": "injure",
+    "definition": "làm tổn thương, làm hại",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/'ɪn.dʒər/"
+  },
+  {
+    "number": 28,
+    "word": "shape",
+    "definition": "hình dạng, khuôn mẫu",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ʃeɪp/"
+  },
+  {
+    "number": 29,
+    "word": "damaged",
+    "definition": "(bị) hư hỏng",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'dæm.ɪdʒd/"
+  },
+  {
+    "number": 30,
+    "word": "advantage",
+    "definition": "lợi thế, thuận lợi",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ədˈvɑːn.tɪdʒ/"
+  },
+  {
+    "number": 31,
+    "word": "specialise",
+    "definition": "chuyên về",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ˈspeʃ.əl.aɪz/"
+  },
+  {
+    "number": 32,
+    "word": "popular",
+    "definition": "phổ biến, nổi tiếng",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ˈpɒp.jə.lər/ (UK), /ˈpɑː.pjə.lər/ (US)"
+  },
+  {
+    "number": 33,
+    "word": "see if",
+    "definition": "xem nếu",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/siː/ /ɪf/"
+  },
+  {
+    "number": 34,
+    "word": "sound",
+    "definition": "nghe có vẻ",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/saʊnd/"
+  },
+  {
+    "number": 35,
+    "word": "qualified",
+    "definition": "đủ tư cách, có trình độ",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'kwɒl.ɪ.faɪd/ (UK), /'kwɑː.lə.faɪd/ (US)"
+  },
+  {
+    "number": 36,
+    "word": "correct",
+    "definition": "sửa, hiệu chỉnh, đúng, chính xác",
+    "partOfSpeech": "(v) (a)",
+    "pronunciation": "/kə'rekt/"
+  },
+  {
+    "number": 37,
+    "word": "release",
+    "definition": "phát hành, ra mắt, (sự) phát hành, ra mắt",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/rɪ'liːs/"
+  },
+  {
+    "number": 38,
+    "word": "fill out",
+    "definition": "điền, ghi vào",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/fɪl/ /aʊt/"
+  },
+  {
+    "number": 39,
+    "word": "Workload",
+    "definition": "khối lượng công việc",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'wɜːk.ləʊd/"
+  },
+  {
+    "number": 40,
+    "word": "Accommodate",
+    "definition": "cung cấp chỗ ở, giúp đỡ",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/əˈkɒm.ə.deɪt/ (UK), /əˈkɑː.mə.deɪt/ (US)"
+  },
+  {
+    "number": 41,
+    "word": "suspend",
+    "definition": "đình chỉ, tạm ngưng",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/səˈspend/"
+  },
+  {
+    "number": 42,
+    "word": "in time",
+    "definition": "kịp lúc",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/ɪn/ /taɪm/"
+  },
+  {
+    "number": 43,
+    "word": "policy",
+    "definition": "chính sách",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'pɒl.ə.si/"
+  },
+  {
+    "number": 44,
+    "word": "expense",
+    "definition": "chi phí",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ɪkˈspens/"
+  },
+  {
+    "number": 45,
+    "word": "postpone",
+    "definition": "put off; trì hoãn",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/poust\n\nˈpoun/ /poutˈpɔn/ /pɒf/"
+  },
+  {
+    "number": 46,
+    "word": "handout",
+    "definition": "tài liệu, tờ rơi",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈhænd.aʊt/"
+  },
+  {
+    "number": 47,
+    "word": "neighborhood",
+    "definition": "khu phố",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈneɪ.bə.hʊd/"
+  },
+  {
+    "number": 48,
+    "word": "Expand",
+    "definition": "mở rộng",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ɪkˈspænd/"
+  },
+  {
+    "number": 49,
+    "word": "Space",
+    "definition": "khoảng không, không gian (vũ trụ), chỗ",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/speɪs/"
+  },
+  {
+    "number": 50,
+    "word": "public",
+    "definition": "công chúng, công cộng",
+    "partOfSpeech": "(n) (a)",
+    "pronunciation": "/'pʌb.lɪk/"
+  }
+]

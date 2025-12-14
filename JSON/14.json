@@ -1,0 +1,352 @@
+[
+  {
+    "number": 1,
+    "word": "depend on",
+    "definition": "phụ thuộc vào",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/dɪˈpend ɒn/"
+  },
+  {
+    "number": 2,
+    "word": "colleague",
+    "definition": "đồng nghiệp",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/kɒl.iːɡ/"
+  },
+  {
+    "number": 3,
+    "word": "take over",
+    "definition": "tiếp quản",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/teɪk ˌəʊ.vər/"
+  },
+  {
+    "number": 4,
+    "word": "record",
+    "definition": "sổ sách, hồ sơ, ghi chép, thu (hình, âm thanh)",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/rɪˈkɔːd/"
+  },
+  {
+    "number": 5,
+    "word": "banquet",
+    "definition": "yến tiệc, tiệc lớn",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈbæŋ.kwɪt/"
+  },
+  {
+    "number": 6,
+    "word": "session",
+    "definition": "buổi, phiên",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈseʃ.ən/"
+  },
+  {
+    "number": 7,
+    "word": "revise",
+    "definition": "xem lại, chỉnh sửa",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/rɪˈvaɪz/"
+  },
+  {
+    "number": 8,
+    "word": "flyer",
+    "definition": "tờ bướm (quảng cáo)",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈflaɪ.ər/ (UK), /ˈflaɪ.ər/ (US)"
+  },
+  {
+    "number": 9,
+    "word": "formal",
+    "definition": "trang trọng, chính thức",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/fɔː.məl/ (UK), /ˈfɔːr.məl/ (US)"
+  },
+  {
+    "number": 10,
+    "word": "interview",
+    "definition": "phỏng vấn, buổi phỏng vấn",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/ˈɪn.tə.vjuː/"
+  },
+  {
+    "number": 11,
+    "word": "find out",
+    "definition": "khám phá, tìm ra",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/faɪnd aʊt/"
+  },
+  {
+    "number": 12,
+    "word": "join",
+    "definition": "đi cùng, tham gia",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/dʒɔɪn/"
+  },
+  {
+    "number": 13,
+    "word": "agreement",
+    "definition": "bản hợp đồng, sự thỏa thuận",
+    "partOfSpeech": "n",
+    "pronunciation": "/əˈɡriːmənt/"
+  },
+  {
+    "number": 14,
+    "word": "organize",
+    "definition": "tổ chức, cấu tạo, thiết lập",
+    "partOfSpeech": "v",
+    "pronunciation": "/ˈɔːɡənaɪz/ (UK), /ˈɔːrɡənaɪz/ (US)"
+  },
+  {
+    "number": 15,
+    "word": "submit",
+    "definition": "nộp, đưa ra",
+    "partOfSpeech": "v",
+    "pronunciation": "/səbˈmɪt/, /hænd ɪn/"
+  },
+  {
+    "number": 16,
+    "word": "deadline",
+    "definition": "hạn chót, thời hạn",
+    "partOfSpeech": "n",
+    "pronunciation": "/ˈded.laɪn/"
+  },
+  {
+    "number": 17,
+    "word": "get to",
+    "definition": "đi tới, đến",
+    "partOfSpeech": "phr.v",
+    "pronunciation": "/əˈraɪv/, /riːtʃ/"
+  },
+  {
+    "number": 18,
+    "word": "ship",
+    "definition": "chuyên chở, vận chuyển",
+    "partOfSpeech": "v",
+    "pronunciation": "/ʃɪp/"
+  },
+  {
+    "number": 19,
+    "word": "charge",
+    "definition": "tính giá (dịch vụ), sạc (pin, đồ điện tử...), bổn phận, trách nhiệm",
+    "partOfSpeech": "v, n",
+    "pronunciation": "/tʃɑːdʒ/"
+  },
+  {
+    "number": 20,
+    "word": "mind",
+    "definition": "cảm thấy phiền lòng, tâm trí",
+    "partOfSpeech": "v, n",
+    "pronunciation": "/maɪnd/"
+  },
+  {
+    "number": 21,
+    "word": "leave",
+    "definition": "rời đi, để lại, bỏ quên, nghỉ phép",
+    "partOfSpeech": "v, n",
+    "pronunciation": "/liːv/"
+  },
+  {
+    "number": 22,
+    "word": "order",
+    "definition": "gọi món, đặt hàng, đơn hàng",
+    "partOfSpeech": "v, n",
+    "pronunciation": "/ˈɔː.dər/ (UK), /ˈɔːr.dər/ (US)"
+  },
+  {
+    "number": 23,
+    "word": "document",
+    "definition": "tài liệu, dẫn chứng (bằng tài liệu)",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/'dɒk.jə.mənt/ (UK), /'dɑː.kjə.mənt/ (US)"
+  },
+  {
+    "number": 24,
+    "word": "repair",
+    "definition": "sửa chữa, sự sửa chữa",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/rɪˈpeər/ (UK), /rɪˈper/ (US)"
+  },
+  {
+    "number": 25,
+    "word": "Responsible",
+    "definition": "chịu, có trách nhiệm",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/rɪˈspɒn.sə.bəl/ (UK), /rɪˈspɑːn.sə.bəl/ (US)"
+  },
+  {
+    "number": 26,
+    "word": "committee",
+    "definition": "ủy ban, hội đồng",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/kəˈmɪt.i/"
+  },
+  {
+    "number": 27,
+    "word": "prefer",
+    "definition": "thích hơn, ưa chuộng",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/prɪˈfɜːr/ (UK), /prɪˈfɜːr/ (US)"
+  },
+  {
+    "number": 28,
+    "word": "proofread",
+    "definition": "hiệu đính (đọc và soát văn bản để tìm ra lỗi và sửa cho đúng)",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/'pruːf.riːd/"
+  },
+  {
+    "number": 29,
+    "word": "presentation",
+    "definition": "thuyết trình",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/prez.ənˈteɪ.ʃən/"
+  },
+  {
+    "number": 30,
+    "word": "approve",
+    "definition": "chấp thuận, phê duyệt",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ə'pru:v/"
+  },
+  {
+    "number": 31,
+    "word": "retire",
+    "definition": "nghỉ hưu",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ri'taiə/"
+  },
+  {
+    "number": 32,
+    "word": "delay",
+    "definition": "chậm trễ, hoãn lại, sự chậm trễ, sự trì hoãn",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/di'lei/"
+  },
+  {
+    "number": 33,
+    "word": "return",
+    "definition": "trả lại, trở về",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/ri't3:n/ (UK), /ri't3:rn/ (US)"
+  },
+  {
+    "number": 34,
+    "word": "available",
+    "definition": "sẵn có, sẵn sàng",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ə'veiləbl/"
+  },
+  {
+    "number": 35,
+    "word": "borrow",
+    "definition": "mượn",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/'bɒr.əʊ/ (UK), /'bɑːr.oʊ/ (US)"
+  },
+  {
+    "number": 36,
+    "word": "negotiation",
+    "definition": "sự đàm phán",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/nɪˌɡoʊ.ʃiˈeɪ.ʃən/ (UK), /nɪˌɡoʊ.ʃiˈeɪ.ʃən/ (US)"
+  },
+  {
+    "number": 37,
+    "word": "bill",
+    "definition": "hóa đơn, tính hóa đơn",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/bɪl/"
+  },
+  {
+    "number": 38,
+    "word": "projection",
+    "definition": "dự tính, dự đoán",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/prəˈdʒek.ʃən/"
+  },
+  {
+    "number": 39,
+    "word": "make it",
+    "definition": "có mặt, xuất hiện, thực hiện được",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/meɪk ɪt/"
+  },
+  {
+    "number": 40,
+    "word": "supply",
+    "definition": "sự cung cấp, nhu yếu phẩm, cung cấp",
+    "partOfSpeech": "n, v",
+    "pronunciation": "/sə'plai/"
+  },
+  {
+    "number": 41,
+    "word": "bottom",
+    "definition": "dưới cùng, đáy",
+    "partOfSpeech": "n",
+    "pronunciation": "/'bɔtəm/ /'tɒp/, /'bɑtəm/ /'tɑp/"
+  },
+  {
+    "number": 42,
+    "word": "offer",
+    "definition": "đề nghị, cung cấp, lời đề nghị",
+    "partOfSpeech": "v, n",
+    "pronunciation": "/'ɒfə(r)/ (UK), /'ɑː.fər/ (US)"
+  },
+  {
+    "number": 43,
+    "word": "contact",
+    "definition": "liên lạc, mối liên hệ",
+    "partOfSpeech": "n, v",
+    "pronunciation": "/'kɒn.tækt/ (UK), /'kɑːn.tækt/ (US)"
+  },
+  {
+    "number": 44,
+    "word": "subscription",
+    "definition": "sự đăng kí, sự đặt mua dài hạn (báo, tạp chí...)",
+    "partOfSpeech": "n",
+    "pronunciation": "/səb'skrɪp.ʃən/"
+  },
+  {
+    "number": 45,
+    "word": "add",
+    "definition": "thêm vào",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/æd/"
+  },
+  {
+    "number": 46,
+    "word": "utility",
+    "definition": "dịch vụ tiện ích (điện, nước...)",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/juːˈtɪl.ə.ti/"
+  },
+  {
+    "number": 47,
+    "word": "cost",
+    "definition": "tốn (tiền, thời gian...), chi phí",
+    "partOfSpeech": "(v)",
+    "pronunciation": "(v) /kɒst/ (UK), /kɑːst/ (US)"
+  },
+  {
+    "number": 48,
+    "word": "review",
+    "definition": "phê bình, đánh giá, xem xét, duyệt lại",
+    "partOfSpeech": "review (n) (v)",
+    "pronunciation": "go over, look over /rɪˈvjuː/"
+  },
+  {
+    "number": 49,
+    "word": "status",
+    "definition": "tình trạng, địa vị",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈsteɪ.təs/"
+  },
+  {
+    "number": 50,
+    "word": "draft",
+    "definition": "bản thảo, nháp",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/drɑːft/ (UK), /dræft/ (US)"
+  }
+]

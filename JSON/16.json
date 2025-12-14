@@ -1,0 +1,352 @@
+[
+  {
+    "number": 1,
+    "word": "potential",
+    "definition": "tiềm năng, tiềm lực, khả năng",
+    "partOfSpeech": "(a) (n)",
+    "pronunciation": "/pəˈten.ʃəl/"
+  },
+  {
+    "number": 2,
+    "word": "spot",
+    "definition": "nơi, chốn, nhận ra, phát hiện",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/spɒt/"
+  },
+  {
+    "number": 3,
+    "word": "check out",
+    "definition": "mượn (sách, ở thư viện), điều tra, xem",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/ˈtʃek.aʊt/"
+  },
+  {
+    "number": 4,
+    "word": "remodeling",
+    "definition": "sự tu sửa",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˌriːˈmɒd.əlɪŋ/"
+  },
+  {
+    "number": 5,
+    "word": "not until",
+    "definition": "mãi cho đến khi",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/nɒt/ /ənˈtɪl/"
+  },
+  {
+    "number": 6,
+    "word": "warranty",
+    "definition": "sự bảo hành",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/ˈwɒr.ən.ti/"
+  },
+  {
+    "number": 7,
+    "word": "issue",
+    "definition": "in ra, phát hành, số báo,",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/ˈɪʃ.uː/ /ˈɪs.juː/"
+  },
+  {
+    "number": 8,
+    "word": "stop by",
+    "definition": "ghé qua",
+    "partOfSpeech": "phr.v",
+    "pronunciation": "/stop/ /bai/"
+  },
+  {
+    "number": 9,
+    "word": "domestic",
+    "definition": "trong nước, nội địa",
+    "partOfSpeech": "a",
+    "pronunciation": "/dəˈmes.tɪk/"
+  },
+  {
+    "number": 10,
+    "word": "nominate",
+    "definition": "đề cử",
+    "partOfSpeech": "v",
+    "pronunciation": "/ˈnɒm.ɪ.neɪt/"
+  },
+  {
+    "number": 11,
+    "word": "put together",
+    "definition": "kết hợp, đặt cùng nhau",
+    "partOfSpeech": "phr",
+    "pronunciation": "/pʊt/ /təˈɡeð.ər/"
+  },
+  {
+    "number": 12,
+    "word": "upcoming",
+    "definition": "sắp tới",
+    "partOfSpeech": "a",
+    "pronunciation": "/ʌpˈkʌm.ɪŋ/"
+  },
+  {
+    "number": 13,
+    "word": "spacious",
+    "definition": "rộng rãi",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/'speɪ.ʃəs/"
+  },
+  {
+    "number": 14,
+    "word": "experience",
+    "definition": "kinh nghiệm, trải nghiệm, trải qua, cảm thấy",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/ɪkˈspɪə.ri.əns/"
+  },
+  {
+    "number": 15,
+    "word": "figure out",
+    "definition": "tìm ra, hiểu",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/'fɪg.ər/ /aʊt/"
+  },
+  {
+    "number": 16,
+    "word": "recipe",
+    "definition": "công thức",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'res.ɪ.pi/"
+  },
+  {
+    "number": 17,
+    "word": "raise",
+    "definition": "nâng, tăng lên, sự nâng, tăng lên",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/reɪz/"
+  },
+  {
+    "number": 18,
+    "word": "shift",
+    "definition": "ca (làm việc), chuyển đổi, dời đi",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/ʃɪft/"
+  },
+  {
+    "number": 19,
+    "word": "opening",
+    "definition": "công việc (dạng tuyển), lễ khánh thành, khai trương",
+    "partOfSpeech": "n",
+    "pronunciation": "/ˈəʊ.pən.ɪŋ/ /vəˈkeɪ.si/"
+  },
+  {
+    "number": 20,
+    "word": "install",
+    "definition": "lắp đặt",
+    "partOfSpeech": "v",
+    "pronunciation": "/ɪnˈstɔːl/"
+  },
+  {
+    "number": 21,
+    "word": "in the meantime",
+    "definition": "trong lúc đó",
+    "partOfSpeech": "phr",
+    "pronunciation": "/ɪn/ /ðə/ /ˈmiːn.taɪm/"
+  },
+  {
+    "number": 22,
+    "word": "promotion",
+    "definition": "sự thăng chức, sự quảng cáo, khuyến mãi",
+    "partOfSpeech": "n",
+    "pronunciation": "/prəˈməʊ.ʃən/ /ədˈvɑːns.mənt/"
+  },
+  {
+    "number": 23,
+    "word": "cover",
+    "definition": "bù đắp, đưa tin, bảo hành, bảo hiểm",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/'kʌv.ər/"
+  },
+  {
+    "number": 24,
+    "word": "extra",
+    "definition": "thêm, sự thêm vào, cộng thêm (tiền, ...)",
+    "partOfSpeech": "(a) (n) (adv) = additional",
+    "pronunciation": "/'ek.strə/"
+  },
+  {
+    "number": 25,
+    "word": "contractor",
+    "definition": "nhà thầu",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/'kɒn.træk.tər/"
+  },
+  {
+    "number": 26,
+    "word": "reject",
+    "definition": "từ chối, loại bỏ",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/rɪˈdʒekt/"
+  },
+  {
+    "number": 27,
+    "word": "publish",
+    "definition": "xuất bản",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/pæb.lɪʃ/"
+  },
+  {
+    "number": 28,
+    "word": "loan",
+    "definition": "khoản vay, sự cho mượn, cho vay, mượn",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/loʊn/"
+  },
+  {
+    "number": 29,
+    "word": "brainstorm",
+    "definition": "động não, nghĩ ra",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/breɪn.stɔːm/"
+  },
+  {
+    "number": 30,
+    "word": "lease",
+    "definition": "hợp đồng cho thuê (bất động sản), cho thuê",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/liːs/"
+  },
+  {
+    "number": 31,
+    "word": "Facility",
+    "definition": "cơ sở, tiện nghi",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/fəˈsɪl.ə.ti/"
+  },
+  {
+    "number": 32,
+    "word": "feedback",
+    "definition": "phản hồi, góp ý",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/fiːd.bæk/"
+  },
+  {
+    "number": 33,
+    "word": "candidate",
+    "definition": "ứng viên, thí sinh",
+    "partOfSpeech": "n",
+    "pronunciation": "/'kæn.dɪ.dət/ /'kæn.dɪ.deɪt/ /'æp.lɪ.kənt/"
+  },
+  {
+    "number": 34,
+    "word": "save",
+    "definition": "tiết kiệm, lưu lại",
+    "partOfSpeech": "v",
+    "pronunciation": "/serv/"
+  },
+  {
+    "number": 35,
+    "word": "be sure to",
+    "definition": "chắc chắn rằng",
+    "partOfSpeech": "phr",
+    "pronunciation": "/biː /fɔːr/ /tə/"
+  },
+  {
+    "number": 36,
+    "word": "option",
+    "definition": "sự lựa chọn",
+    "partOfSpeech": "n",
+    "pronunciation": "/'ɒp.ʃən/"
+  },
+  {
+    "number": 37,
+    "word": "reservation",
+    "definition": "sự đặt chỗ",
+    "partOfSpeech": "n",
+    "pronunciation": "/rez.əˈveɪ.ʃən/ /ˌbʊk.ɪŋ/"
+  },
+  {
+    "number": 38,
+    "word": "locate",
+    "definition": "tọa lạc, nằm ở, định vị, xác định vị trí",
+    "partOfSpeech": "v",
+    "pronunciation": "/ləʊˈkeɪt/"
+  },
+  {
+    "number": 39,
+    "word": "Assorted",
+    "definition": "đủ loại, đa dạng",
+    "partOfSpeech": "a",
+    "pronunciation": "/əˈsɔː.tɪd/"
+  },
+  {
+    "number": 40,
+    "word": "improvement",
+    "definition": "sự cải thiện, tiến bộ",
+    "partOfSpeech": "n",
+    "pronunciation": "/ɪmˈpruːv.mənt/"
+  },
+  {
+    "number": 41,
+    "word": "replace",
+    "definition": "thay thế",
+    "partOfSpeech": "n",
+    "pronunciation": "/rɪˈpleɪs/"
+  },
+  {
+    "number": 42,
+    "word": "apologize",
+    "definition": "xin lỗi",
+    "partOfSpeech": "v",
+    "pronunciation": "/əˈpɒl.ə.dʒaɪz/"
+  },
+  {
+    "number": 43,
+    "word": "community",
+    "definition": "cộng đồng",
+    "partOfSpeech": "n",
+    "pronunciation": "/kəˈmjuː.nə.ti/"
+  },
+  {
+    "number": 44,
+    "word": "confirm",
+    "definition": "xác nhận",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/kənˈfɜːm/"
+  },
+  {
+    "number": 45,
+    "word": "Prescription",
+    "definition": "đơn thuốc, toa",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/prɪˈskrɪpʃən/"
+  },
+  {
+    "number": 46,
+    "word": "relationship",
+    "definition": "mối quan hệ",
+    "partOfSpeech": "(n)",
+    "pronunciation": "/rɪˈleɪʃənʃɪp/"
+  },
+  {
+    "number": 47,
+    "word": "overseas",
+    "definition": "nước ngoài, ở, ra nước ngoài",
+    "partOfSpeech": "(a) (adv)",
+    "pronunciation": "/ˌəʊvəˈsiːz/"
+  },
+  {
+    "number": 48,
+    "word": "account",
+    "definition": "tài khoản, bản báo cáo, tường thuật",
+    "partOfSpeech": "(n) (v)",
+    "pronunciation": "/əˈkaʊnt/"
+  },
+  {
+    "number": 49,
+    "word": "impressed",
+    "definition": "(bị, cảm thấy) ấn tượng",
+    "partOfSpeech": "(a)",
+    "pronunciation": "/ɪmˈprest/"
+  },
+  {
+    "number": 50,
+    "word": "assembly",
+    "definition": "sự lắp ráp",
+    "partOfSpeech": "n",
+    "pronunciation": "/əˈsem.bli/"
+  }
+]

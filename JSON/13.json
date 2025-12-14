@@ -1,0 +1,359 @@
+[
+  {
+    "number": 1,
+    "word": "outdoors",
+    "definition": "ngoài trời",
+    "partOfSpeech": "adv",
+    "pronunciation": "/ˌaʊtˈdɔːz/ (UK), /ˌaʊtˈdɔːrz/ (US) /ˌaʊtˈsaɪd/"
+  },
+  {
+    "number": 2,
+    "word": "store",
+    "definition": "tích trữ, cất giữ/ cửa hàng",
+    "partOfSpeech": "v, n",
+    "pronunciation": "/stɔːr/ (UK), /stɔːr/ (US)"
+  },
+  {
+    "number": 3,
+    "word": "mount",
+    "definition": "đóng, gắn vào",
+    "partOfSpeech": "v",
+    "pronunciation": "/maʊnt/"
+  },
+  {
+    "number": 4,
+    "word": "lift",
+    "definition": "nâng, nhấc lên",
+    "partOfSpeech": "v",
+    "pronunciation": "/lɪft/"
+  },
+  {
+    "number": 5,
+    "word": "polish",
+    "definition": "đánh bóng",
+    "partOfSpeech": "v",
+    "pronunciation": "/ˈpɒlɪʃ/"
+  },
+  {
+    "number": 6,
+    "word": "pick up",
+    "definition": "nhặt lên, hái, đón ai",
+    "partOfSpeech": "phr.v",
+    "pronunciation": "/pɪk.ʌp/"
+  },
+  {
+    "number": 7,
+    "word": "clear",
+    "definition": "dọn dẹp",
+    "partOfSpeech": "v",
+    "pronunciation": "/klɪə(r)/ (UK), /klɪər/ (US)"
+  },
+  {
+    "number": 8,
+    "word": "put away",
+    "definition": "cất, dọn đi",
+    "partOfSpeech": "phr.v",
+    "pronunciation": "/pʊt /əˈweɪ/"
+  },
+  {
+    "number": 9,
+    "word": "check",
+    "definition": "kiểm tra, ký gửi",
+    "partOfSpeech": "v",
+    "pronunciation": "/tʃek/"
+  },
+  {
+    "number": 10,
+    "word": "fasten",
+    "definition": "buộc, thắt chặt",
+    "partOfSpeech": "v",
+    "pronunciation": "/ˈfɑː.sən/ (UK), /ˈfæs.ən/ (US)"
+  },
+  {
+    "number": 11,
+    "word": "board",
+    "definition": "lên, đáp (tàu thuyền, máy bay, xe buýt), tấm ván, bảng",
+    "partOfSpeech": "v (n)",
+    "pronunciation": "/bɔːd/ (UK), /bɔːrd/ (US)"
+  },
+  {
+    "number": 12,
+    "word": "serve",
+    "definition": "phục vụ",
+    "partOfSpeech": "v",
+    "pronunciation": "/sɜːv/ (UK), /sɜːrv/ (US)"
+  },
+  {
+    "number": 13,
+    "word": "spray",
+    "definition": "xịt, phun (nước), tia nước, bình xịt",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/sprei/"
+  },
+  {
+    "number": 14,
+    "word": "lie",
+    "definition": "nằm",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/lai/"
+  },
+  {
+    "number": 15,
+    "word": "border",
+    "definition": "tiếp giáp, bao quanh, biên giới",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/'bɔ:.dər/ (UK), /'bɔ:r.dər/ (US)"
+  },
+  {
+    "number": 16,
+    "word": "climb",
+    "definition": "leo (lên)",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/klaim/"
+  },
+  {
+    "number": 17,
+    "word": "wipe",
+    "definition": "lau chùi, làm sạch",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/waip/"
+  },
+  {
+    "number": 18,
+    "word": "exercise",
+    "definition": "tập thể dục",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/'ek.sə.saiz/ (UK), /'ek.sər.saiz/ (US)"
+  },
+  {
+    "number": 19,
+    "word": "exit",
+    "definition": "rời khỏi, ra về, lối ra",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/'ek.sit/"
+  },
+  {
+    "number": 20,
+    "word": "frame",
+    "definition": "dựng khung, khung (ảnh, tranh, ...)",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/freɪm/"
+  },
+  {
+    "number": 21,
+    "word": "move",
+    "definition": "di chuyển",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/muːv/"
+  },
+  {
+    "number": 22,
+    "word": "stock",
+    "definition": "cung cấp, tích trữ (hàng hóa), hàng tồn kho",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/stɒk/ (UK), /stɑːk/ (US)"
+  },
+  {
+    "number": 23,
+    "word": "dine",
+    "definition": "ăn uống",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/daɪn/"
+  },
+  {
+    "number": 24,
+    "word": "spread",
+    "definition": "trải, căng ra",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/spred/"
+  },
+  {
+    "number": 25,
+    "word": "bow",
+    "definition": "cúi chào",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/baʊ/"
+  },
+  {
+    "number": 26,
+    "word": "cook",
+    "definition": "nấu ăn, đầu bếp",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/kuk/"
+  },
+  {
+    "number": 27,
+    "word": "take off",
+    "definition": "tháo, cởi bỏ (trang phục), cất cánh",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/'teik.ɒf/"
+  },
+  {
+    "number": 28,
+    "word": "extend",
+    "definition": "kéo dài, mở rộng",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ik'stend/"
+  },
+  {
+    "number": 29,
+    "word": "row",
+    "definition": "chèo (thuyền), hàng, dãy",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/rəʊ/"
+  },
+  {
+    "number": 30,
+    "word": "run",
+    "definition": "chạy dài, quanh, chạy bộ",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/rʌn/"
+  },
+  {
+    "number": 31,
+    "word": "post",
+    "definition": "cột trụ / dán, dựng, đăng (thông báo,...)",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/pəʊst/ (UK), /poʊst/ (US)"
+  },
+  {
+    "number": 32,
+    "word": "take notes",
+    "definition": "ghi chép",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/teɪk.nəʊts/"
+  },
+  {
+    "number": 33,
+    "word": "browse",
+    "definition": "đọc, xem lướt",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/braʊz/"
+  },
+  {
+    "number": 34,
+    "word": "set up",
+    "definition": "dựng lên, thiết lập",
+    "partOfSpeech": "set up (phr.v) = install",
+    "pronunciation": "/set ʌp/ /ɪnˈstɔːl/"
+  },
+  {
+    "number": 35,
+    "word": "put up",
+    "definition": "dựng lên",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/pʊt.ʌp/"
+  },
+  {
+    "number": 36,
+    "word": "work on",
+    "definition": "nỗ lực, cố gắng (cải thiện/đạt được gì đó)",
+    "partOfSpeech": "(phr.v)",
+    "pronunciation": "/wɜːk.ɒn/ (UK), /wɜːrk.ɑːn/ (US)"
+  },
+  {
+    "number": 37,
+    "word": "display",
+    "definition": "trưng bày, sự trưng bày, triển lãm",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/dɪˈspleɪ/"
+  },
+  {
+    "number": 38,
+    "word": "sort",
+    "definition": "sắp xếp, phân loại",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/sɔːt/ (UK), /sɔːrt/ (US)"
+  },
+  {
+    "number": 39,
+    "word": "sweep",
+    "definition": "quét",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/swiːp/"
+  },
+  {
+    "number": 40,
+    "word": "be seated",
+    "definition": "ngồi",
+    "partOfSpeech": "(phr)",
+    "pronunciation": "/ˈsiː.tɪd/"
+  },
+  {
+    "number": 41,
+    "word": "exchange",
+    "definition": "trao đổi, sự trao đổi",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/ɪksˈtʃeɪndʒ/"
+  },
+  {
+    "number": 42,
+    "word": "roll",
+    "definition": "quấn, cuộn, lăn",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/rəʊl/"
+  },
+  {
+    "number": 43,
+    "word": "dock",
+    "definition": "neo, đậu (tàu, thuyền), bến tàu",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/dɒŋk/ (UK), /da:k/ (US)"
+  },
+  {
+    "number": 44,
+    "word": "sew",
+    "definition": "may, khâu",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/səʊ/ (UK), /soʊ/ (US)"
+  },
+  {
+    "number": 45,
+    "word": "sip",
+    "definition": "uống từng ngụm, nhấm nháp",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/sɪp/"
+  },
+  {
+    "number": 46,
+    "word": "pile",
+    "definition": "chất đống, xếp chồng, chồng, đống",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/paɪl/"
+  },
+  {
+    "number": 47,
+    "word": "wrap",
+    "definition": "gói, bọc",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ræp/"
+  },
+  {
+    "number": 48,
+    "word": "relax",
+    "definition": "take a rest, rest / nghỉ ngơi",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/rɪˈlæks/ /rest/"
+  },
+  {
+    "number": 49,
+    "word": "cast",
+    "definition": "tạo, tỏa ra (ánh sáng, bóng mát,...)",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/kɑːst/ (UK), /kæst/ (US)"
+  },
+  {
+    "number": 50,
+    "word": "enter",
+    "definition": "nhập (dữ liệu), đi, bước vào",
+    "partOfSpeech": "(v)",
+    "pronunciation": "/ˈen.tə(r)/ (UK), /ˈen.t̬ɚ/ (US)"
+  },
+  {
+    "number": 51,
+    "word": "fall",
+    "definition": "lộn nhào, lật đổ, rơi xuống",
+    "partOfSpeech": "(v) (n)",
+    "pronunciation": "/fɔːl/ (UK), /fɑːl/ (US)"
+  }
+]
