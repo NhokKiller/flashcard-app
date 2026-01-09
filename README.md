@@ -3,9 +3,9 @@
 Ứng dụng học từ vựng tiếng Anh với các tính năng:
 
 ## ✨ Tính năng chính
-
-- **📚 Duyệt thẻ**: Xem tất cả flashcard với hiệu ứng lật thẻ
-- **📖 Học tập**: Học từ vựng theo thứ tự với theo dõi tiến trình  
+t cả flashcard với hiệu ứng lật thẻ
+- **📖 Học tập**:
+- **📚 Duyệt thẻ**: Xem tấ Học từ vựng theo thứ tự với theo dõi tiến trình  
 - **🎯 Kiểm tra**: Quiz trắc nghiệm với đếm ngược thời gian
 - **✍️ Điền từ**: Luyện viết chính tả với gợi ý
 

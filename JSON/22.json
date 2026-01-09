@@ -1,0 +1,482 @@
+[
+  {
+    "number": 1,
+    "word": "carry",
+    "definition": "mang theo",
+    "pronunciation": "/ˈkær.i/"
+  },
+  {
+    "number": 2,
+    "word": "remove",
+    "definition": "gỡ bỏ, cởi ra",
+    "pronunciation": "/rɪˈmuːv/"
+  },
+  {
+    "number": 3,
+    "word": "pour",
+    "definition": "đổ, rót",
+    "pronunciation": "/pɔːr/"
+  },
+  {
+    "number": 4,
+    "word": "beverage",
+    "definition": "đồ uống",
+    "pronunciation": "/ˈbev.ər.ɪdʒ/"
+  },
+  {
+    "number": 5,
+    "word": "light fixture",
+    "definition": "thiết bị chiếu sáng, đèn",
+    "pronunciation": "/ˈlaɪt ˌfɪks.tʃər/"
+  },
+  {
+    "number": 6,
+    "word": "install",
+    "definition": "lắp đặt",
+    "pronunciation": "/ɪnˈstɔːl/"
+  },
+  {
+    "number": 7,
+    "word": "warehouse",
+    "definition": "kho hàng",
+    "pronunciation": "/ˈwer.haʊs/"
+  },
+  {
+    "number": 8,
+    "word": "meeting minutes",
+    "definition": "biên bản cuộc họp",
+    "pronunciation": "/ˈmiː.tɪŋ ˈmɪn.ɪts/"
+  },
+  {
+    "number": 9,
+    "word": "accounting",
+    "definition": "kế toán",
+    "pronunciation": "/əˈkaʊn.tɪŋ/"
+  },
+  {
+    "number": 10,
+    "word": "assistant",
+    "definition": "trợ lý",
+    "pronunciation": "/əˈsɪs.tənt/"
+  },
+  {
+    "number": 11,
+    "word": "account",
+    "definition": "tài khoản",
+    "pronunciation": "/əˈkaʊnt/"
+  },
+  {
+    "number": 12,
+    "word": "analyst",
+    "definition": "nhà phân tích",
+    "pronunciation": "/ˈæn.əl.ɪst/"
+  },
+  {
+    "number": 13,
+    "word": "decoration",
+    "definition": "đồ trang trí",
+    "pronunciation": "/ˌdek.əˈreɪ.ʃən/"
+  },
+  {
+    "number": 14,
+    "word": "competent",
+    "definition": "có năng lực",
+    "pronunciation": "/ˈkɑːm.pə.tənt/"
+  },
+  {
+    "number": 15,
+    "word": "retreat",
+    "definition": "chuyến nghỉ dưỡng, chuyến dã ngoại",
+    "pronunciation": "/rɪˈtriːt/"
+  },
+  {
+    "number": 16,
+    "word": "solve",
+    "definition": "giải quyết",
+    "pronunciation": "/sɑːlv/"
+  },
+  {
+    "number": 17,
+    "word": "departure",
+    "definition": "sự khởi hành",
+    "pronunciation": "/dɪˈpɑːr.tʃər/"
+  },
+  {
+    "number": 18,
+    "word": "introduction",
+    "definition": "lời giới thiệu, phần mở đầu",
+    "pronunciation": "/ˌɪn.trəˈdʌk.ʃən/"
+  },
+  {
+    "number": 19,
+    "word": "retirement",
+    "definition": "sự nghỉ hưu",
+    "pronunciation": "/rɪˈtaɪər.mənt/"
+  },
+  {
+    "number": 20,
+    "word": "appointment",
+    "definition": "cuộc hẹn",
+    "pronunciation": "/əˈpɔɪnt.mənt/"
+  },
+  {
+    "number": 21,
+    "word": "borrow",
+    "definition": "vay, mượn",
+    "pronunciation": "/ˈbɑːr.oʊ/"
+  },
+  {
+    "number": 22,
+    "word": "brochure",
+    "definition": "tờ gấp quảng cáo",
+    "pronunciation": "/broʊˈʃʊr/"
+  },
+  {
+    "number": 23,
+    "word": "confirmation",
+    "definition": "sự xác nhận",
+    "pronunciation": "/ˌkɑːn.fɚˈmeɪ.ʃən/"
+  },
+  {
+    "number": 24,
+    "word": "process",
+    "definition": "quy trình",
+    "pronunciation": "/ˈprɑː.ses/"
+  },
+  {
+    "number": 25,
+    "word": "expense",
+    "definition": "chi phí",
+    "pronunciation": "/ɪkˈspens/"
+  },
+  {
+    "number": 26,
+    "word": "finance",
+    "definition": "tài chính",
+    "pronunciation": "/ˈfaɪ.næns/"
+  },
+  {
+    "number": 27,
+    "word": "correct",
+    "definition": "đúng, chính xác",
+    "pronunciation": "/kəˈrekt/"
+  },
+  {
+    "number": 28,
+    "word": "demonstration",
+    "definition": "buổi trình diễn",
+    "pronunciation": "/ˌdem.ənˈstreɪ.ʃən/"
+  },
+  {
+    "number": 29,
+    "word": "charge",
+    "definition": "sạc, tính phí",
+    "pronunciation": "/tʃɑːrdʒ/"
+  },
+  {
+    "number": 30,
+    "word": "device",
+    "definition": "thiết bị",
+    "pronunciation": "/dɪˈvaɪs/"
+  },
+  {
+    "number": 31,
+    "word": "cost",
+    "definition": "tốn chi phí",
+    "pronunciation": "/kɑːst/"
+  },
+  {
+    "number": 32,
+    "word": "extra",
+    "definition": "thêm, phụ",
+    "pronunciation": "/ˈek.strə/"
+  },
+  {
+    "number": 33,
+    "word": "in charge of",
+    "definition": "phụ trách",
+    "pronunciation": "/ɪn ˈtʃɑːrdʒ əv/"
+  },
+  {
+    "number": 34,
+    "word": "crew",
+    "definition": "đội, nhóm làm việc",
+    "pronunciation": "/kruː/"
+  },
+  {
+    "number": 35,
+    "word": "available",
+    "definition": "có sẵn",
+    "pronunciation": "/əˈveɪ.lə.bəl/"
+  },
+  {
+    "number": 36,
+    "word": "depend on",
+    "definition": "phụ thuộc vào",
+    "pronunciation": "/dɪˈpend ɑːn/"
+  },
+  {
+    "number": 37,
+    "word": "addition",
+    "definition": "sự bổ sung",
+    "pronunciation": "/əˈdɪʃ.ən/"
+  },
+  {
+    "number": 38,
+    "word": "consider",
+    "definition": "cân nhắc",
+    "pronunciation": "/kənˈsɪd.ər/"
+  },
+  {
+    "number": 39,
+    "word": "lower",
+    "definition": "hạ thấp",
+    "pronunciation": "/ˈloʊ.ər/"
+  },
+  {
+    "number": 40,
+    "word": "headquarters",
+    "definition": "trụ sở chính",
+    "pronunciation": "/ˈhedˌkwɔːr.t̬ərz/"
+  },
+  {
+    "number": 41,
+    "word": "book",
+    "definition": "đặt chỗ",
+    "pronunciation": "/bʊk/"
+  },
+  {
+    "number": 42,
+    "word": "regional",
+    "definition": "thuộc khu vực",
+    "pronunciation": "/ˈriː.dʒən.əl/"
+  },
+  {
+    "number": 43,
+    "word": "performance",
+    "definition": "hiệu suất",
+    "pronunciation": "/pɚˈfɔːr.məns/"
+  },
+  {
+    "number": 44,
+    "word": "advance",
+    "definition": "trước, sớm",
+    "pronunciation": "/ədˈvæns/"
+  },
+  {
+    "number": 45,
+    "word": "payment",
+    "definition": "sự thanh toán",
+    "pronunciation": "/ˈpeɪ.mənt/"
+  },
+  {
+    "number": 46,
+    "word": "required",
+    "definition": "được yêu cầu",
+    "pronunciation": "/rɪˈwaɪərd/"
+  },
+  {
+    "number": 47,
+    "word": "sign up for",
+    "definition": "đăng ký",
+    "pronunciation": "/saɪn ʌp fɔːr/"
+  },
+  {
+    "number": 48,
+    "word": "competition",
+    "definition": "cuộc thi",
+    "pronunciation": "/ˌkɑːm.pəˈtɪʃ.ən/"
+  },
+  {
+    "number": 49,
+    "word": "merchandise",
+    "definition": "hàng hóa",
+    "pronunciation": "/ˈmɝː.tʃən.daɪs/"
+  },
+  {
+    "number": 50,
+    "word": "permit",
+    "definition": "giấy phép",
+    "pronunciation": "/ˈpɝː.mɪt/"
+  },
+  {
+    "number": 51,
+    "word": "agree",
+    "definition": "đồng ý",
+    "pronunciation": "/əˈɡriː/"
+  },
+  {
+    "number": 52,
+    "word": "annual",
+    "definition": "hằng năm",
+    "pronunciation": "/ˈæn.ju.əl/"
+  },
+  {
+    "number": 53,
+    "word": "expand",
+    "definition": "mở rộng",
+    "pronunciation": "/ɪkˈspænd/"
+  },
+  {
+    "number": 54,
+    "word": "take care of",
+    "definition": "chăm sóc, xử lý",
+    "pronunciation": "/teɪk ker əv/"
+  },
+  {
+    "number": 55,
+    "word": "attendee",
+    "definition": "người tham dự",
+    "pronunciation": "/ˌæt.ənˈdiː/"
+  },
+  {
+    "number": 56,
+    "word": "job opening",
+    "definition": "vị trí tuyển dụng",
+    "pronunciation": "/dʒɑːb ˈoʊ.pən.ɪŋ/"
+  },
+  {
+    "number": 57,
+    "word": "author",
+    "definition": "tác giả",
+    "pronunciation": "/ˈɔː.θər/"
+  },
+  {
+    "number": 58,
+    "word": "reserve",
+    "definition": "đặt trước",
+    "pronunciation": "/rɪˈzɝːv/"
+  },
+  {
+    "number": 59,
+    "word": "revise",
+    "definition": "sửa đổi",
+    "pronunciation": "/rɪˈvaɪz/"
+  },
+  {
+    "number": 60,
+    "word": "budget",
+    "definition": "ngân sách",
+    "pronunciation": "/ˈbʌdʒ.ɪt/"
+  },
+  {
+    "number": 61,
+    "word": "get rid of",
+    "definition": "loại bỏ",
+    "pronunciation": "/ɡet rɪd əv/"
+  },
+  {
+    "number": 62,
+    "word": "unfortunately",
+    "definition": "thật không may",
+    "pronunciation": "/ʌnˈfɔːr.tʃən.ət.li/"
+  },
+  {
+    "number": 63,
+    "word": "operation",
+    "definition": "hoạt động",
+    "pronunciation": "/ˌɑː.pəˈreɪ.ʃən/"
+  },
+  {
+    "number": 64,
+    "word": "application",
+    "definition": "đơn xin",
+    "pronunciation": "/ˌæp.lɪˈkeɪ.ʃən/"
+  },
+  {
+    "number": 65,
+    "word": "directions",
+    "definition": "chỉ dẫn",
+    "pronunciation": "/dəˈrek.ʃənz/"
+  },
+  {
+    "number": 66,
+    "word": "owner",
+    "definition": "chủ sở hữu",
+    "pronunciation": "/ˈoʊ.nər/"
+  },
+  {
+    "number": 67,
+    "word": "location",
+    "definition": "địa điểm",
+    "pronunciation": "/loʊˈkeɪ.ʃən/"
+  },
+  {
+    "number": 68,
+    "word": "local",
+    "definition": "địa phương",
+    "pronunciation": "/ˈloʊ.kəl/"
+  },
+  {
+    "number": 69,
+    "word": "advantage",
+    "definition": "lợi thế",
+    "pronunciation": "/ədˈvæn.tɪdʒ/"
+  },
+  {
+    "number": 70,
+    "word": "rental",
+    "definition": "sự cho thuê",
+    "pronunciation": "/ˈren.t̬əl/"
+  },
+  {
+    "number": 71,
+    "word": "release",
+    "definition": "phát hành",
+    "pronunciation": "/rɪˈliːs/"
+  },
+  {
+    "number": 72,
+    "word": "issue",
+    "definition": "vấn đề",
+    "pronunciation": "/ˈɪʃ.uː/"
+  },
+  {
+    "number": 73,
+    "word": "secure",
+    "definition": "đảm bảo, đạt được",
+    "pronunciation": "/sɪˈkjʊr/"
+  },
+  {
+    "number": 74,
+    "word": "conduct",
+    "definition": "tiến hành",
+    "pronunciation": "/kənˈdʌkt/"
+  },
+  {
+    "number": 75,
+    "word": "negotiate",
+    "definition": "đàm phán",
+    "pronunciation": "/nɪˈɡoʊ.ʃi.eɪt/"
+  },
+  {
+    "number": 76,
+    "word": "maintenance",
+    "definition": "bảo trì",
+    "pronunciation": "/ˈmeɪn.tə.nəns/"
+  },
+  {
+    "number": 77,
+    "word": "randomly",
+    "definition": "ngẫu nhiên",
+    "pronunciation": "/ˈræn.dəm.li/"
+  },
+  {
+    "number": 78,
+    "word": "malfunction",
+    "definition": "trục trặc",
+    "pronunciation": "/mælˈfʌŋk.ʃən/"
+  },
+  {
+    "number": 79,
+    "word": "complete",
+    "definition": "hoàn thành",
+    "pronunciation": "/kəmˈpliːt/"
+  },
+  {
+    "number": 80,
+    "word": "increase",
+    "definition": "tăng lên",
+    "pronunciation": "/ɪnˈkriːs/"
+  }
+]
