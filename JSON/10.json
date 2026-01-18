@@ -1,0 +1,482 @@
+[
+  {
+    "number": 1,
+    "word": "bucket",
+    "definition": "xô, thùng",
+    "pronunciation": "/ˈbʌk.ɪt/"
+  },
+  {
+    "number": 2,
+    "word": "stroll",
+    "definition": "dạo bộ",
+    "pronunciation": "/stroʊl/"
+  },
+  {
+    "number": 3,
+    "word": "hand",
+    "definition": "đưa, trao",
+    "pronunciation": "/hænd/"
+  },
+  {
+    "number": 4,
+    "word": "tow",
+    "definition": "kéo, lai dắt",
+    "pronunciation": "/toʊ/"
+  },
+  {
+    "number": 5,
+    "word": "dock",
+    "definition": "neo đậu",
+    "pronunciation": "/dɑːk/"
+  },
+  {
+    "number": 6,
+    "word": "shore",
+    "definition": "bờ biển",
+    "pronunciation": "/ʃɔːr/"
+  },
+  {
+    "number": 7,
+    "word": "downtown",
+    "definition": "khu trung tâm",
+    "pronunciation": "/ˌdaʊnˈtaʊn/"
+  },
+  {
+    "number": 8,
+    "word": "cuisine",
+    "definition": "ẩm thực",
+    "pronunciation": "/kwɪˈziːn/"
+  },
+  {
+    "number": 9,
+    "word": "lightweight",
+    "definition": "nhẹ",
+    "pronunciation": "/ˈlaɪt.weɪt/"
+  },
+  {
+    "number": 10,
+    "word": "sales",
+    "definition": "doanh số",
+    "pronunciation": "/seɪlz/"
+  },
+  {
+    "number": 11,
+    "word": "edit",
+    "definition": "chỉnh sửa",
+    "pronunciation": "/ˈed.ɪt/"
+  },
+  {
+    "number": 12,
+    "word": "advanced",
+    "definition": "tiên tiến",
+    "pronunciation": "/ədˈvænst/"
+  },
+  {
+    "number": 13,
+    "word": "result",
+    "definition": "kết quả",
+    "pronunciation": "/rɪˈzʌlt/"
+  },
+  {
+    "number": 14,
+    "word": "pharmacy",
+    "definition": "nhà thuốc",
+    "pronunciation": "/ˈfɑːr.mə.si/"
+  },
+  {
+    "number": 15,
+    "word": "keynote speech",
+    "definition": "bài phát biểu chủ đề",
+    "pronunciation": "/ˈkiː.noʊt spiːtʃ/"
+  },
+  {
+    "number": 16,
+    "word": "inspiring",
+    "definition": "truyền cảm hứng",
+    "pronunciation": "/ɪnˈspaɪə.rɪŋ/"
+  },
+  {
+    "number": 17,
+    "word": "technical",
+    "definition": "kỹ thuật",
+    "pronunciation": "/ˈtek.nɪ.kəl/"
+  },
+  {
+    "number": 18,
+    "word": "bookkeeping",
+    "definition": "kế toán sổ sách",
+    "pronunciation": "/ˈbʊkˌkiː.pɪŋ/"
+  },
+  {
+    "number": 19,
+    "word": "luncheon",
+    "definition": "bữa trưa trang trọng",
+    "pronunciation": "/ˈlʌn.tʃən/"
+  },
+  {
+    "number": 20,
+    "word": "indoors",
+    "definition": "trong nhà",
+    "pronunciation": "/ˌɪnˈdɔːrz/"
+  },
+  {
+    "number": 21,
+    "word": "outdoors",
+    "definition": "ngoài trời",
+    "pronunciation": "/ˌaʊtˈdɔːrz/"
+  },
+  {
+    "number": 22,
+    "word": "retail",
+    "definition": "bán lẻ",
+    "pronunciation": "/ˈriː.teɪl/"
+  },
+  {
+    "number": 23,
+    "word": "private",
+    "definition": "cá nhân",
+    "pronunciation": "/ˈpraɪ.vət/"
+  },
+  {
+    "number": 24,
+    "word": "craft",
+    "definition": "đồ thủ công",
+    "pronunciation": "/kræft/"
+  },
+  {
+    "number": 25,
+    "word": "fade",
+    "definition": "phai mờ",
+    "pronunciation": "/feɪd/"
+  },
+  {
+    "number": 26,
+    "word": "custom",
+    "definition": "theo yêu cầu",
+    "pronunciation": "/ˈkʌs.təm/"
+  },
+  {
+    "number": 27,
+    "word": "accidentally",
+    "definition": "vô tình",
+    "pronunciation": "/ˌæk.sɪˈden.təl.i/"
+  },
+  {
+    "number": 28,
+    "word": "boarding pass",
+    "definition": "thẻ lên máy bay",
+    "pronunciation": "/ˈbɔːr.dɪŋ pæs/"
+  },
+  {
+    "number": 29,
+    "word": "locate",
+    "definition": "xác định vị trí",
+    "pronunciation": "/loʊˈkeɪt/"
+  },
+  {
+    "number": 30,
+    "word": "describe",
+    "definition": "miêu tả",
+    "pronunciation": "/dɪˈskraɪb/"
+  },
+  {
+    "number": 31,
+    "word": "benefits",
+    "definition": "phúc lợi",
+    "pronunciation": "/ˈben.ə.fɪts/"
+  },
+  {
+    "number": 32,
+    "word": "walkway",
+    "definition": "lối đi",
+    "pronunciation": "/ˈwɔːk.weɪ/"
+  },
+  {
+    "number": 33,
+    "word": "durability",
+    "definition": "độ bền",
+    "pronunciation": "/ˌdʊr.əˈbɪl.ə.ti/"
+  },
+  {
+    "number": 34,
+    "word": "anticipate",
+    "definition": "dự đoán",
+    "pronunciation": "/ænˈtɪs.ɪ.peɪt/"
+  },
+  {
+    "number": 35,
+    "word": "negotiation",
+    "definition": "đàm phán",
+    "pronunciation": "/nɪˌɡoʊ.ʃiˈeɪ.ʃən/"
+  },
+  {
+    "number": 36,
+    "word": "passenger",
+    "definition": "hành khách",
+    "pronunciation": "/ˈpæs.ɪn.dʒɚ/"
+  },
+  {
+    "number": 37,
+    "word": "bypass",
+    "definition": "đường vòng",
+    "pronunciation": "/ˈbaɪ.pæs/"
+  },
+  {
+    "number": 38,
+    "word": "correction",
+    "definition": "sự sửa chữa",
+    "pronunciation": "/kəˈrek.ʃən/"
+  },
+  {
+    "number": 39,
+    "word": "alternate",
+    "definition": "thay thế",
+    "pronunciation": "/ˈɔːl.tɚ.nət/"
+  },
+  {
+    "number": 40,
+    "word": "cause",
+    "definition": "gây ra",
+    "pronunciation": "/kɔːz/"
+  },
+  {
+    "number": 41,
+    "word": "attendant",
+    "definition": "nhân viên phục vụ",
+    "pronunciation": "/əˈten.dənt/"
+  },
+  {
+    "number": 42,
+    "word": "sterile",
+    "definition": "vô trùng",
+    "pronunciation": "/ˈster.aɪl/"
+  },
+  {
+    "number": 43,
+    "word": "separate",
+    "definition": "tách biệt",
+    "pronunciation": "/ˈsep.ɚ.ət/"
+  },
+  {
+    "number": 44,
+    "word": "radius",
+    "definition": "bán kính",
+    "pronunciation": "/ˈreɪ.di.əs/"
+  },
+  {
+    "number": 45,
+    "word": "proceeds",
+    "definition": "tiền thu được",
+    "pronunciation": "/ˈproʊ.siːdz/"
+  },
+  {
+    "number": 46,
+    "word": "go toward",
+    "definition": "được dùng cho",
+    "pronunciation": "/ɡoʊ təˈwɔːrd/"
+  },
+  {
+    "number": 47,
+    "word": "raffle",
+    "definition": "rút thăm trúng thưởng",
+    "pronunciation": "/ˈræf.əl/"
+  },
+  {
+    "number": 48,
+    "word": "donation",
+    "definition": "khoản quyên góp",
+    "pronunciation": "/doʊˈneɪ.ʃən/"
+  },
+  {
+    "number": 49,
+    "word": "drawing",
+    "definition": "buổi bốc thăm",
+    "pronunciation": "/ˈdrɔː.ɪŋ/"
+  },
+  {
+    "number": 50,
+    "word": "getaway",
+    "definition": "kỳ nghỉ ngắn",
+    "pronunciation": "/ˈɡet.ə.weɪ/"
+  },
+  {
+    "number": 51,
+    "word": "arrangement",
+    "definition": "sự sắp xếp",
+    "pronunciation": "/əˈreɪndʒ.mənt/"
+  },
+  {
+    "number": 52,
+    "word": "observe",
+    "definition": "tổ chức, kỷ niệm",
+    "pronunciation": "/əbˈzɝːv/"
+  },
+  {
+    "number": 53,
+    "word": "mark",
+    "definition": "đánh dấu, kỷ niệm",
+    "pronunciation": "/mɑːrk/"
+  },
+  {
+    "number": 54,
+    "word": "completion",
+    "definition": "sự hoàn thành",
+    "pronunciation": "/kəmˈpliː.ʃən/"
+  },
+  {
+    "number": 55,
+    "word": "decorative",
+    "definition": "trang trí",
+    "pronunciation": "/ˈdek.ə.rə.tɪv/"
+  },
+  {
+    "number": 56,
+    "word": "harvest",
+    "definition": "thu hoạch",
+    "pronunciation": "/ˈhɑːr.vɪst/"
+  },
+  {
+    "number": 57,
+    "word": "feed",
+    "definition": "thức ăn",
+    "pronunciation": "/fiːd/"
+  },
+  {
+    "number": 58,
+    "word": "hands-on",
+    "definition": "thực hành trực tiếp",
+    "pronunciation": "/ˌhændzˈɑːn/"
+  },
+  {
+    "number": 59,
+    "word": "grain",
+    "definition": "ngũ cốc",
+    "pronunciation": "/ɡreɪn/"
+  },
+  {
+    "number": 60,
+    "word": "enable",
+    "definition": "cho phép",
+    "pronunciation": "/ɪˈneɪ.bəl/"
+  },
+  {
+    "number": 61,
+    "word": "direct",
+    "definition": "hướng dẫn",
+    "pronunciation": "/dɪˈrekt/"
+  },
+  {
+    "number": 62,
+    "word": "factor",
+    "definition": "yếu tố",
+    "pronunciation": "/ˈfæk.tɚ/"
+  },
+  {
+    "number": 63,
+    "word": "distance",
+    "definition": "khoảng cách",
+    "pronunciation": "/ˈdɪs.təns/"
+  },
+  {
+    "number": 64,
+    "word": "identity",
+    "definition": "danh tính",
+    "pronunciation": "/aɪˈden.tə.ti/"
+  },
+  {
+    "number": 65,
+    "word": "status",
+    "definition": "tình trạng",
+    "pronunciation": "/ˈsteɪ.təs/"
+  },
+  {
+    "number": 66,
+    "word": "takeoff",
+    "definition": "cất cánh",
+    "pronunciation": "/ˈteɪk.ɔːf/"
+  },
+  {
+    "number": 67,
+    "word": "fasten",
+    "definition": "cố định",
+    "pronunciation": "/ˈfæs.ən/"
+  },
+  {
+    "number": 68,
+    "word": "overhead",
+    "definition": "ở phía trên",
+    "pronunciation": "/ˈoʊ.vɚ.hed/"
+  },
+  {
+    "number": 69,
+    "word": "compartment",
+    "definition": "khoang chứa",
+    "pronunciation": "/kəmˈpɑːrt.mənt/"
+  },
+  {
+    "number": 70,
+    "word": "virtually",
+    "definition": "hầu như",
+    "pronunciation": "/ˈvɝː.tʃu.ə.li/"
+  },
+  {
+    "number": 71,
+    "word": "fulfill",
+    "definition": "hoàn thành",
+    "pronunciation": "/fʊlˈfɪl/"
+  },
+  {
+    "number": 72,
+    "word": "assure",
+    "definition": "đảm bảo",
+    "pronunciation": "/əˈʃʊr/"
+  },
+  {
+    "number": 73,
+    "word": "remain",
+    "definition": "vẫn còn",
+    "pronunciation": "/rɪˈmeɪn/"
+  },
+  {
+    "number": 74,
+    "word": "showcase",
+    "definition": "trưng bày",
+    "pronunciation": "/ˈʃoʊ.keɪs/"
+  },
+  {
+    "number": 75,
+    "word": "talented",
+    "definition": "có tài",
+    "pronunciation": "/ˈtæl.ən.tɪd/"
+  },
+  {
+    "number": 76,
+    "word": "enter",
+    "definition": "tham gia",
+    "pronunciation": "/ˈen.tɚ/"
+  },
+  {
+    "number": 77,
+    "word": "trend",
+    "definition": "xu hướng",
+    "pronunciation": "/trend/"
+  },
+  {
+    "number": 78,
+    "word": "informal",
+    "definition": "không trang trọng",
+    "pronunciation": "/ɪnˈfɔːr.məl/"
+  },
+  {
+    "number": 79,
+    "word": "inappropriate",
+    "definition": "không phù hợp",
+    "pronunciation": "/ˌɪn.əˈproʊ.pri.ət/"
+  },
+  {
+    "number": 80,
+    "word": "recipient",
+    "definition": "người nhận",
+    "pronunciation": "/rɪˈsɪp.i.ənt/"
+  }
+]

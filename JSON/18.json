@@ -1,0 +1,482 @@
+[
+  {
+    "number": 1,
+    "word": "significantly",
+    "definition": "đáng kể, rất nhiều",
+    "pronunciation": "/sɪɡˈnɪf.ɪ.kənt.li/"
+  },
+  {
+    "number": 2,
+    "word": "sturdy",
+    "definition": "chắc chắn, vững",
+    "pronunciation": "/ˈstɝː.di/"
+  },
+  {
+    "number": 3,
+    "word": "brief",
+    "definition": "ngắn gọn",
+    "pronunciation": "/briːf/"
+  },
+  {
+    "number": 4,
+    "word": "functional",
+    "definition": "hoạt động được",
+    "pronunciation": "/ˈfʌŋk.ʃə.nəl/"
+  },
+  {
+    "number": 5,
+    "word": "generate",
+    "definition": "tạo ra",
+    "pronunciation": "/ˈdʒen.ə.reɪt/"
+  },
+  {
+    "number": 6,
+    "word": "extensively",
+    "definition": "rộng rãi, trên diện rộng",
+    "pronunciation": "/ɪkˈsten.sɪv.li/"
+  },
+  {
+    "number": 7,
+    "word": "proceed",
+    "definition": "tiến hành",
+    "pronunciation": "/prəˈsiːd/"
+  },
+  {
+    "number": 8,
+    "word": "territory",
+    "definition": "lãnh thổ",
+    "pronunciation": "/ˈter.ə.tɔːr.i/"
+  },
+  {
+    "number": 9,
+    "word": "protocol",
+    "definition": "quy định, nghi thức",
+    "pronunciation": "/ˈproʊ.tə.kɑːl/"
+  },
+  {
+    "number": 10,
+    "word": "simplify",
+    "definition": "đơn giản hóa",
+    "pronunciation": "/ˈsɪm.plə.faɪ/"
+  },
+  {
+    "number": 11,
+    "word": "directions",
+    "definition": "chỉ dẫn",
+    "pronunciation": "/dəˈrek.ʃənz/"
+  },
+  {
+    "number": 12,
+    "word": "laboratory",
+    "definition": "phòng thí nghiệm",
+    "pronunciation": "/ˈlæb.rə.tɔːr.i/"
+  },
+  {
+    "number": 13,
+    "word": "undergraduate",
+    "definition": "sinh viên đại học",
+    "pronunciation": "/ˌʌn.dɚˈɡrædʒ.u.ət/"
+  },
+  {
+    "number": 14,
+    "word": "admission",
+    "definition": "việc nhập học",
+    "pronunciation": "/ədˈmɪʃ.ən/"
+  },
+  {
+    "number": 15,
+    "word": "semester",
+    "definition": "học kỳ",
+    "pronunciation": "/səˈmes.tɚ/"
+  },
+  {
+    "number": 16,
+    "word": "transcript",
+    "definition": "bảng điểm",
+    "pronunciation": "/ˈtræn.skrɪpt/"
+  },
+  {
+    "number": 17,
+    "word": "delighted",
+    "definition": "rất vui",
+    "pronunciation": "/dɪˈlaɪ.tɪd/"
+  },
+  {
+    "number": 18,
+    "word": "tendency",
+    "definition": "xu hướng",
+    "pronunciation": "/ˈten.dən.si/"
+  },
+  {
+    "number": 19,
+    "word": "disclose",
+    "definition": "tiết lộ",
+    "pronunciation": "/dɪsˈkloʊz/"
+  },
+  {
+    "number": 20,
+    "word": "hesitate",
+    "definition": "do dự",
+    "pronunciation": "/ˈhez.ə.teɪt/"
+  },
+  {
+    "number": 21,
+    "word": "candid",
+    "definition": "thẳng thắn",
+    "pronunciation": "/ˈkæn.dɪd/"
+  },
+  {
+    "number": 22,
+    "word": "unsuitable",
+    "definition": "không phù hợp",
+    "pronunciation": "/ʌnˈsuː.t̬ə.bəl/"
+  },
+  {
+    "number": 23,
+    "word": "compact",
+    "definition": "nhỏ gọn",
+    "pronunciation": "/kəmˈpækt/"
+  },
+  {
+    "number": 24,
+    "word": "beautify",
+    "definition": "làm đẹp",
+    "pronunciation": "/ˈbjuː.t̬ə.faɪ/"
+  },
+  {
+    "number": 25,
+    "word": "integrity",
+    "definition": "sự toàn vẹn",
+    "pronunciation": "/ɪnˈteɡ.rə.t̬i/"
+  },
+  {
+    "number": 26,
+    "word": "extra",
+    "definition": "thêm, phụ",
+    "pronunciation": "/ˈek.strə/"
+  },
+  {
+    "number": 27,
+    "word": "residential",
+    "definition": "thuộc khu dân cư",
+    "pronunciation": "/ˌrez.ɪˈden.ʃəl/"
+  },
+  {
+    "number": 28,
+    "word": "paved",
+    "definition": "được lát/được trải nhựa",
+    "pronunciation": "/peɪvd/"
+  },
+  {
+    "number": 29,
+    "word": "border",
+    "definition": "giáp ranh",
+    "pronunciation": "/ˈbɔːr.dɚ/"
+  },
+  {
+    "number": 30,
+    "word": "subsidiary",
+    "definition": "công ty con",
+    "pronunciation": "/səbˈsɪd.i.er.i/"
+  },
+  {
+    "number": 31,
+    "word": "budget",
+    "definition": "ngân sách",
+    "pronunciation": "/ˈbʌdʒ.ɪt/"
+  },
+  {
+    "number": 32,
+    "word": "distribution",
+    "definition": "phân phối",
+    "pronunciation": "/ˌdɪs.trəˈbjuː.ʃən/"
+  },
+  {
+    "number": 33,
+    "word": "researcher",
+    "definition": "nhà nghiên cứu",
+    "pronunciation": "/rɪˈsɝː.tʃɚ/"
+  },
+  {
+    "number": 34,
+    "word": "capability",
+    "definition": "năng lực",
+    "pronunciation": "/ˌkeɪ.pəˈbɪl.ə.t̬i/"
+  },
+  {
+    "number": 35,
+    "word": "vacancy",
+    "definition": "chỗ trống",
+    "pronunciation": "/ˈveɪ.kən.si/"
+  },
+  {
+    "number": 36,
+    "word": "cabin",
+    "definition": "khoang (máy bay)",
+    "pronunciation": "/ˈkæb.ɪn/"
+  },
+  {
+    "number": 37,
+    "word": "compartment",
+    "definition": "khoang, ngăn",
+    "pronunciation": "/kəmˈpɑːrt.mənt/"
+  },
+  {
+    "number": 38,
+    "word": "dimension",
+    "definition": "kích thước",
+    "pronunciation": "/dəˈmen.ʃən/"
+  },
+  {
+    "number": 39,
+    "word": "permission",
+    "definition": "sự cho phép",
+    "pronunciation": "/pɚˈmɪʃ.ən/"
+  },
+  {
+    "number": 40,
+    "word": "foster",
+    "definition": "thúc đẩy",
+    "pronunciation": "/ˈfɑː.stɚ/"
+  },
+  {
+    "number": 41,
+    "word": "roughly",
+    "definition": "xấp xỉ",
+    "pronunciation": "/ˈrʌf.li/"
+  },
+  {
+    "number": 42,
+    "word": "unexpected",
+    "definition": "bất ngờ",
+    "pronunciation": "/ˌʌn.ɪkˈspek.tɪd/"
+  },
+  {
+    "number": 43,
+    "word": "fulfillment",
+    "definition": "sự hoàn thành",
+    "pronunciation": "/fʊlˈfɪl.mənt/"
+  },
+  {
+    "number": 44,
+    "word": "lodging",
+    "definition": "chỗ ở",
+    "pronunciation": "/ˈlɑː.dʒɪŋ/"
+  },
+  {
+    "number": 45,
+    "word": "intent",
+    "definition": "ý định",
+    "pronunciation": "/ɪnˈtent/"
+  },
+  {
+    "number": 46,
+    "word": "directly",
+    "definition": "trực tiếp",
+    "pronunciation": "/dəˈrekt.li/"
+  },
+  {
+    "number": 47,
+    "word": "instructions",
+    "definition": "hướng dẫn",
+    "pronunciation": "/ɪnˈstrʌk.ʃənz/"
+  },
+  {
+    "number": 48,
+    "word": "go over",
+    "definition": "xem xét lại",
+    "pronunciation": "/ɡoʊ ˈoʊ.vɚ/"
+  },
+  {
+    "number": 49,
+    "word": "convinced",
+    "definition": "tin chắc",
+    "pronunciation": "/kənˈvɪnst/"
+  },
+  {
+    "number": 50,
+    "word": "personality",
+    "definition": "tính cách",
+    "pronunciation": "/ˌpɝː.səˈnæl.ə.t̬i/"
+  },
+  {
+    "number": 51,
+    "word": "structure",
+    "definition": "cấu trúc",
+    "pronunciation": "/ˈstrʌk.tʃɚ/"
+  },
+  {
+    "number": 52,
+    "word": "memorable",
+    "definition": "đáng nhớ",
+    "pronunciation": "/ˈmem.ə.rə.bəl/"
+  },
+  {
+    "number": 53,
+    "word": "politician",
+    "definition": "chính trị gia",
+    "pronunciation": "/ˌpɑː.ləˈtɪʃ.ən/"
+  },
+  {
+    "number": 54,
+    "word": "numerous",
+    "definition": "nhiều",
+    "pronunciation": "/ˈnuː.mə.rəs/"
+  },
+  {
+    "number": 55,
+    "word": "straightforward",
+    "definition": "thẳng thắn, đơn giản",
+    "pronunciation": "/ˌstreɪtˈfɔːr.wɚd/"
+  },
+  {
+    "number": 56,
+    "word": "fascinating",
+    "definition": "hấp dẫn",
+    "pronunciation": "/ˈfæs.ə.neɪ.tɪŋ/"
+  },
+  {
+    "number": 57,
+    "word": "portrait",
+    "definition": "chân dung",
+    "pronunciation": "/ˈpɔːr.trɪt/"
+  },
+  {
+    "number": 58,
+    "word": "enigmatic",
+    "definition": "bí ẩn",
+    "pronunciation": "/ˌen.ɪɡˈmæt.ɪk/"
+  },
+  {
+    "number": 59,
+    "word": "anecdote",
+    "definition": "giai thoại",
+    "pronunciation": "/ˈæn.ɪk.doʊt/"
+  },
+  {
+    "number": 60,
+    "word": "shortcoming",
+    "definition": "khuyết điểm",
+    "pronunciation": "/ˈʃɔːrtˌkʌm.ɪŋ/"
+  },
+  {
+    "number": 61,
+    "word": "credible",
+    "definition": "đáng tin cậy",
+    "pronunciation": "/ˈkred.ə.bəl/"
+  },
+  {
+    "number": 62,
+    "word": "fictional",
+    "definition": "hư cấu",
+    "pronunciation": "/ˈfɪk.ʃə.nəl/"
+  },
+  {
+    "number": 63,
+    "word": "quaint",
+    "definition": "cổ kính",
+    "pronunciation": "/kweɪnt/"
+  },
+  {
+    "number": 64,
+    "word": "criticism",
+    "definition": "sự chỉ trích",
+    "pronunciation": "/ˈkrɪt.ə.sɪ.zəm/"
+  },
+  {
+    "number": 65,
+    "word": "surrounding",
+    "definition": "xung quanh",
+    "pronunciation": "/səˈraʊn.dɪŋ/"
+  },
+  {
+    "number": 66,
+    "word": "minutes",
+    "definition": "biên bản họp",
+    "pronunciation": "/ˈmɪn.ɪts/"
+  },
+  {
+    "number": 67,
+    "word": "earmark",
+    "definition": "dành riêng",
+    "pronunciation": "/ˈɪr.mɑːrk/"
+  },
+  {
+    "number": 68,
+    "word": "adjustment",
+    "definition": "sự điều chỉnh",
+    "pronunciation": "/əˈdʒʌst.mənt/"
+  },
+  {
+    "number": 69,
+    "word": "recruitment",
+    "definition": "tuyển dụng",
+    "pronunciation": "/rɪˈkruːt.mənt/"
+  },
+  {
+    "number": 70,
+    "word": "boulevard",
+    "definition": "đại lộ",
+    "pronunciation": "/ˈbuː.lə.vɑːrd/"
+  },
+  {
+    "number": 71,
+    "word": "adjournment",
+    "definition": "sự bế mạc",
+    "pronunciation": "/əˈdʒɝːn.mənt/"
+  },
+  {
+    "number": 72,
+    "word": "utilities",
+    "definition": "chi phí tiện ích",
+    "pronunciation": "/juːˈtɪl.ə.t̬iz/"
+  },
+  {
+    "number": 73,
+    "word": "easygoing",
+    "definition": "dễ tính",
+    "pronunciation": "/ˈiː.ziˌɡoʊ.ɪŋ/"
+  },
+  {
+    "number": 74,
+    "word": "reasonably",
+    "definition": "khá, tương đối",
+    "pronunciation": "/ˈriː.zən.ə.bli/"
+  },
+  {
+    "number": 75,
+    "word": "satisfy",
+    "definition": "làm hài lòng",
+    "pronunciation": "/ˈsæt.ɪs.faɪ/"
+  },
+  {
+    "number": 76,
+    "word": "attune",
+    "definition": "điều chỉnh cho phù hợp",
+    "pronunciation": "/əˈtuːn/"
+  },
+  {
+    "number": 77,
+    "word": "resist",
+    "definition": "chống lại",
+    "pronunciation": "/rɪˈzɪst/"
+  },
+  {
+    "number": 78,
+    "word": "adhere",
+    "definition": "tuân thủ",
+    "pronunciation": "/ədˈhɪr/"
+  },
+  {
+    "number": 79,
+    "word": "striped",
+    "definition": "có sọc",
+    "pronunciation": "/straɪpt/"
+  },
+  {
+    "number": 80,
+    "word": "outstanding",
+    "definition": "nổi bật",
+    "pronunciation": "/aʊtˈstæn.dɪŋ/"
+  }
+]

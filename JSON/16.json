@@ -1,0 +1,482 @@
+[
+  {
+    "number": 1,
+    "word": "composer",
+    "definition": "nhà soạn nhạc",
+    "pronunciation": "/kəmˈpoʊzər/"
+  },
+  {
+    "number": 2,
+    "word": "politeness",
+    "definition": "sự lịch sự",
+    "pronunciation": "/pəˈlaɪtnəs/"
+  },
+  {
+    "number": 3,
+    "word": "practical",
+    "definition": "thực tế, thực dụng",
+    "pronunciation": "/ˈpræktɪkəl/"
+  },
+  {
+    "number": 4,
+    "word": "workstation",
+    "definition": "trạm làm việc",
+    "pronunciation": "/ˈwɜːrkˌsteɪʃən/"
+  },
+  {
+    "number": 5,
+    "word": "latest",
+    "definition": "mới nhất",
+    "pronunciation": "/ˈleɪtɪst/"
+  },
+  {
+    "number": 6,
+    "word": "quarterly",
+    "definition": "hàng quý",
+    "pronunciation": "/ˈkwɔːrtərli/"
+  },
+  {
+    "number": 7,
+    "word": "stakeholder",
+    "definition": "bên liên quan",
+    "pronunciation": "/ˈsteɪkˌhoʊldər/"
+  },
+  {
+    "number": 8,
+    "word": "biographer",
+    "definition": "nhà viết tiểu sử",
+    "pronunciation": "/baɪˈɑːɡrəfər/"
+  },
+  {
+    "number": 9,
+    "word": "distinctive",
+    "definition": "đặc trưng, khác biệt",
+    "pronunciation": "/dɪˈstɪŋktɪv/"
+  },
+  {
+    "number": 10,
+    "word": "stationery",
+    "definition": "văn phòng phẩm",
+    "pronunciation": "/ˈsteɪʃəneri/"
+  },
+  {
+    "number": 11,
+    "word": "insurance",
+    "definition": "bảo hiểm",
+    "pronunciation": "/ɪnˈʃʊrəns/"
+  },
+  {
+    "number": 12,
+    "word": "associated",
+    "definition": "liên quan",
+    "pronunciation": "/əˈsoʊsieɪtɪd/"
+  },
+  {
+    "number": 13,
+    "word": "ensure",
+    "definition": "đảm bảo",
+    "pronunciation": "/ɪnˈʃʊr/"
+  },
+  {
+    "number": 14,
+    "word": "exterior",
+    "definition": "bên ngoài",
+    "pronunciation": "/ɪkˈstɪriər/"
+  },
+  {
+    "number": 15,
+    "word": "incorporate",
+    "definition": "kết hợp, bao gồm",
+    "pronunciation": "/ɪnˈkɔːrpəreɪt/"
+  },
+  {
+    "number": 16,
+    "word": "pleasure",
+    "definition": "niềm vui",
+    "pronunciation": "/ˈpleʒər/"
+  },
+  {
+    "number": 17,
+    "word": "corporate",
+    "definition": "thuộc doanh nghiệp",
+    "pronunciation": "/ˈkɔːrpərət/"
+  },
+  {
+    "number": 18,
+    "word": "appliance",
+    "definition": "thiết bị gia dụng",
+    "pronunciation": "/əˈplaɪəns/"
+  },
+  {
+    "number": 19,
+    "word": "innovative",
+    "definition": "đổi mới",
+    "pronunciation": "/ˈɪnəveɪtɪv/"
+  },
+  {
+    "number": 20,
+    "word": "geographic",
+    "definition": "thuộc địa lý",
+    "pronunciation": "/ˌdʒiːəˈɡræfɪk/"
+  },
+  {
+    "number": 21,
+    "word": "electronics",
+    "definition": "điện tử",
+    "pronunciation": "/ɪˌlekˈtrɑːnɪks/"
+  },
+  {
+    "number": 22,
+    "word": "patience",
+    "definition": "sự kiên nhẫn",
+    "pronunciation": "/ˈpeɪʃəns/"
+  },
+  {
+    "number": 23,
+    "word": "uneven",
+    "definition": "không đều",
+    "pronunciation": "/ʌnˈiːvən/"
+  },
+  {
+    "number": 24,
+    "word": "pavement",
+    "definition": "vỉa hè, mặt đường",
+    "pronunciation": "/ˈpeɪvmənt/"
+  },
+  {
+    "number": 25,
+    "word": "hygienist",
+    "definition": "nhân viên vệ sinh",
+    "pronunciation": "/ˈhaɪdʒiːnɪst/"
+  },
+  {
+    "number": 26,
+    "word": "handle",
+    "definition": "xử lý",
+    "pronunciation": "/ˈhændl/"
+  },
+  {
+    "number": 27,
+    "word": "benefit",
+    "definition": "có lợi",
+    "pronunciation": "/ˈbenɪfɪt/"
+  },
+  {
+    "number": 28,
+    "word": "streamline",
+    "definition": "tinh gọn",
+    "pronunciation": "/ˈstriːmlaɪn/"
+  },
+  {
+    "number": 29,
+    "word": "unusually",
+    "definition": "bất thường",
+    "pronunciation": "/ʌnˈjuːʒuəli/"
+  },
+  {
+    "number": 30,
+    "word": "moderation",
+    "definition": "sự điều độ",
+    "pronunciation": "/ˌmɑːdəˈreɪʃən/"
+  },
+  {
+    "number": 31,
+    "word": "regularly",
+    "definition": "thường xuyên",
+    "pronunciation": "/ˈreɡjələrli/"
+  },
+  {
+    "number": 32,
+    "word": "landscape",
+    "definition": "cảnh quan",
+    "pronunciation": "/ˈlændskeɪp/"
+  },
+  {
+    "number": 33,
+    "word": "optimal",
+    "definition": "tối ưu",
+    "pronunciation": "/ˈɑːptɪməl/"
+  },
+  {
+    "number": 34,
+    "word": "reasonable",
+    "definition": "hợp lý",
+    "pronunciation": "/ˈriːzənəbəl/"
+  },
+  {
+    "number": 35,
+    "word": "pathway",
+    "definition": "lối đi",
+    "pronunciation": "/ˈpæθweɪ/"
+  },
+  {
+    "number": 36,
+    "word": "rustic",
+    "definition": "mộc mạc",
+    "pronunciation": "/ˈrʌstɪk/"
+  },
+  {
+    "number": 37,
+    "word": "constitute",
+    "definition": "cấu thành",
+    "pronunciation": "/ˈkɑːnstɪtuːt/"
+  },
+  {
+    "number": 38,
+    "word": "fulfill",
+    "definition": "hoàn thành",
+    "pronunciation": "/fʊlˈfɪl/"
+  },
+  {
+    "number": 39,
+    "word": "specification",
+    "definition": "thông số kỹ thuật",
+    "pronunciation": "/ˌspesɪfɪˈkeɪʃən/"
+  },
+  {
+    "number": 40,
+    "word": "paperwork",
+    "definition": "giấy tờ",
+    "pronunciation": "/ˈpeɪpərwɜːrk/"
+  },
+  {
+    "number": 41,
+    "word": "security",
+    "definition": "an ninh",
+    "pronunciation": "/sɪˈkjʊrɪti/"
+  },
+  {
+    "number": 42,
+    "word": "intricate",
+    "definition": "phức tạp",
+    "pronunciation": "/ˈɪntrɪkət/"
+  },
+  {
+    "number": 43,
+    "word": "unprecedented",
+    "definition": "chưa từng có",
+    "pronunciation": "/ʌnˈpresɪdentɪd/"
+  },
+  {
+    "number": 44,
+    "word": "tactile",
+    "definition": "thuộc xúc giác",
+    "pronunciation": "/ˈtæktaɪl/"
+  },
+  {
+    "number": 45,
+    "word": "exploit",
+    "definition": "tận dụng",
+    "pronunciation": "/ɪkˈsplɔɪt/"
+  },
+  {
+    "number": 46,
+    "word": "layover",
+    "definition": "quá cảnh",
+    "pronunciation": "/ˈleɪoʊvər/"
+  },
+  {
+    "number": 47,
+    "word": "amenity",
+    "definition": "tiện ích",
+    "pronunciation": "/əˈmenɪti/"
+  },
+  {
+    "number": 48,
+    "word": "awareness",
+    "definition": "nhận thức",
+    "pronunciation": "/əˈwernəs/"
+  },
+  {
+    "number": 49,
+    "word": "conserve",
+    "definition": "bảo tồn, tiết kiệm",
+    "pronunciation": "/kənˈsɜːrv/"
+  },
+  {
+    "number": 50,
+    "word": "fundamental",
+    "definition": "cơ bản",
+    "pronunciation": "/ˌfʌndəˈmentl/"
+  },
+  {
+    "number": 51,
+    "word": "specified",
+    "definition": "được chỉ định",
+    "pronunciation": "/ˈspesɪfaɪd/"
+  },
+  {
+    "number": 52,
+    "word": "eliminate",
+    "definition": "loại bỏ",
+    "pronunciation": "/ɪˈlɪmɪneɪt/"
+  },
+  {
+    "number": 53,
+    "word": "reduction",
+    "definition": "sự giảm",
+    "pronunciation": "/rɪˈdʌkʃən/"
+  },
+  {
+    "number": 54,
+    "word": "contribution",
+    "definition": "đóng góp",
+    "pronunciation": "/ˌkɑːntrɪˈbjuːʃən/"
+  },
+  {
+    "number": 55,
+    "word": "alternate",
+    "definition": "thay thế",
+    "pronunciation": "/ˈɔːltərnət/"
+  },
+  {
+    "number": 56,
+    "word": "confident",
+    "definition": "tự tin",
+    "pronunciation": "/ˈkɑːnfɪdənt/"
+  },
+  {
+    "number": 57,
+    "word": "incur",
+    "definition": "gánh chịu",
+    "pronunciation": "/ɪnˈkɜːr/"
+  },
+  {
+    "number": 58,
+    "word": "offset",
+    "definition": "bù đắp",
+    "pronunciation": "/ˈɔːfset/"
+  },
+  {
+    "number": 59,
+    "word": "placement",
+    "definition": "sự sắp xếp",
+    "pronunciation": "/ˈpleɪsmənt/"
+  },
+  {
+    "number": 60,
+    "word": "integral",
+    "definition": "thiết yếu",
+    "pronunciation": "/ˈɪntɪɡrəl/"
+  },
+  {
+    "number": 61,
+    "word": "guidance",
+    "definition": "sự hướng dẫn",
+    "pronunciation": "/ˈɡaɪdəns/"
+  },
+  {
+    "number": 62,
+    "word": "botanical",
+    "definition": "thuộc thực vật học",
+    "pronunciation": "/bəˈtænɪkəl/"
+  },
+  {
+    "number": 63,
+    "word": "society",
+    "definition": "hội, hiệp hội",
+    "pronunciation": "/səˈsaɪəti/"
+  },
+  {
+    "number": 64,
+    "word": "theme",
+    "definition": "chủ đề",
+    "pronunciation": "/θiːm/"
+  },
+  {
+    "number": 65,
+    "word": "paradise",
+    "definition": "thiên đường",
+    "pronunciation": "/ˈpærədaɪs/"
+  },
+  {
+    "number": 66,
+    "word": "ambitious",
+    "definition": "đầy tham vọng",
+    "pronunciation": "/æmˈbɪʃəs/"
+  },
+  {
+    "number": 67,
+    "word": "cultivate",
+    "definition": "canh tác",
+    "pronunciation": "/ˈkʌltɪveɪt/"
+  },
+  {
+    "number": 68,
+    "word": "privilege",
+    "definition": "đặc quyền",
+    "pronunciation": "/ˈprɪvɪlɪdʒ/"
+  },
+  {
+    "number": 69,
+    "word": "wildlife",
+    "definition": "động vật hoang dã",
+    "pronunciation": "/ˈwaɪldlaɪf/"
+  },
+  {
+    "number": 70,
+    "word": "cordially",
+    "definition": "thân mật",
+    "pronunciation": "/ˈkɔːrdʒəli/"
+  },
+  {
+    "number": 71,
+    "word": "nourish",
+    "definition": "nuôi dưỡng",
+    "pronunciation": "/ˈnɜːrɪʃ/"
+  },
+  {
+    "number": 72,
+    "word": "deterrence",
+    "definition": "sự răn đe",
+    "pronunciation": "/dɪˈterəns/"
+  },
+  {
+    "number": 73,
+    "word": "harmful",
+    "definition": "có hại",
+    "pronunciation": "/ˈhɑːrmfəl/"
+  },
+  {
+    "number": 74,
+    "word": "recreation",
+    "definition": "giải trí",
+    "pronunciation": "/ˌrekriˈeɪʃən/"
+  },
+  {
+    "number": 75,
+    "word": "athletic",
+    "definition": "thuộc thể thao",
+    "pronunciation": "/æθˈletɪk/"
+  },
+  {
+    "number": 76,
+    "word": "adequate",
+    "definition": "đủ",
+    "pronunciation": "/ˈædɪkwət/"
+  },
+  {
+    "number": 77,
+    "word": "suitable",
+    "definition": "phù hợp",
+    "pronunciation": "/ˈsuːtəbəl/"
+  },
+  {
+    "number": 78,
+    "word": "promptly",
+    "definition": "ngay lập tức",
+    "pronunciation": "/ˈprɑːmptli/"
+  },
+  {
+    "number": 79,
+    "word": "joint",
+    "definition": "chung",
+    "pronunciation": "/dʒɔɪnt/"
+  },
+  {
+    "number": 80,
+    "word": "profitable",
+    "definition": "có lợi nhuận",
+    "pronunciation": "/ˈprɑːfɪtəbəl/"
+  }
+]

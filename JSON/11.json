@@ -1,0 +1,482 @@
+[
+  {
+    "number": 1,
+    "word": "take place",
+    "definition": "diễn ra",
+    "pronunciation": "/teɪk pleɪs/"
+  },
+  {
+    "number": 2,
+    "word": "attendee",
+    "definition": "người tham dự",
+    "pronunciation": "/ˌætənˈdiː/"
+  },
+  {
+    "number": 3,
+    "word": "antique",
+    "definition": "đồ cổ",
+    "pronunciation": "/ænˈtiːk/"
+  },
+  {
+    "number": 4,
+    "word": "organization",
+    "definition": "tổ chức",
+    "pronunciation": "/ˌɔːrɡənaɪˈzeɪʃən/"
+  },
+  {
+    "number": 5,
+    "word": "suspicious",
+    "definition": "đáng ngờ",
+    "pronunciation": "/səˈspɪʃəs/"
+  },
+  {
+    "number": 6,
+    "word": "vary",
+    "definition": "thay đổi, đa dạng",
+    "pronunciation": "/ˈveri/"
+  },
+  {
+    "number": 7,
+    "word": "inventory",
+    "definition": "hàng tồn kho",
+    "pronunciation": "/ˈɪnvəntɔːri/"
+  },
+  {
+    "number": 8,
+    "word": "expand",
+    "definition": "mở rộng",
+    "pronunciation": "/ɪkˈspænd/"
+  },
+  {
+    "number": 9,
+    "word": "solicit",
+    "definition": "yêu cầu, kêu gọi",
+    "pronunciation": "/səˈlɪsɪt/"
+  },
+  {
+    "number": 10,
+    "word": "intend",
+    "definition": "dự định",
+    "pronunciation": "/ɪnˈtend/"
+  },
+  {
+    "number": 11,
+    "word": "prevent",
+    "definition": "ngăn chặn",
+    "pronunciation": "/prɪˈvent/"
+  },
+  {
+    "number": 12,
+    "word": "aim",
+    "definition": "nhắm tới, mục tiêu",
+    "pronunciation": "/eɪm/"
+  },
+  {
+    "number": 13,
+    "word": "qualified",
+    "definition": "có đủ năng lực",
+    "pronunciation": "/ˈkwɑːlɪfaɪd/"
+  },
+  {
+    "number": 14,
+    "word": "resident",
+    "definition": "cư dân",
+    "pronunciation": "/ˈrezɪdənt/"
+  },
+  {
+    "number": 15,
+    "word": "agreement",
+    "definition": "thỏa thuận",
+    "pronunciation": "/əˈɡriːmənt/"
+  },
+  {
+    "number": 16,
+    "word": "opposition",
+    "definition": "sự phản đối",
+    "pronunciation": "/ˌɑːpəˈzɪʃən/"
+  },
+  {
+    "number": 17,
+    "word": "extensive",
+    "definition": "rộng, bao quát",
+    "pronunciation": "/ɪkˈstensɪv/"
+  },
+  {
+    "number": 18,
+    "word": "guarantee",
+    "definition": "bảo đảm",
+    "pronunciation": "/ˌɡærənˈtiː/"
+  },
+  {
+    "number": 19,
+    "word": "supplier",
+    "definition": "nhà cung cấp",
+    "pronunciation": "/səˈplaɪər/"
+  },
+  {
+    "number": 20,
+    "word": "landscaping",
+    "definition": "việc làm cảnh quan",
+    "pronunciation": "/ˈlændskeɪpɪŋ/"
+  },
+  {
+    "number": 21,
+    "word": "suggestion",
+    "definition": "đề xuất",
+    "pronunciation": "/səˈdʒestʃən/"
+  },
+  {
+    "number": 22,
+    "word": "expertise",
+    "definition": "chuyên môn",
+    "pronunciation": "/ˌekspɜːrˈtiːz/"
+  },
+  {
+    "number": 23,
+    "word": "competitor",
+    "definition": "đối thủ cạnh tranh",
+    "pronunciation": "/kəmˈpetɪtər/"
+  },
+  {
+    "number": 24,
+    "word": "anniversary",
+    "definition": "kỷ niệm",
+    "pronunciation": "/ˌænɪˈvɜːrsəri/"
+  },
+  {
+    "number": 25,
+    "word": "dedication",
+    "definition": "sự cống hiến",
+    "pronunciation": "/ˌdedɪˈkeɪʃən/"
+  },
+  {
+    "number": 26,
+    "word": "loyalty",
+    "definition": "lòng trung thành",
+    "pronunciation": "/ˈlɔɪəlti/"
+  },
+  {
+    "number": 27,
+    "word": "contribute",
+    "definition": "đóng góp",
+    "pronunciation": "/kənˈtrɪbjuːt/"
+  },
+  {
+    "number": 28,
+    "word": "gratitude",
+    "definition": "lòng biết ơn",
+    "pronunciation": "/ˈɡrætɪtuːd/"
+  },
+  {
+    "number": 29,
+    "word": "refine",
+    "definition": "tinh chỉnh",
+    "pronunciation": "/rɪˈfaɪn/"
+  },
+  {
+    "number": 30,
+    "word": "spacious",
+    "definition": "rộng rãi",
+    "pronunciation": "/ˈspeɪʃəs/"
+  },
+  {
+    "number": 31,
+    "word": "go through",
+    "definition": "xem xét kỹ",
+    "pronunciation": "/ɡoʊ θruː/"
+  },
+  {
+    "number": 32,
+    "word": "various",
+    "definition": "đa dạng",
+    "pronunciation": "/ˈveriəs/"
+  },
+  {
+    "number": 33,
+    "word": "secure",
+    "definition": "an toàn, chắc chắn",
+    "pronunciation": "/sɪˈkjʊr/"
+  },
+  {
+    "number": 34,
+    "word": "remove",
+    "definition": "loại bỏ",
+    "pronunciation": "/rɪˈmuːv/"
+  },
+  {
+    "number": 35,
+    "word": "previous",
+    "definition": "trước đó",
+    "pronunciation": "/ˈpriːviəs/"
+  },
+  {
+    "number": 36,
+    "word": "cooperation",
+    "definition": "sự hợp tác",
+    "pronunciation": "/koʊˌɑːpəˈreɪʃən/"
+  },
+  {
+    "number": 37,
+    "word": "upcoming",
+    "definition": "sắp tới",
+    "pronunciation": "/ˈʌpkʌmɪŋ/"
+  },
+  {
+    "number": 38,
+    "word": "charge",
+    "definition": "tính phí",
+    "pronunciation": "/tʃɑːrdʒ/"
+  },
+  {
+    "number": 39,
+    "word": "assign",
+    "definition": "phân công",
+    "pronunciation": "/əˈsaɪn/"
+  },
+  {
+    "number": 40,
+    "word": "administrator",
+    "definition": "quản trị viên",
+    "pronunciation": "/ədˈmɪnɪstreɪtər/"
+  },
+  {
+    "number": 41,
+    "word": "new hire",
+    "definition": "nhân viên mới",
+    "pronunciation": "/nuː haɪr/"
+  },
+  {
+    "number": 42,
+    "word": "promote",
+    "definition": "thúc đẩy, quảng bá",
+    "pronunciation": "/prəˈmoʊt/"
+  },
+  {
+    "number": 43,
+    "word": "advertise",
+    "definition": "quảng cáo",
+    "pronunciation": "/ˈædvərtaɪz/"
+  },
+  {
+    "number": 44,
+    "word": "coordinator",
+    "definition": "người điều phối",
+    "pronunciation": "/koʊˈɔːrdɪneɪtər/"
+  },
+  {
+    "number": 45,
+    "word": "telescope",
+    "definition": "kính thiên văn",
+    "pronunciation": "/ˈtelɪskoʊp/"
+  },
+  {
+    "number": 46,
+    "word": "revise",
+    "definition": "sửa đổi",
+    "pronunciation": "/rɪˈvaɪz/"
+  },
+  {
+    "number": 47,
+    "word": "representative",
+    "definition": "đại diện",
+    "pronunciation": "/ˌreprɪˈzentətɪv/"
+  },
+  {
+    "number": 48,
+    "word": "inquiry",
+    "definition": "sự hỏi thông tin",
+    "pronunciation": "/ˈɪnkwəri/"
+  },
+  {
+    "number": 49,
+    "word": "general",
+    "definition": "chung, tổng quát",
+    "pronunciation": "/ˈdʒenərəl/"
+  },
+  {
+    "number": 50,
+    "word": "release",
+    "definition": "phát hành",
+    "pronunciation": "/rɪˈliːs/"
+  },
+  {
+    "number": 51,
+    "word": "indicate",
+    "definition": "chỉ ra",
+    "pronunciation": "/ˈɪndɪkeɪt/"
+  },
+  {
+    "number": 52,
+    "word": "retain",
+    "definition": "giữ lại",
+    "pronunciation": "/rɪˈteɪn/"
+  },
+  {
+    "number": 53,
+    "word": "flavour",
+    "definition": "hương vị",
+    "pronunciation": "/ˈfleɪvər/"
+  },
+  {
+    "number": 54,
+    "word": "sacrifice",
+    "definition": "hy sinh",
+    "pronunciation": "/ˈsækrɪfaɪs/"
+  },
+  {
+    "number": 55,
+    "word": "obtain",
+    "definition": "đạt được",
+    "pronunciation": "/əbˈteɪn/"
+  },
+  {
+    "number": 56,
+    "word": "merger",
+    "definition": "sự sáp nhập",
+    "pronunciation": "/ˈmɜːrdʒər/"
+  },
+  {
+    "number": 57,
+    "word": "nutritious",
+    "definition": "bổ dưỡng",
+    "pronunciation": "/nuˈtrɪʃəs/"
+  },
+  {
+    "number": 58,
+    "word": "individual",
+    "definition": "cá nhân",
+    "pronunciation": "/ˌɪndɪˈvɪdʒuəl/"
+  },
+  {
+    "number": 59,
+    "word": "opportunity",
+    "definition": "cơ hội",
+    "pronunciation": "/ˌɑːpərˈtuːnəti/"
+  },
+  {
+    "number": 60,
+    "word": "substitute",
+    "definition": "thay thế",
+    "pronunciation": "/ˈsʌbstɪtuːt/"
+  },
+  {
+    "number": 61,
+    "word": "critical",
+    "definition": "then chốt, phê phán",
+    "pronunciation": "/ˈkrɪtɪkəl/"
+  },
+  {
+    "number": 62,
+    "word": "colleague",
+    "definition": "đồng nghiệp",
+    "pronunciation": "/ˈkɑːliːɡ/"
+  },
+  {
+    "number": 63,
+    "word": "courtesy",
+    "definition": "sự lịch sự",
+    "pronunciation": "/ˈkɜːrtəsi/"
+  },
+  {
+    "number": 64,
+    "word": "get the word out",
+    "definition": "lan truyền thông tin",
+    "pronunciation": "/ɡet ðə wɜːrd aʊt/"
+  },
+  {
+    "number": 65,
+    "word": "install",
+    "definition": "cài đặt",
+    "pronunciation": "/ɪnˈstɔːl/"
+  },
+  {
+    "number": 66,
+    "word": "significant",
+    "definition": "đáng kể",
+    "pronunciation": "/sɪɡˈnɪfɪkənt/"
+  },
+  {
+    "number": 67,
+    "word": "estimate",
+    "definition": "ước tính",
+    "pronunciation": "/ˈestɪmeɪt/"
+  },
+  {
+    "number": 68,
+    "word": "liaison",
+    "definition": "người liên lạc",
+    "pronunciation": "/liˈeɪzɑːn/"
+  },
+  {
+    "number": 69,
+    "word": "successive",
+    "definition": "liên tiếp",
+    "pronunciation": "/səkˈsesɪv/"
+  },
+  {
+    "number": 70,
+    "word": "expert",
+    "definition": "chuyên gia",
+    "pronunciation": "/ˈekspɜːrt/"
+  },
+  {
+    "number": 71,
+    "word": "diagnose",
+    "definition": "chẩn đoán",
+    "pronunciation": "/ˈdaɪəɡnoʊz/"
+  },
+  {
+    "number": 72,
+    "word": "replace",
+    "definition": "thay thế",
+    "pronunciation": "/rɪˈpleɪs/"
+  },
+  {
+    "number": 73,
+    "word": "resemble",
+    "definition": "giống với",
+    "pronunciation": "/rɪˈzembəl/"
+  },
+  {
+    "number": 74,
+    "word": "approve",
+    "definition": "phê duyệt",
+    "pronunciation": "/əˈpruːv/"
+  },
+  {
+    "number": 75,
+    "word": "inspection",
+    "definition": "kiểm tra",
+    "pronunciation": "/ɪnˈspekʃən/"
+  },
+  {
+    "number": 76,
+    "word": "proactive",
+    "definition": "chủ động",
+    "pronunciation": "/proʊˈæktɪv/"
+  },
+  {
+    "number": 77,
+    "word": "procedure",
+    "definition": "quy trình",
+    "pronunciation": "/prəˈsiːdʒər/"
+  },
+  {
+    "number": 78,
+    "word": "compete",
+    "definition": "cạnh tranh",
+    "pronunciation": "/kəmˈpiːt/"
+  },
+  {
+    "number": 79,
+    "word": "instrumental",
+    "definition": "then chốt",
+    "pronunciation": "/ˌɪnstrəˈmentəl/"
+  },
+  {
+    "number": 80,
+    "word": "combine",
+    "definition": "kết hợp",
+    "pronunciation": "/kəmˈbaɪn/"
+  }
+]

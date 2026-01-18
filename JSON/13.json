@@ -1,0 +1,482 @@
+[
+  {
+    "number": 1,
+    "word": "youth",
+    "definition": "tuổi trẻ",
+    "pronunciation": "/juːθ/"
+  },
+  {
+    "number": 2,
+    "word": "conduct",
+    "definition": "thực hiện",
+    "pronunciation": "/kənˈdʌkt/"
+  },
+  {
+    "number": 3,
+    "word": "regular",
+    "definition": "đều đặn",
+    "pronunciation": "/ˈreɡjələr/"
+  },
+  {
+    "number": 4,
+    "word": "a majority of",
+    "definition": "đa số",
+    "pronunciation": "/ə məˈdʒɔːrɪti əv/"
+  },
+  {
+    "number": 5,
+    "word": "represent",
+    "definition": "đại diện",
+    "pronunciation": "/ˌreprɪˈzent/"
+  },
+  {
+    "number": 6,
+    "word": "measure",
+    "definition": "biện pháp",
+    "pronunciation": "/ˈmeʒər/"
+  },
+  {
+    "number": 7,
+    "word": "submit",
+    "definition": "nộp",
+    "pronunciation": "/səbˈmɪt/"
+  },
+  {
+    "number": 8,
+    "word": "track",
+    "definition": "theo dõi",
+    "pronunciation": "/træk/"
+  },
+  {
+    "number": 9,
+    "word": "rapidly",
+    "definition": "nhanh chóng",
+    "pronunciation": "/ˈræpɪdli/"
+  },
+  {
+    "number": 10,
+    "word": "committee",
+    "definition": "ủy ban",
+    "pronunciation": "/kəˈmɪti/"
+  },
+  {
+    "number": 11,
+    "word": "appendix",
+    "definition": "phụ lục",
+    "pronunciation": "/əˈpendɪks/"
+  },
+  {
+    "number": 12,
+    "word": "insight",
+    "definition": "sự thấu hiểu",
+    "pronunciation": "/ˈɪnsaɪt/"
+  },
+  {
+    "number": 13,
+    "word": "investment",
+    "definition": "đầu tư",
+    "pronunciation": "/ɪnˈvestmənt/"
+  },
+  {
+    "number": 14,
+    "word": "result",
+    "definition": "kết quả",
+    "pronunciation": "/rɪˈzʌlt/"
+  },
+  {
+    "number": 15,
+    "word": "improve",
+    "definition": "cải thiện",
+    "pronunciation": "/ɪmˈpruːv/"
+  },
+  {
+    "number": 16,
+    "word": "appoint",
+    "definition": "bổ nhiệm",
+    "pronunciation": "/əˈpɔɪnt/"
+  },
+  {
+    "number": 17,
+    "word": "simultaneously",
+    "definition": "đồng thời",
+    "pronunciation": "/ˌsɪməlˈteɪniəsli/"
+  },
+  {
+    "number": 18,
+    "word": "revenue",
+    "definition": "doanh thu",
+    "pronunciation": "/ˈrevənuː/"
+  },
+  {
+    "number": 19,
+    "word": "undergo",
+    "definition": "trải qua",
+    "pronunciation": "/ˌʌndərˈɡoʊ/"
+  },
+  {
+    "number": 20,
+    "word": "take advantage of",
+    "definition": "tận dụng",
+    "pronunciation": "/teɪk ədˈvæntɪdʒ əv/"
+  },
+  {
+    "number": 21,
+    "word": "transaction",
+    "definition": "giao dịch",
+    "pronunciation": "/trænˈzækʃən/"
+  },
+  {
+    "number": 22,
+    "word": "potential",
+    "definition": "tiềm năng",
+    "pronunciation": "/pəˈtenʃəl/"
+  },
+  {
+    "number": 23,
+    "word": "attention",
+    "definition": "sự chú ý",
+    "pronunciation": "/əˈtenʃən/"
+  },
+  {
+    "number": 24,
+    "word": "dynamic",
+    "definition": "năng động",
+    "pronunciation": "/daɪˈnæmɪk/"
+  },
+  {
+    "number": 25,
+    "word": "valuable",
+    "definition": "quý giá",
+    "pronunciation": "/ˈvæljuəbəl/"
+  },
+  {
+    "number": 26,
+    "word": "convince",
+    "definition": "thuyết phục",
+    "pronunciation": "/kənˈvɪns/"
+  },
+  {
+    "number": 27,
+    "word": "audience",
+    "definition": "khán giả",
+    "pronunciation": "/ˈɔːdiəns/"
+  },
+  {
+    "number": 28,
+    "word": "acquire",
+    "definition": "đạt được",
+    "pronunciation": "/əˈkwaɪər/"
+  },
+  {
+    "number": 29,
+    "word": "share",
+    "definition": "cổ phần",
+    "pronunciation": "/ʃer/"
+  },
+  {
+    "number": 30,
+    "word": "strength",
+    "definition": "điểm mạnh",
+    "pronunciation": "/streŋθ/"
+  },
+  {
+    "number": 31,
+    "word": "quote",
+    "definition": "trích dẫn",
+    "pronunciation": "/kwoʊt/"
+  },
+  {
+    "number": 32,
+    "word": "infusion",
+    "definition": "sự bơm vào",
+    "pronunciation": "/ɪnˈfjuːʒən/"
+  },
+  {
+    "number": 33,
+    "word": "refrain",
+    "definition": "kiềm chế",
+    "pronunciation": "/rɪˈfreɪn/"
+  },
+  {
+    "number": 34,
+    "word": "preference",
+    "definition": "sự ưa thích",
+    "pronunciation": "/ˈprefərəns/"
+  },
+  {
+    "number": 35,
+    "word": "function",
+    "definition": "chức năng",
+    "pronunciation": "/ˈfʌŋkʃən/"
+  },
+  {
+    "number": 36,
+    "word": "gathering",
+    "definition": "buổi tụ họp",
+    "pronunciation": "/ˈɡæðərɪŋ/"
+  },
+  {
+    "number": 37,
+    "word": "innovation",
+    "definition": "đổi mới",
+    "pronunciation": "/ˌɪnəˈveɪʃən/"
+  },
+  {
+    "number": 38,
+    "word": "shareholder",
+    "definition": "cổ đông",
+    "pronunciation": "/ˈʃerˌhoʊldər/"
+  },
+  {
+    "number": 39,
+    "word": "productivity",
+    "definition": "năng suất",
+    "pronunciation": "/ˌprɑːdʌkˈtɪvəti/"
+  },
+  {
+    "number": 40,
+    "word": "occur",
+    "definition": "xảy ra",
+    "pronunciation": "/əˈkɜːr/"
+  },
+  {
+    "number": 41,
+    "word": "optimize",
+    "definition": "tối ưu hóa",
+    "pronunciation": "/ˈɑːptɪmaɪz/"
+  },
+  {
+    "number": 42,
+    "word": "conventional",
+    "definition": "thông thường",
+    "pronunciation": "/kənˈvenʃənəl/"
+  },
+  {
+    "number": 43,
+    "word": "commuter",
+    "definition": "người đi làm hằng ngày",
+    "pronunciation": "/kəˈmjuːtər/"
+  },
+  {
+    "number": 44,
+    "word": "relieved",
+    "definition": "nhẹ nhõm",
+    "pronunciation": "/rɪˈliːvd/"
+  },
+  {
+    "number": 45,
+    "word": "desperate",
+    "definition": "tuyệt vọng",
+    "pronunciation": "/ˈdespərət/"
+  },
+  {
+    "number": 46,
+    "word": "municipal",
+    "definition": "thuộc thành phố",
+    "pronunciation": "/mjuːˈnɪsɪpəl/"
+  },
+  {
+    "number": 47,
+    "word": "entrance",
+    "definition": "lối vào",
+    "pronunciation": "/ˈentrəns/"
+  },
+  {
+    "number": 48,
+    "word": "mural",
+    "definition": "tranh tường",
+    "pronunciation": "/ˈmjʊrəl/"
+  },
+  {
+    "number": 49,
+    "word": "commission",
+    "definition": "ủy quyền",
+    "pronunciation": "/kəˈmɪʃən/"
+  },
+  {
+    "number": 50,
+    "word": "approximately",
+    "definition": "xấp xỉ",
+    "pronunciation": "/əˈprɑːksɪmətli/"
+  },
+  {
+    "number": 51,
+    "word": "publicize",
+    "definition": "công bố",
+    "pronunciation": "/ˈpʌblɪsaɪz/"
+  },
+  {
+    "number": 52,
+    "word": "significance",
+    "definition": "tầm quan trọng",
+    "pronunciation": "/sɪɡˈnɪfɪkəns/"
+  },
+  {
+    "number": 53,
+    "word": "official",
+    "definition": "chính thức",
+    "pronunciation": "/əˈfɪʃəl/"
+  },
+  {
+    "number": 54,
+    "word": "mingle",
+    "definition": "giao lưu",
+    "pronunciation": "/ˈmɪŋɡəl/"
+  },
+  {
+    "number": 55,
+    "word": "invaluable",
+    "definition": "vô giá",
+    "pronunciation": "/ɪnˈvæljuəbəl/"
+  },
+  {
+    "number": 56,
+    "word": "accurate",
+    "definition": "chính xác",
+    "pronunciation": "/ˈækjərət/"
+  },
+  {
+    "number": 57,
+    "word": "recruit",
+    "definition": "tuyển dụng",
+    "pronunciation": "/rɪˈkruːt/"
+  },
+  {
+    "number": 58,
+    "word": "celebrity",
+    "definition": "người nổi tiếng",
+    "pronunciation": "/səˈlebrɪti/"
+  },
+  {
+    "number": 59,
+    "word": "cater",
+    "definition": "cung cấp suất ăn",
+    "pronunciation": "/ˈkeɪtər/"
+  },
+  {
+    "number": 60,
+    "word": "equipment",
+    "definition": "thiết bị",
+    "pronunciation": "/ɪˈkwɪpmənt/"
+  },
+  {
+    "number": 61,
+    "word": "distributor",
+    "definition": "nhà phân phối",
+    "pronunciation": "/dɪˈstrɪbjətər/"
+  },
+  {
+    "number": 62,
+    "word": "component",
+    "definition": "thành phần",
+    "pronunciation": "/kəmˈpoʊnənt/"
+  },
+  {
+    "number": 63,
+    "word": "facility",
+    "definition": "cơ sở vật chất",
+    "pronunciation": "/fəˈsɪlɪti/"
+  },
+  {
+    "number": 64,
+    "word": "assembly",
+    "definition": "lắp ráp",
+    "pronunciation": "/əˈsembli/"
+  },
+  {
+    "number": 65,
+    "word": "launch",
+    "definition": "ra mắt",
+    "pronunciation": "/lɔːntʃ/"
+  },
+  {
+    "number": 66,
+    "word": "financial",
+    "definition": "tài chính",
+    "pronunciation": "/faɪˈnænʃəl/"
+  },
+  {
+    "number": 67,
+    "word": "oversee",
+    "definition": "giám sát",
+    "pronunciation": "/ˌoʊvərˈsiː/"
+  },
+  {
+    "number": 68,
+    "word": "permanently",
+    "definition": "vĩnh viễn",
+    "pronunciation": "/ˈpɜːrmənəntli/"
+  },
+  {
+    "number": 69,
+    "word": "relocate",
+    "definition": "di dời",
+    "pronunciation": "/ˌriːˈloʊkeɪt/"
+  },
+  {
+    "number": 70,
+    "word": "appreciate",
+    "definition": "đánh giá cao",
+    "pronunciation": "/əˈpriːʃieɪt/"
+  },
+  {
+    "number": 71,
+    "word": "perspective",
+    "definition": "góc nhìn",
+    "pronunciation": "/pərˈspektɪv/"
+  },
+  {
+    "number": 72,
+    "word": "intrigue",
+    "definition": "kích thích tò mò",
+    "pronunciation": "/ɪnˈtriːɡ/"
+  },
+  {
+    "number": 73,
+    "word": "government",
+    "definition": "chính phủ",
+    "pronunciation": "/ˈɡʌvərnmənt/"
+  },
+  {
+    "number": 74,
+    "word": "collaborate",
+    "definition": "hợp tác",
+    "pronunciation": "/kəˈlæbəreɪt/"
+  },
+  {
+    "number": 75,
+    "word": "commensurate",
+    "definition": "tương xứng",
+    "pronunciation": "/kəˈmenʃərət/"
+  },
+  {
+    "number": 76,
+    "word": "comply with",
+    "definition": "tuân thủ",
+    "pronunciation": "/kəmˈplaɪ wɪð/"
+  },
+  {
+    "number": 77,
+    "word": "essential",
+    "definition": "cần thiết",
+    "pronunciation": "/ɪˈsenʃəl/"
+  },
+  {
+    "number": 78,
+    "word": "relevant",
+    "definition": "liên quan",
+    "pronunciation": "/ˈreləvənt/"
+  },
+  {
+    "number": 79,
+    "word": "formal",
+    "definition": "trang trọng",
+    "pronunciation": "/ˈfɔːrməl/"
+  },
+  {
+    "number": 80,
+    "word": "remote",
+    "definition": "từ xa",
+    "pronunciation": "/rɪˈmoʊt/"
+  }
+]

@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🎴 Flashcard Generator - Học Tiếng Anh Qua Hình Ảnh</title>
+    <meta name="description" content="Tạo thẻ học tiếng Anh từ hình ảnh với hiệu ứng lật thẻ tương tác">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <span class="logo-icon">🎴</span>
+                <h1>Flashcard Generator</h1>
+            </div>
+            <div class="header-stats">
+                <div class="stat-item">
+                    <span class="stat-number" id="totalCards">0</span>
+                    <span class="stat-label">Thẻ</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-number" id="learnedCards">0</span>
+                    <span class="stat-label">Đã học</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Mode Tabs -->
+        <nav class="mode-tabs">
+            <button class="tab-btn active" data-mode="browse">
+                <span class="tab-icon">📚</span>
+                <span>Duyệt thẻ</span>
+            </button>
+            <button class="tab-btn" data-mode="study">
+                <span class="tab-icon">📖</span>
+                <span>Học tập</span>
+            </button>
+            <button class="tab-btn" data-mode="quiz">
+                <span class="tab-icon">🎯</span>
+                <span>Kiểm tra</span>
+            </button>
+            <button class="tab-btn" data-mode="spelling">
+                <span class="tab-icon">✍️</span>
+                <span>Điền từ</span>
+            </button>
+        </nav>
+
+        <!-- Browse Mode -->
+        <section class="mode-section browse-mode active" id="browseMode">
+            <!-- JSON Input Area -->
+            <div class="text-input-area">
+                <label>📋 Nhập JSON từ vựng:</label>
+                <p class="format-hint">Format: [{"word": "...", "definition": "...", "partOfSpeech": "...", "pronunciation": "..."}]</p>
+                <textarea id="vocabTextInput" placeholder='[
+  {"word": "wait in line", "definition": "xếp hàng"},
+  {"word": "shovel", "definition": "cái xẻng", "partOfSpeech": "n/v", "pronunciation": "/ˈʃʌv.əl/"},
+  {"word": "vehicle", "definition": "phương tiện", "partOfSpeech": "n", "pronunciation": "/ˈviː.ə.kəl/"}
+]'></textarea>
+                <div class="input-actions">
+                    <button class="btn btn-primary" id="createCardsBtn">
+                        ✨ Tạo Flashcards
+                    </button>
+                    <button class="btn btn-secondary" id="clearTextBtn">
+                        🗑️ Xóa hết
+                    </button>
+                    <input type="file" id="jsonFileInput" accept=".json" style="display: none;">
+                    <button class="btn btn-secondary" id="loadJsonBtn">
+                        📂 Mở file JSON
+                    </button>
+                </div>
+            </div>
+
+            <div class="section-header">
+                <h2>📚 Bộ thẻ của bạn</h2>
+                <div class="section-actions">
+                    <button class="action-btn" id="shuffleBtn">
+                        <span>🔀</span> Xáo trộn
+                    </button>
+                    <button class="action-btn danger" id="deleteAllBtn">
+                        <span>🗑️</span> Xóa tất cả
+                    </button>
+                    <select class="category-filter" id="categoryFilter">
+                        <option value="all">Tất cả danh mục</option>
+                        <option value="fruits">🍎 Trái cây</option>
+                        <option value="animals">🐾 Động vật</option>
+                        <option value="objects">📦 Đồ vật</option>
+                        <option value="nature">🌿 Thiên nhiên</option>
+                    </select>
+                </div>
+            </div>
+            <div class="flashcard-grid" id="flashcardGrid">
+                <!-- Flashcards will be added here -->
+                <div class="empty-state" id="emptyState">
+                    <div class="empty-icon">🖼️</div>
+                    <h3>Chưa có thẻ nào</h3>
+                    <p>Nhập JSON từ vựng để bắt đầu tạo thẻ học!</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Study Mode -->
+        <section class="mode-section study-mode" id="studyMode">
+            <div class="study-container">
+                <div class="study-header">
+                    <select class="category-filter" id="studyCategoryFilter">
+                        <option value="all">Tất cả danh mục</option>
+                    </select>
+                </div>
+                <div class="study-progress">
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="studyProgress"></div>
+                    </div>
+                    <span class="progress-text" id="studyProgressText">0 / 0</span>
+                </div>
+                
+                <div class="study-card-wrapper">
+                    <div class="flashcard large" id="studyCard">
+                        <div class="flashcard-inner">
+                            <div class="flashcard-front">
+                                <div class="vocabulary-content front-content">
+                                    <div class="word-line">
+                                        <span class="word" id="studyWord">Word</span>
+                                        <span class="word-type-inline" id="studyWordType"></span>
+                                    </div>
+                                    <div class="phonetic" id="studyPhonetic">/phonetic/</div>
+                                    <button class="speak-btn-large" id="speakBtn">🔊</button>
+                                    <div class="card-hint-text">Click để xem nghĩa</div>
+                                </div>
+                            </div>
+                            <div class="flashcard-back">
+                                <div class="vocabulary-content back-content">
+                                    <div class="meaning-vietnamese" id="studyMeaning">Nghĩa tiếng Việt</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="study-controls">
+                    <button class="control-btn prev" id="prevCardBtn">
+                        <span>◀</span> Trước
+                    </button>
+                    <div class="rating-buttons">
+                        <button class="rating-btn hard" data-rating="hard">😓 Khó</button>
+                        <button class="rating-btn medium" data-rating="medium">🤔 Trung bình</button>
+                        <button class="rating-btn easy" data-rating="easy">😊 Dễ</button>
+                    </div>
+                    <button class="control-btn next" id="nextCardBtn">
+                        Sau <span>▶</span>
+                    </button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Quiz Mode -->
+        <section class="mode-section quiz-mode" id="quizMode">
+            <div class="quiz-container">
+                <div class="quiz-header">
+                    <select class="category-filter" id="quizCategoryFilter">
+                        <option value="all">Tất cả danh mục</option>
+                    </select>
+                    <div class="quiz-word-count">
+                        <label for="quizWordCount">Số từ:</label>
+                        <input type="number" id="quizWordCount" min="4" max="500" value="50" class="word-count-input">
+                    </div>
+                    <button class="btn btn-primary quiz-start-btn" id="quizStartBtn">
+                        🚀 Bắt đầu
+                    </button>
+                    <div class="quiz-score">
+                        <span class="score-label">Điểm:</span>
+                        <span class="score-value" id="quizScore">0</span>
+                    </div>
+                    <div class="quiz-timer">
+                        <span class="timer-icon">⏱️</span>
+                        <span class="timer-value" id="quizTimer">00:00</span>
+                    </div>
+                </div>
+
+                <div class="quiz-question">
+                    <h3>Từ tiếng Anh nào có nghĩa này?</h3>
+                    <div class="quiz-meaning-display" id="quizMeaning">
+                        <!-- Vietnamese meaning will be shown here -->
+                    </div>
+                </div>
+
+                <div class="quiz-options" id="quizOptions">
+                    <!-- Options will be generated -->
+                </div>
+
+                <div class="quiz-result" id="quizResult">
+                    <div class="result-icon"></div>
+                    <div class="result-text"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Spelling Mode (Fill-in-the-blank) -->
+        <section class="mode-section spelling-mode" id="spellingMode">
+            <div class="spelling-container">
+                <div class="spelling-header">
+                    <select class="category-filter" id="spellingCategoryFilter">
+                        <option value="all">Tất cả danh mục</option>
+                    </select>
+                    <div class="spelling-word-count">
+                        <label for="spellingWordCount">Số từ:</label>
+                        <input type="number" id="spellingWordCount" min="1" max="500" value="50" class="word-count-input">
+                    </div>
+                    <button class="btn btn-primary spelling-start-btn" id="spellingStartBtn">
+                        🚀 Bắt đầu
+                    </button>
+                    <div class="spelling-score">
+                        <span class="score-label">Điểm:</span>
+                        <span class="score-value" id="spellingScore">0</span>
+                    </div>
+                    <div class="spelling-streak">
+                        <span class="streak-icon">🔥</span>
+                        <span class="streak-value" id="spellingStreak">0</span>
+                    </div>
+                </div>
+
+                <div class="spelling-question">
+                    <h3>Điền từ còn thiếu:</h3>
+                    <div class="spelling-meaning" id="spellingMeaning">
+                        <!-- Vietnamese meaning will be shown here -->
+                    </div>
+                    <div class="spelling-hint-container">
+                        <div class="spelling-hint" id="spellingHint">
+                            <!-- Pattern like r_m_v_ will be shown here -->
+                        </div>
+                        <button class="hint-btn" id="showHintBtn" title="Hiện gợi ý thêm">
+                            💡 Gợi ý
+                        </button>
+                    </div>
+                </div>
+
+                <div class="spelling-input-container">
+                    <input type="text" class="spelling-input" id="spellingInput" 
+                           placeholder="Nhập từ tiếng Anh..." 
+                           autocomplete="off" autocapitalize="none" spellcheck="false">
+                    <button class="spelling-submit-btn" id="spellingSubmitBtn">
+                        ✓ Kiểm tra
+                    </button>
+                </div>
+
+                <div class="spelling-result" id="spellingResult">
+                    <div class="result-icon"></div>
+                    <div class="result-text"></div>
+                    <div class="result-answer" id="spellingCorrectAnswer"></div>
+                </div>
+
+                <div class="spelling-controls">
+                    <button class="spelling-next-btn" id="spellingNextBtn">
+                        Câu tiếp theo →
+                    </button>
+                    <button class="spelling-speak-btn" id="spellingSpeakBtn" title="Nghe phát âm">
+                        🔊 Nghe từ
+                    </button>
+                </div>
+
+                <div class="spelling-stats">
+                    <div class="stat-item">
+                        <span class="stat-label">Đúng:</span>
+                        <span class="stat-value correct" id="spellingCorrectCount">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Sai:</span>
+                        <span class="stat-value wrong" id="spellingWrongCount">0</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Tỉ lệ:</span>
+                        <span class="stat-value" id="spellingAccuracy">0%</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Add Card Modal -->
+        <div class="modal" id="addCardModal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>✏️ Chỉnh sửa thẻ</h3>
+                    <button class="modal-close" id="closeModal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label>Hình ảnh</label>
+                        <div class="preview-image" id="modalPreviewImage"></div>
+                    </div>
+                    <div class="form-group">
+                        <label>Từ vựng (English)</label>
+                        <input type="text" id="inputWord" placeholder="Nhập từ tiếng Anh">
+                    </div>
+                    <div class="form-group">
+                        <label>Phiên âm</label>
+                        <input type="text" id="inputPhonetic" placeholder="/phonetic/">
+                    </div>
+                    <div class="form-group">
+                        <label>Nghĩa (Tiếng Việt)</label>
+                        <input type="text" id="inputMeaning" placeholder="Nhập nghĩa tiếng Việt">
+                    </div>
+                    <div class="form-group">
+                        <label>Câu ví dụ (English)</label>
+                        <input type="text" id="inputExampleEn" placeholder="Example sentence">
+                    </div>
+                    <div class="form-group">
+                        <label>Câu ví dụ (Tiếng Việt)</label>
+                        <input type="text" id="inputExampleVi" placeholder="Câu ví dụ tiếng Việt">
+                    </div>
+                    <div class="form-group">
+                        <label>Danh mục</label>
+                        <select id="inputCategory">
+                            <option value="fruits">🍎 Trái cây</option>
+                            <option value="animals">🐾 Động vật</option>
+                            <option value="objects">📦 Đồ vật</option>
+                            <option value="nature">🌿 Thiên nhiên</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" id="cancelModal">Hủy</button>
+                    <button class="btn btn-primary" id="saveCard">💾 Lưu thẻ</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

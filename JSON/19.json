@@ -1,0 +1,562 @@
+[
+  {
+    "number": 1,
+    "word": "vacant",
+    "definition": "trống, bỏ trống",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈveɪ.kənt/"
+  },
+  {
+    "number": 2,
+    "word": "promotion",
+    "definition": "sự thăng chức",
+    "partOfSpeech": "",
+    "pronunciation": "/prəˈmoʊ.ʃən/"
+  },
+  {
+    "number": 3,
+    "word": "consumption",
+    "definition": "sự tiêu thụ",
+    "partOfSpeech": "",
+    "pronunciation": "/kənˈsʌmp.ʃən/"
+  },
+  {
+    "number": 4,
+    "word": "superintendent",
+    "definition": "người quản lý",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌsuː.pɚ.ɪnˈten.dənt/"
+  },
+  {
+    "number": 5,
+    "word": "renovation",
+    "definition": "sự cải tạo",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌren.əˈveɪ.ʃən/"
+  },
+  {
+    "number": 6,
+    "word": "manufacturer",
+    "definition": "nhà sản xuất",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌmæn.jəˈfæk.tʃɚ.ɚ/"
+  },
+  {
+    "number": 7,
+    "word": "consideration",
+    "definition": "sự cân nhắc",
+    "partOfSpeech": "",
+    "pronunciation": "/kənˌsɪd.əˈreɪ.ʃən/"
+  },
+  {
+    "number": 8,
+    "word": "critic",
+    "definition": "nhà phê bình",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈkrɪt.ɪk/"
+  },
+  {
+    "number": 9,
+    "word": "impressive",
+    "definition": "ấn tượng",
+    "partOfSpeech": "",
+    "pronunciation": "/ɪmˈpres.ɪv/"
+  },
+  {
+    "number": 10,
+    "word": "choreography",
+    "definition": "biên đạo múa",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌkɔːr.iˈɑː.ɡrə.fi/"
+  },
+  {
+    "number": 11,
+    "word": "ongoing",
+    "definition": "đang diễn ra",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈɑːnˌɡoʊ.ɪŋ/"
+  },
+  {
+    "number": 12,
+    "word": "household",
+    "definition": "thuộc gia đình",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈhaʊs.hoʊld/"
+  },
+  {
+    "number": 13,
+    "word": "automotive",
+    "definition": "thuộc ô tô",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈɔː.t̬oʊ.moʊ.t̬ɪv/"
+  },
+  {
+    "number": 14,
+    "word": "eligible",
+    "definition": "đủ điều kiện",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈel.ɪ.dʒə.bəl/"
+  },
+  {
+    "number": 15,
+    "word": "vendor",
+    "definition": "người bán hàng",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈven.dɚ/"
+  },
+  {
+    "number": 16,
+    "word": "variation",
+    "definition": "sự thay đổi",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌver.iˈeɪ.ʃən/"
+  },
+  {
+    "number": 17,
+    "word": "imperfection",
+    "definition": "sự khiếm khuyết",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌɪm.pɚˈfek.ʃən/"
+  },
+  {
+    "number": 18,
+    "word": "narrow",
+    "definition": "hẹp",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈner.oʊ/"
+  },
+  {
+    "number": 19,
+    "word": "detach",
+    "definition": "tách rời",
+    "partOfSpeech": "",
+    "pronunciation": "/dɪˈtætʃ/"
+  },
+  {
+    "number": 20,
+    "word": "abrasive",
+    "definition": "có tính mài mòn",
+    "partOfSpeech": "",
+    "pronunciation": "/əˈbreɪ.sɪv/"
+  },
+  {
+    "number": 21,
+    "word": "residue",
+    "definition": "cặn, phần dư",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈrez.ɪ.duː/"
+  },
+  {
+    "number": 22,
+    "word": "submerge",
+    "definition": "nhấn chìm",
+    "partOfSpeech": "",
+    "pronunciation": "/səbˈmɝːdʒ/"
+  },
+  {
+    "number": 23,
+    "word": "utensil",
+    "definition": "dụng cụ",
+    "partOfSpeech": "",
+    "pronunciation": "/juːˈten.səl/"
+  },
+  {
+    "number": 24,
+    "word": "separately",
+    "definition": "riêng biệt",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈsep.ɚ.ət.li/"
+  },
+  {
+    "number": 25,
+    "word": "entrust",
+    "definition": "giao phó",
+    "partOfSpeech": "",
+    "pronunciation": "/ɪnˈtrʌst/"
+  },
+  {
+    "number": 26,
+    "word": "convey",
+    "definition": "truyền đạt",
+    "partOfSpeech": "",
+    "pronunciation": "/kənˈveɪ/"
+  },
+  {
+    "number": 27,
+    "word": "timeless",
+    "definition": "vượt thời gian",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈtaɪm.ləs/"
+  },
+  {
+    "number": 28,
+    "word": "precision",
+    "definition": "độ chính xác",
+    "partOfSpeech": "",
+    "pronunciation": "/prɪˈsɪʒ.ən/"
+  },
+  {
+    "number": 29,
+    "word": "costly",
+    "definition": "tốn kém",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈkɑːst.li/"
+  },
+  {
+    "number": 30,
+    "word": "initially",
+    "definition": "ban đầu",
+    "partOfSpeech": "",
+    "pronunciation": "/ɪˈnɪʃ.ə.li/"
+  },
+  {
+    "number": 31,
+    "word": "acquisition",
+    "definition": "sự mua lại",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌæk.wəˈzɪʃ.ən/"
+  },
+  {
+    "number": 32,
+    "word": "insider",
+    "definition": "người trong cuộc",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈɪnˌsaɪ.dɚ/"
+  },
+  {
+    "number": 33,
+    "word": "speculate",
+    "definition": "suy đoán",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈspek.jə.leɪt/"
+  },
+  {
+    "number": 34,
+    "word": "iconic",
+    "definition": "tính biểu tượng",
+    "partOfSpeech": "",
+    "pronunciation": "/aɪˈkɑː.nɪk/"
+  },
+  {
+    "number": 35,
+    "word": "reliably",
+    "definition": "đáng tin cậy",
+    "partOfSpeech": "",
+    "pronunciation": "/rɪˈlaɪ.ə.bli/"
+  },
+  {
+    "number": 36,
+    "word": "fate",
+    "definition": "số phận",
+    "partOfSpeech": "",
+    "pronunciation": "/feɪt/"
+  },
+  {
+    "number": 37,
+    "word": "retirement",
+    "definition": "sự nghỉ hưu",
+    "partOfSpeech": "",
+    "pronunciation": "/rɪˈtaɪr.mənt/"
+  },
+  {
+    "number": 38,
+    "word": "deactivation",
+    "definition": "sự vô hiệu hóa",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌdiːˌæk.tɪˈveɪ.ʃən/"
+  },
+  {
+    "number": 39,
+    "word": "renew",
+    "definition": "gia hạn",
+    "partOfSpeech": "",
+    "pronunciation": "/rɪˈnuː/"
+  },
+  {
+    "number": 40,
+    "word": "displeasure",
+    "definition": "sự không hài lòng",
+    "partOfSpeech": "",
+    "pronunciation": "/dɪsˈpleʒ.ɚ/"
+  },
+  {
+    "number": 41,
+    "word": "promise",
+    "definition": "có triển vọng",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈprɑː.mɪs/"
+  },
+  {
+    "number": 42,
+    "word": "sufficient",
+    "definition": "đủ",
+    "partOfSpeech": "",
+    "pronunciation": "/səˈfɪʃ.ənt/"
+  },
+  {
+    "number": 43,
+    "word": "regard",
+    "definition": "coi là",
+    "partOfSpeech": "",
+    "pronunciation": "/rɪˈɡɑːrd/"
+  },
+  {
+    "number": 44,
+    "word": "assistance",
+    "definition": "sự hỗ trợ",
+    "partOfSpeech": "",
+    "pronunciation": "/əˈsɪs.təns/"
+  },
+  {
+    "number": 45,
+    "word": "unveil",
+    "definition": "công bố",
+    "partOfSpeech": "",
+    "pronunciation": "/ʌnˈveɪl/"
+  },
+  {
+    "number": 46,
+    "word": "advancement",
+    "definition": "sự tiến bộ",
+    "partOfSpeech": "",
+    "pronunciation": "/ədˈvæns.mənt/"
+  },
+  {
+    "number": 47,
+    "word": "glimpse",
+    "definition": "cái nhìn thoáng qua",
+    "partOfSpeech": "",
+    "pronunciation": "/ɡlɪmps/"
+  },
+  {
+    "number": 48,
+    "word": "decay",
+    "definition": "suy tàn",
+    "partOfSpeech": "",
+    "pronunciation": "/dɪˈkeɪ/"
+  },
+  {
+    "number": 49,
+    "word": "architectural",
+    "definition": "thuộc kiến trúc",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌɑːr.kəˈtek.tʃɚ.əl/"
+  },
+  {
+    "number": 50,
+    "word": "transition",
+    "definition": "sự chuyển đổi",
+    "partOfSpeech": "",
+    "pronunciation": "/trænˈzɪʃ.ən/"
+  },
+  {
+    "number": 51,
+    "word": "constructive",
+    "definition": "tích cực, mang tính xây dựng",
+    "partOfSpeech": "",
+    "pronunciation": "/kənˈstrʌk.tɪv/"
+  },
+  {
+    "number": 52,
+    "word": "showcase",
+    "definition": "trưng bày",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈʃoʊ.keɪs/"
+  },
+  {
+    "number": 53,
+    "word": "notable",
+    "definition": "đáng chú ý",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈnoʊ.t̬ə.bəl/"
+  },
+  {
+    "number": 54,
+    "word": "concrete",
+    "definition": "cụ thể",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈkɑːn.kriːt/"
+  },
+  {
+    "number": 55,
+    "word": "overcome",
+    "definition": "vượt qua",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌoʊ.vɚˈkʌm/"
+  },
+  {
+    "number": 56,
+    "word": "preventive",
+    "definition": "phòng ngừa",
+    "partOfSpeech": "",
+    "pronunciation": "/prɪˈven.tɪv/"
+  },
+  {
+    "number": 57,
+    "word": "gauge",
+    "definition": "ước lượng",
+    "partOfSpeech": "",
+    "pronunciation": "/ɡeɪdʒ/"
+  },
+  {
+    "number": 58,
+    "word": "respective",
+    "definition": "tương ứng",
+    "partOfSpeech": "",
+    "pronunciation": "/rɪˈspek.tɪv/"
+  },
+  {
+    "number": 59,
+    "word": "compensate",
+    "definition": "bồi thường",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈkɑːm.pən.seɪt/"
+  },
+  {
+    "number": 60,
+    "word": "persistent",
+    "definition": "dai dẳng",
+    "partOfSpeech": "",
+    "pronunciation": "/pɚˈsɪs.tənt/"
+  },
+  {
+    "number": 61,
+    "word": "narrative",
+    "definition": "tường thuật",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈner.ə.t̬ɪv/"
+  },
+  {
+    "number": 62,
+    "word": "adjoining",
+    "definition": "kề bên",
+    "partOfSpeech": "",
+    "pronunciation": "/əˈdʒɔɪ.nɪŋ/"
+  },
+  {
+    "number": 63,
+    "word": "heritage",
+    "definition": "di sản",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈher.ɪ.t̬ɪdʒ/"
+  },
+  {
+    "number": 64,
+    "word": "vintage",
+    "definition": "cổ điển",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈvɪn.tɪdʒ/"
+  },
+  {
+    "number": 65,
+    "word": "purified",
+    "definition": "được tinh lọc",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈpjʊr.ə.faɪd/"
+  },
+  {
+    "number": 66,
+    "word": "whimsical",
+    "definition": "kỳ quặc, sáng tạo",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈwɪm.zɪ.kəl/"
+  },
+  {
+    "number": 67,
+    "word": "infuse",
+    "definition": "thấm vào",
+    "partOfSpeech": "",
+    "pronunciation": "/ɪnˈfjuːz/"
+  },
+  {
+    "number": 68,
+    "word": "biweekly",
+    "definition": "hai tuần một lần",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌbaɪˈwiːk.li/"
+  },
+  {
+    "number": 69,
+    "word": "affordably",
+    "definition": "với giá phải chăng",
+    "partOfSpeech": "",
+    "pronunciation": "/əˈfɔːr.də.bli/"
+  },
+  {
+    "number": 70,
+    "word": "crease",
+    "definition": "nếp gấp",
+    "partOfSpeech": "",
+    "pronunciation": "/kriːs/"
+  },
+  {
+    "number": 71,
+    "word": "encyclopaedia",
+    "definition": "bách khoa toàn thư",
+    "partOfSpeech": "",
+    "pronunciation": "/ɪnˌsaɪ.kləˈpiː.di.ə/"
+  },
+  {
+    "number": 72,
+    "word": "enquiry",
+    "definition": "sự hỏi han",
+    "partOfSpeech": "",
+    "pronunciation": "/ɪnˈkwaɪr.i/"
+  },
+  {
+    "number": 73,
+    "word": "inherit",
+    "definition": "thừa kế",
+    "partOfSpeech": "",
+    "pronunciation": "/ɪnˈher.ɪt/"
+  },
+  {
+    "number": 74,
+    "word": "onboarding",
+    "definition": "quy trình hội nhập",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈɑːnˌbɔːr.dɪŋ/"
+  },
+  {
+    "number": 75,
+    "word": "interact",
+    "definition": "tương tác",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌɪn.t̬ɚˈækt/"
+  },
+  {
+    "number": 76,
+    "word": "enrollment",
+    "definition": "sự ghi danh",
+    "partOfSpeech": "",
+    "pronunciation": "/ɪnˈroʊl.mənt/"
+  },
+  {
+    "number": 77,
+    "word": "breathtaking",
+    "definition": "ngoạn mục",
+    "partOfSpeech": "",
+    "pronunciation": "/ˈbreθˌteɪ.kɪŋ/"
+  },
+  {
+    "number": 78,
+    "word": "certification",
+    "definition": "chứng nhận",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌsɝː.t̬ə.fɪˈkeɪ.ʃən/"
+  },
+  {
+    "number": 79,
+    "word": "precondition",
+    "definition": "điều kiện tiên quyết",
+    "partOfSpeech": "",
+    "pronunciation": "/ˌpriː.kənˈdɪʃ.ən/"
+  },
+  {
+    "number": 80,
+    "word": "authority",
+    "definition": "cơ quan chức năng",
+    "partOfSpeech": "",
+    "pronunciation": "/əˈθɔːr.ə.t̬i/"
+  }
+]

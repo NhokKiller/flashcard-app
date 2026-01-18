@@ -1,0 +1,482 @@
+[
+  {
+    "number": 1,
+    "word": "commute",
+    "definition": "đi làm, đi học hằng ngày",
+    "pronunciation": "/kəˈmjuːt/"
+  },
+  {
+    "number": 2,
+    "word": "understaffed",
+    "definition": "thiếu nhân sự",
+    "pronunciation": "/ˌʌn.dɚˈstæft/"
+  },
+  {
+    "number": 3,
+    "word": "keep fit",
+    "definition": "giữ gìn sức khỏe",
+    "pronunciation": "/kiːp fɪt/"
+  },
+  {
+    "number": 4,
+    "word": "completion",
+    "definition": "sự hoàn thành",
+    "pronunciation": "/kəmˈpliː.ʃən/"
+  },
+  {
+    "number": 5,
+    "word": "concern",
+    "definition": "sự lo ngại",
+    "pronunciation": "/kənˈsɝːn/"
+  },
+  {
+    "number": 6,
+    "word": "tuition",
+    "definition": "học phí",
+    "pronunciation": "/tuːˈɪʃ.ən/"
+  },
+  {
+    "number": 7,
+    "word": "enroll in",
+    "definition": "đăng ký tham gia",
+    "pronunciation": "/ɪnˈroʊl ɪn/"
+  },
+  {
+    "number": 8,
+    "word": "evaluate",
+    "definition": "đánh giá",
+    "pronunciation": "/ɪˈvæl.ju.eɪt/"
+  },
+  {
+    "number": 9,
+    "word": "milestone",
+    "definition": "cột mốc",
+    "pronunciation": "/ˈmaɪl.stoʊn/"
+  },
+  {
+    "number": 10,
+    "word": "responsive",
+    "definition": "phản hồi nhanh",
+    "pronunciation": "/rɪˈspɑːn.sɪv/"
+  },
+  {
+    "number": 11,
+    "word": "chemistry",
+    "definition": "hóa học",
+    "pronunciation": "/ˈkem.ɪ.stri/"
+  },
+  {
+    "number": 12,
+    "word": "rapid",
+    "definition": "nhanh chóng",
+    "pronunciation": "/ˈræp.ɪd/"
+  },
+  {
+    "number": 13,
+    "word": "hospitality",
+    "definition": "dịch vụ hiếu khách",
+    "pronunciation": "/ˌhɑː.spɪˈtæl.ə.t̬i/"
+  },
+  {
+    "number": 14,
+    "word": "payroll",
+    "definition": "bảng lương",
+    "pronunciation": "/ˈpeɪ.roʊl/"
+  },
+  {
+    "number": 15,
+    "word": "time sheet",
+    "definition": "bảng chấm công",
+    "pronunciation": "/ˈtaɪm ʃiːt/"
+  },
+  {
+    "number": 16,
+    "word": "container",
+    "definition": "vật chứa",
+    "pronunciation": "/kənˈteɪ.nɚ/"
+  },
+  {
+    "number": 17,
+    "word": "fancy",
+    "definition": "thích",
+    "pronunciation": "/ˈfæn.si/"
+  },
+  {
+    "number": 18,
+    "word": "savour",
+    "definition": "tận hưởng",
+    "pronunciation": "/ˈseɪ.vɚ/"
+  },
+  {
+    "number": 19,
+    "word": "socialise",
+    "definition": "giao lưu",
+    "pronunciation": "/ˈsoʊ.ʃə.laɪz/"
+  },
+  {
+    "number": 20,
+    "word": "reserve",
+    "definition": "đặt trước",
+    "pronunciation": "/rɪˈzɝːv/"
+  },
+  {
+    "number": 21,
+    "word": "opening",
+    "definition": "vị trí trống",
+    "pronunciation": "/ˈoʊ.pə.nɪŋ/"
+  },
+  {
+    "number": 22,
+    "word": "renewal",
+    "definition": "sự gia hạn",
+    "pronunciation": "/rɪˈnuː.əl/"
+  },
+  {
+    "number": 23,
+    "word": "assume",
+    "definition": "giả định",
+    "pronunciation": "/əˈsuːm/"
+  },
+  {
+    "number": 24,
+    "word": "tenant",
+    "definition": "người thuê nhà",
+    "pronunciation": "/ˈten.ənt/"
+  },
+  {
+    "number": 25,
+    "word": "realty",
+    "definition": "bất động sản",
+    "pronunciation": "/ˈrɪəl.t̬i/"
+  },
+  {
+    "number": 26,
+    "word": "peninsula",
+    "definition": "bán đảo",
+    "pronunciation": "/pəˈnɪn.sə.lə/"
+  },
+  {
+    "number": 27,
+    "word": "moderately",
+    "definition": "vừa phải",
+    "pronunciation": "/ˈmɑː.dɚ.ət.li/"
+  },
+  {
+    "number": 28,
+    "word": "scatter",
+    "definition": "phân tán",
+    "pronunciation": "/ˈskæt̬.ɚ/"
+  },
+  {
+    "number": 29,
+    "word": "inexpensive",
+    "definition": "rẻ",
+    "pronunciation": "/ˌɪn.ɪkˈspen.sɪv/"
+  },
+  {
+    "number": 30,
+    "word": "flock to",
+    "definition": "đổ xô đến",
+    "pronunciation": "/flɑːk tuː/"
+  },
+  {
+    "number": 31,
+    "word": "alert",
+    "definition": "cảnh báo",
+    "pronunciation": "/əˈlɝːt/"
+  },
+  {
+    "number": 32,
+    "word": "electronically",
+    "definition": "bằng phương tiện điện tử",
+    "pronunciation": "/ɪˌlekˈtrɑː.nɪ.kəl.i/"
+  },
+  {
+    "number": 33,
+    "word": "exclusively",
+    "definition": "độc quyền",
+    "pronunciation": "/ɪkˈskluː.sɪv.li/"
+  },
+  {
+    "number": 34,
+    "word": "creamery",
+    "definition": "cửa hàng sữa",
+    "pronunciation": "/ˈkriː.mɚ.i/"
+  },
+  {
+    "number": 35,
+    "word": "physician",
+    "definition": "bác sĩ",
+    "pronunciation": "/fɪˈzɪʃ.ən/"
+  },
+  {
+    "number": 36,
+    "word": "remind",
+    "definition": "nhắc nhở",
+    "pronunciation": "/rɪˈmaɪnd/"
+  },
+  {
+    "number": 37,
+    "word": "time off",
+    "definition": "nghỉ phép",
+    "pronunciation": "/taɪm ɔːf/"
+  },
+  {
+    "number": 38,
+    "word": "adjust",
+    "definition": "điều chỉnh",
+    "pronunciation": "/əˈdʒʌst/"
+  },
+  {
+    "number": 39,
+    "word": "custodian",
+    "definition": "người quản lý, lao công",
+    "pronunciation": "/kʌˈstoʊ.di.ən/"
+  },
+  {
+    "number": 40,
+    "word": "testimonial",
+    "definition": "lời chứng thực",
+    "pronunciation": "/ˌtes.təˈmoʊ.ni.əl/"
+  },
+  {
+    "number": 41,
+    "word": "satisfaction",
+    "definition": "sự hài lòng",
+    "pronunciation": "/ˌsæt.ɪsˈfæk.ʃən/"
+  },
+  {
+    "number": 42,
+    "word": "detailed",
+    "definition": "chi tiết",
+    "pronunciation": "/ˈdiː.teɪld/"
+  },
+  {
+    "number": 43,
+    "word": "reputation",
+    "definition": "danh tiếng",
+    "pronunciation": "/ˌrep.jəˈteɪ.ʃən/"
+  },
+  {
+    "number": 44,
+    "word": "identify",
+    "definition": "nhận diện",
+    "pronunciation": "/aɪˈden.tə.faɪ/"
+  },
+  {
+    "number": 45,
+    "word": "persuade",
+    "definition": "thuyết phục",
+    "pronunciation": "/pɚˈsweɪd/"
+  },
+  {
+    "number": 46,
+    "word": "imminent",
+    "definition": "sắp xảy ra",
+    "pronunciation": "/ˈɪm.ə.nənt/"
+  },
+  {
+    "number": 47,
+    "word": "undoubtedly",
+    "definition": "chắc chắn",
+    "pronunciation": "/ʌnˈdaʊ.t̬ɪd.li/"
+  },
+  {
+    "number": 48,
+    "word": "visible",
+    "definition": "có thể nhìn thấy",
+    "pronunciation": "/ˈvɪz.ə.bəl/"
+  },
+  {
+    "number": 49,
+    "word": "collaboration",
+    "definition": "sự hợp tác",
+    "pronunciation": "/kəˌlæb.əˈreɪ.ʃən/"
+  },
+  {
+    "number": 50,
+    "word": "corporation",
+    "definition": "tập đoàn",
+    "pronunciation": "/ˌkɔːr.pɚˈreɪ.ʃən/"
+  },
+  {
+    "number": 51,
+    "word": "nonprofit",
+    "definition": "phi lợi nhuận",
+    "pronunciation": "/ˌnɑːnˈprɑː.fɪt/"
+  },
+  {
+    "number": 52,
+    "word": "participation",
+    "definition": "sự tham gia",
+    "pronunciation": "/pɑːrˌtɪs.əˈpeɪ.ʃən/"
+  },
+  {
+    "number": 53,
+    "word": "involve",
+    "definition": "liên quan",
+    "pronunciation": "/ɪnˈvɑːlv/"
+  },
+  {
+    "number": 54,
+    "word": "dedicate",
+    "definition": "cống hiến",
+    "pronunciation": "/ˈded.ɪ.keɪt/"
+  },
+  {
+    "number": 55,
+    "word": "spearhead",
+    "definition": "đi đầu",
+    "pronunciation": "/ˈspɪr.hed/"
+  },
+  {
+    "number": 56,
+    "word": "subcompact",
+    "definition": "xe cỡ nhỏ",
+    "pronunciation": "/ˌsʌbˈkɑːm.pækt/"
+  },
+  {
+    "number": 57,
+    "word": "stunning",
+    "definition": "ấn tượng mạnh",
+    "pronunciation": "/ˈstʌn.ɪŋ/"
+  },
+  {
+    "number": 58,
+    "word": "abundant",
+    "definition": "dồi dào",
+    "pronunciation": "/əˈbʌn.dənt/"
+  },
+  {
+    "number": 59,
+    "word": "secondhand",
+    "definition": "đã qua sử dụng",
+    "pronunciation": "/ˈsek.ənd.hænd/"
+  },
+  {
+    "number": 60,
+    "word": "credential",
+    "definition": "chứng chỉ",
+    "pronunciation": "/krəˈden.ʃəl/"
+  },
+  {
+    "number": 61,
+    "word": "reliable",
+    "definition": "đáng tin cậy",
+    "pronunciation": "/rɪˈlaɪ.ə.bəl/"
+  },
+  {
+    "number": 62,
+    "word": "unsightly",
+    "definition": "khó coi",
+    "pronunciation": "/ʌnˈsaɪt.li/"
+  },
+  {
+    "number": 63,
+    "word": "merchandise",
+    "definition": "hàng hóa",
+    "pronunciation": "/ˈmɝː.tʃən.daɪs/"
+  },
+  {
+    "number": 64,
+    "word": "possession",
+    "definition": "sự sở hữu",
+    "pronunciation": "/pəˈzeʃ.ən/"
+  },
+  {
+    "number": 65,
+    "word": "drastically",
+    "definition": "một cách mạnh mẽ",
+    "pronunciation": "/ˈdræs.tɪ.kəl.i/"
+  },
+  {
+    "number": 66,
+    "word": "informed",
+    "definition": "có hiểu biết",
+    "pronunciation": "/ɪnˈfɔːrmd/"
+  },
+  {
+    "number": 67,
+    "word": "vast",
+    "definition": "rộng lớn",
+    "pronunciation": "/væst/"
+  },
+  {
+    "number": 68,
+    "word": "bypass",
+    "definition": "bỏ qua",
+    "pronunciation": "/ˈbaɪ.pæs/"
+  },
+  {
+    "number": 69,
+    "word": "deboard",
+    "definition": "xuống (xe/máy bay)",
+    "pronunciation": "/diːˈbɔːrd/"
+  },
+  {
+    "number": 70,
+    "word": "voucher",
+    "definition": "phiếu mua hàng",
+    "pronunciation": "/ˈvaʊ.tʃɚ/"
+  },
+  {
+    "number": 71,
+    "word": "demonstration",
+    "definition": "sự trình diễn",
+    "pronunciation": "/ˌdem.ənˈstreɪ.ʃən/"
+  },
+  {
+    "number": 72,
+    "word": "unintentionally",
+    "definition": "vô ý",
+    "pronunciation": "/ˌʌn.ɪnˈten.ʃən.əl.i/"
+  },
+  {
+    "number": 73,
+    "word": "discard",
+    "definition": "vứt bỏ",
+    "pronunciation": "/dɪˈskɑːrd/"
+  },
+  {
+    "number": 74,
+    "word": "lightweight",
+    "definition": "nhẹ",
+    "pronunciation": "/ˈlaɪt.weɪt/"
+  },
+  {
+    "number": 75,
+    "word": "disposable",
+    "definition": "dùng một lần",
+    "pronunciation": "/dɪˈspoʊ.zə.bəl/"
+  },
+  {
+    "number": 76,
+    "word": "receptacle",
+    "definition": "vật chứa",
+    "pronunciation": "/rɪˈsep.tə.kəl/"
+  },
+  {
+    "number": 77,
+    "word": "overdue",
+    "definition": "quá hạn",
+    "pronunciation": "/ˌoʊ.vɚˈduː/"
+  },
+  {
+    "number": 78,
+    "word": "withhold",
+    "definition": "giữ lại",
+    "pronunciation": "/wɪðˈhoʊld/"
+  },
+  {
+    "number": 79,
+    "word": "malfunction",
+    "definition": "trục trặc",
+    "pronunciation": "/mælˈfʌŋk.ʃən/"
+  },
+  {
+    "number": 80,
+    "word": "expedite",
+    "definition": "xử lý nhanh",
+    "pronunciation": "/ˈek.spə.daɪt/"
+  }
+]

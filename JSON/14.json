@@ -1,0 +1,482 @@
+[
+  {
+    "number": 1,
+    "word": "retire",
+    "definition": "nghỉ hưu",
+    "pronunciation": "/rɪˈtaɪər/"
+  },
+  {
+    "number": 2,
+    "word": "applicant",
+    "definition": "người nộp đơn, ứng viên",
+    "pronunciation": "/ˈæplɪkənt/"
+  },
+  {
+    "number": 3,
+    "word": "contract",
+    "definition": "hợp đồng",
+    "pronunciation": "/ˈkɑːntrækt/"
+  },
+  {
+    "number": 4,
+    "word": "liquid",
+    "definition": "chất lỏng",
+    "pronunciation": "/ˈlɪkwɪd/"
+  },
+  {
+    "number": 5,
+    "word": "praise",
+    "definition": "khen ngợi",
+    "pronunciation": "/preɪz/"
+  },
+  {
+    "number": 6,
+    "word": "aesthetic",
+    "definition": "thuộc thẩm mỹ",
+    "pronunciation": "/iːsˈθetɪk/"
+  },
+  {
+    "number": 7,
+    "word": "maintain",
+    "definition": "duy trì",
+    "pronunciation": "/meɪnˈteɪn/"
+  },
+  {
+    "number": 8,
+    "word": "confidentiality",
+    "definition": "tính bảo mật",
+    "pronunciation": "/ˌkɑːnfɪˌdenʃiˈæləti/"
+  },
+  {
+    "number": 9,
+    "word": "architecture",
+    "definition": "kiến trúc",
+    "pronunciation": "/ˈɑːrkɪtektʃər/"
+  },
+  {
+    "number": 10,
+    "word": "thermostat",
+    "definition": "bộ điều nhiệt",
+    "pronunciation": "/ˈθɜːrməstæt/"
+  },
+  {
+    "number": 11,
+    "word": "reflect",
+    "definition": "phản ánh",
+    "pronunciation": "/rɪˈflekt/"
+  },
+  {
+    "number": 12,
+    "word": "retreat",
+    "definition": "rút lui",
+    "pronunciation": "/rɪˈtriːt/"
+  },
+  {
+    "number": 13,
+    "word": "in celebration of",
+    "definition": "nhân dịp kỷ niệm",
+    "pronunciation": "/ɪn ˌselɪˈbreɪʃən əv/"
+  },
+  {
+    "number": 14,
+    "word": "outline",
+    "definition": "phác thảo",
+    "pronunciation": "/ˈaʊtlaɪn/"
+  },
+  {
+    "number": 15,
+    "word": "procurement",
+    "definition": "hoạt động mua sắm",
+    "pronunciation": "/prəˈkjʊrmənt/"
+  },
+  {
+    "number": 16,
+    "word": "pediatric",
+    "definition": "thuộc nhi khoa",
+    "pronunciation": "/ˌpiːdiˈætrɪk/"
+  },
+  {
+    "number": 17,
+    "word": "accurately",
+    "definition": "chính xác",
+    "pronunciation": "/ˈækjərətli/"
+  },
+  {
+    "number": 18,
+    "word": "authentic",
+    "definition": "xác thực",
+    "pronunciation": "/ɔːˈθentɪk/"
+  },
+  {
+    "number": 19,
+    "word": "cuisine",
+    "definition": "ẩm thực",
+    "pronunciation": "/kwɪˈziːn/"
+  },
+  {
+    "number": 20,
+    "word": "occupy",
+    "definition": "chiếm giữ",
+    "pronunciation": "/ˈɑːkjupaɪ/"
+  },
+  {
+    "number": 21,
+    "word": "enthusiasm",
+    "definition": "sự nhiệt tình",
+    "pronunciation": "/ɪnˈθuːziæzəm/"
+  },
+  {
+    "number": 22,
+    "word": "validate",
+    "definition": "xác nhận",
+    "pronunciation": "/ˈvælɪdeɪt/"
+  },
+  {
+    "number": 23,
+    "word": "at no charge",
+    "definition": "miễn phí",
+    "pronunciation": "/æt noʊ tʃɑːrdʒ/"
+  },
+  {
+    "number": 24,
+    "word": "memoir",
+    "definition": "hồi ký",
+    "pronunciation": "/ˈmemoʊɑːr/"
+  },
+  {
+    "number": 25,
+    "word": "in person",
+    "definition": "trực tiếp",
+    "pronunciation": "/ɪn ˈpɜːrsən/"
+  },
+  {
+    "number": 26,
+    "word": "specialize in",
+    "definition": "chuyên về",
+    "pronunciation": "/ˈspeʃəlaɪz ɪn/"
+  },
+  {
+    "number": 27,
+    "word": "bold",
+    "definition": "táo bạo",
+    "pronunciation": "/boʊld/"
+  },
+  {
+    "number": 28,
+    "word": "reciprocate",
+    "definition": "đáp lại",
+    "pronunciation": "/rɪˈsɪprəkeɪt/"
+  },
+  {
+    "number": 29,
+    "word": "competitive",
+    "definition": "cạnh tranh",
+    "pronunciation": "/kəmˈpetɪtɪv/"
+  },
+  {
+    "number": 30,
+    "word": "knowledge",
+    "definition": "kiến thức",
+    "pronunciation": "/ˈnɑːlɪdʒ/"
+  },
+  {
+    "number": 31,
+    "word": "regulation",
+    "definition": "quy định",
+    "pronunciation": "/ˌreɡjuˈleɪʃən/"
+  },
+  {
+    "number": 32,
+    "word": "fluency",
+    "definition": "sự trôi chảy",
+    "pronunciation": "/ˈfluːənsi/"
+  },
+  {
+    "number": 33,
+    "word": "satellite",
+    "definition": "vệ tinh",
+    "pronunciation": "/ˈsætəlaɪt/"
+  },
+  {
+    "number": 34,
+    "word": "grant",
+    "definition": "cấp, tài trợ",
+    "pronunciation": "/ɡrænt/"
+  },
+  {
+    "number": 35,
+    "word": "calculate",
+    "definition": "tính toán",
+    "pronunciation": "/ˈkælkjuleɪt/"
+  },
+  {
+    "number": 36,
+    "word": "snowpack",
+    "definition": "lớp tuyết tích tụ",
+    "pronunciation": "/ˈsnoʊpæk/"
+  },
+  {
+    "number": 37,
+    "word": "prototype",
+    "definition": "mẫu thử",
+    "pronunciation": "/ˈproʊtətaɪp/"
+  },
+  {
+    "number": 38,
+    "word": "fluctuation",
+    "definition": "sự biến động",
+    "pronunciation": "/ˌflʌktʃuˈeɪʃən/"
+  },
+  {
+    "number": 39,
+    "word": "enhance",
+    "definition": "nâng cao",
+    "pronunciation": "/ɪnˈhæns/"
+  },
+  {
+    "number": 40,
+    "word": "domestic",
+    "definition": "trong nước",
+    "pronunciation": "/dəˈmestɪk/"
+  },
+  {
+    "number": 41,
+    "word": "prestigious",
+    "definition": "danh giá",
+    "pronunciation": "/preˈstɪdʒəs/"
+  },
+  {
+    "number": 42,
+    "word": "commitment",
+    "definition": "sự cam kết",
+    "pronunciation": "/kəˈmɪtmənt/"
+  },
+  {
+    "number": 43,
+    "word": "tremendous",
+    "definition": "rất lớn",
+    "pronunciation": "/trɪˈmendəs/"
+  },
+  {
+    "number": 44,
+    "word": "headquarter",
+    "definition": "trụ sở chính",
+    "pronunciation": "/ˈhedˌkwɔːrtər/"
+  },
+  {
+    "number": 45,
+    "word": "facilitate",
+    "definition": "tạo điều kiện",
+    "pronunciation": "/fəˈsɪlɪteɪt/"
+  },
+  {
+    "number": 46,
+    "word": "ergonomic",
+    "definition": "thuộc công thái học",
+    "pronunciation": "/ˌɜːrɡəˈnɑːmɪk/"
+  },
+  {
+    "number": 47,
+    "word": "frequently",
+    "definition": "thường xuyên",
+    "pronunciation": "/ˈfriːkwəntli/"
+  },
+  {
+    "number": 48,
+    "word": "initiate",
+    "definition": "khởi xướng",
+    "pronunciation": "/ɪnˈɪʃieɪt/"
+  },
+  {
+    "number": 49,
+    "word": "appearance",
+    "definition": "diện mạo",
+    "pronunciation": "/əˈpɪrəns/"
+  },
+  {
+    "number": 50,
+    "word": "enclose",
+    "definition": "đính kèm",
+    "pronunciation": "/ɪnˈkloʊz/"
+  },
+  {
+    "number": 51,
+    "word": "commence",
+    "definition": "bắt đầu",
+    "pronunciation": "/kəˈmens/"
+  },
+  {
+    "number": 52,
+    "word": "elaborate",
+    "definition": "công phu",
+    "pronunciation": "/ɪˈlæbərət/"
+  },
+  {
+    "number": 53,
+    "word": "insightful",
+    "definition": "sâu sắc",
+    "pronunciation": "/ˈɪnsaɪtfəl/"
+  },
+  {
+    "number": 54,
+    "word": "biography",
+    "definition": "tiểu sử",
+    "pronunciation": "/baɪˈɑːɡrəfi/"
+  },
+  {
+    "number": 55,
+    "word": "admire",
+    "definition": "ngưỡng mộ",
+    "pronunciation": "/ədˈmaɪər/"
+  },
+  {
+    "number": 56,
+    "word": "backdrop",
+    "definition": "phông nền",
+    "pronunciation": "/ˈbækdrɑːp/"
+  },
+  {
+    "number": 57,
+    "word": "refurbish",
+    "definition": "tân trang",
+    "pronunciation": "/rɪˈfɜːrbɪʃ/"
+  },
+  {
+    "number": 58,
+    "word": "prompt",
+    "definition": "nhanh chóng",
+    "pronunciation": "/prɑːmpt/"
+  },
+  {
+    "number": 59,
+    "word": "engaging",
+    "definition": "hấp dẫn",
+    "pronunciation": "/ɪnˈɡeɪdʒɪŋ/"
+  },
+  {
+    "number": 60,
+    "word": "functionality",
+    "definition": "tính năng",
+    "pronunciation": "/ˌfʌŋkʃəˈnæləti/"
+  },
+  {
+    "number": 61,
+    "word": "spectacular",
+    "definition": "ngoạn mục",
+    "pronunciation": "/spekˈtækjələr/"
+  },
+  {
+    "number": 62,
+    "word": "secluded",
+    "definition": "hẻo lánh",
+    "pronunciation": "/sɪˈkluːdɪd/"
+  },
+  {
+    "number": 63,
+    "word": "enchanted",
+    "definition": "đầy mê hoặc",
+    "pronunciation": "/ɪnˈtʃæntɪd/"
+  },
+  {
+    "number": 64,
+    "word": "eclectic",
+    "definition": "đa phong cách",
+    "pronunciation": "/ɪˈklektɪk/"
+  },
+  {
+    "number": 65,
+    "word": "audiovisual",
+    "definition": "nghe nhìn",
+    "pronunciation": "/ˌɔːdioʊˈvɪʒuəl/"
+  },
+  {
+    "number": 66,
+    "word": "durability",
+    "definition": "độ bền",
+    "pronunciation": "/ˌdʊrəˈbɪləti/"
+  },
+  {
+    "number": 67,
+    "word": "versatile",
+    "definition": "đa năng",
+    "pronunciation": "/ˈvɜːrsətaɪl/"
+  },
+  {
+    "number": 68,
+    "word": "persist",
+    "definition": "kiên trì",
+    "pronunciation": "/pərˈsɪst/"
+  },
+  {
+    "number": 69,
+    "word": "commissioner",
+    "definition": "ủy viên",
+    "pronunciation": "/kəˈmɪʃənər/"
+  },
+  {
+    "number": 70,
+    "word": "predecessor",
+    "definition": "người tiền nhiệm",
+    "pronunciation": "/ˈpredəsesər/"
+  },
+  {
+    "number": 71,
+    "word": "step down",
+    "definition": "từ chức",
+    "pronunciation": "/step daʊn/"
+  },
+  {
+    "number": 72,
+    "word": "suspension",
+    "definition": "sự đình chỉ",
+    "pronunciation": "/səˈspenʃən/"
+  },
+  {
+    "number": 73,
+    "word": "inaugural",
+    "definition": "khai mạc",
+    "pronunciation": "/ɪˈnɔːɡjərəl/"
+  },
+  {
+    "number": 74,
+    "word": "proceeds",
+    "definition": "tiền thu được",
+    "pronunciation": "/ˈproʊsiːdz/"
+  },
+  {
+    "number": 75,
+    "word": "submission",
+    "definition": "bài nộp",
+    "pronunciation": "/səbˈmɪʃən/"
+  },
+  {
+    "number": 76,
+    "word": "administration",
+    "definition": "bộ máy quản lý",
+    "pronunciation": "/ədˌmɪnɪˈstreɪʃən/"
+  },
+  {
+    "number": 77,
+    "word": "excel",
+    "definition": "xuất sắc",
+    "pronunciation": "/ɪkˈsel/"
+  },
+  {
+    "number": 78,
+    "word": "aspect",
+    "definition": "khía cạnh",
+    "pronunciation": "/ˈæspekt/"
+  },
+  {
+    "number": 79,
+    "word": "verify",
+    "definition": "xác minh",
+    "pronunciation": "/ˈverɪfaɪ/"
+  },
+  {
+    "number": 80,
+    "word": "convenient",
+    "definition": "thuận tiện",
+    "pronunciation": "/kənˈviːniənt/"
+  }
+]

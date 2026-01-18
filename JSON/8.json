@@ -1,0 +1,482 @@
+[
+  {
+    "number": 1,
+    "word": "flowerpot",
+    "definition": "chậu hoa",
+    "pronunciation": "/ˈflaʊ.ɚ.pɑːt/"
+  },
+  {
+    "number": 2,
+    "word": "rug",
+    "definition": "thảm",
+    "pronunciation": "/rʌɡ/"
+  },
+  {
+    "number": 3,
+    "word": "covered",
+    "definition": "có mái che",
+    "pronunciation": "/ˈkʌv.ɚd/"
+  },
+  {
+    "number": 4,
+    "word": "patio",
+    "definition": "sân hiên",
+    "pronunciation": "/ˈpæt.i.oʊ/"
+  },
+  {
+    "number": 5,
+    "word": "intersection",
+    "definition": "giao lộ",
+    "pronunciation": "/ˌɪn.tɚˈsek.ʃən/"
+  },
+  {
+    "number": 6,
+    "word": "flyer",
+    "definition": "tờ rơi",
+    "pronunciation": "/ˈflaɪ.ɚ/"
+  },
+  {
+    "number": 7,
+    "word": "ceiling",
+    "definition": "trần nhà",
+    "pronunciation": "/ˈsiː.lɪŋ/"
+  },
+  {
+    "number": 8,
+    "word": "unload",
+    "definition": "dỡ hàng",
+    "pronunciation": "/ʌnˈloʊd/"
+  },
+  {
+    "number": 9,
+    "word": "climb",
+    "definition": "leo, trèo",
+    "pronunciation": "/klaɪm/"
+  },
+  {
+    "number": 10,
+    "word": "rake",
+    "definition": "cào, cào gom",
+    "pronunciation": "/reɪk/"
+  },
+  {
+    "number": 11,
+    "word": "alert",
+    "definition": "cảnh báo",
+    "pronunciation": "/əˈlɝːt/"
+  },
+  {
+    "number": 12,
+    "word": "agenda",
+    "definition": "chương trình nghị sự",
+    "pronunciation": "/əˈdʒen.də/"
+  },
+  {
+    "number": 13,
+    "word": "informational",
+    "definition": "cung cấp thông tin",
+    "pronunciation": "/ˌɪn.fɚˈmeɪ.ʃə.nəl/"
+  },
+  {
+    "number": 14,
+    "word": "satisfaction",
+    "definition": "sự hài lòng",
+    "pronunciation": "/ˌsæt.ɪsˈfæk.ʃən/"
+  },
+  {
+    "number": 15,
+    "word": "predict",
+    "definition": "dự đoán",
+    "pronunciation": "/prɪˈdɪkt/"
+  },
+  {
+    "number": 16,
+    "word": "assignment",
+    "definition": "bài/việc được giao",
+    "pronunciation": "/əˈsaɪn.mənt/"
+  },
+  {
+    "number": 17,
+    "word": "productive",
+    "definition": "năng suất",
+    "pronunciation": "/prəˈdʌk.tɪv/"
+  },
+  {
+    "number": 18,
+    "word": "comfortable",
+    "definition": "thoải mái",
+    "pronunciation": "/ˈkʌm.fɚ.t̬ə.bəl/"
+  },
+  {
+    "number": 19,
+    "word": "laboratory",
+    "definition": "phòng thí nghiệm",
+    "pronunciation": "/ˈlæb.rə.tɔːr.i/"
+  },
+  {
+    "number": 20,
+    "word": "worth",
+    "definition": "đáng giá",
+    "pronunciation": "/wɝːθ/"
+  },
+  {
+    "number": 21,
+    "word": "apply",
+    "definition": "áp dụng",
+    "pronunciation": "/əˈplaɪ/"
+  },
+  {
+    "number": 22,
+    "word": "calculate",
+    "definition": "tính toán",
+    "pronunciation": "/ˈkæl.kjə.leɪt/"
+  },
+  {
+    "number": 23,
+    "word": "degree",
+    "definition": "độ",
+    "pronunciation": "/dɪˈɡriː/"
+  },
+  {
+    "number": 24,
+    "word": "monitor",
+    "definition": "theo dõi",
+    "pronunciation": "/ˈmɑː.nə.t̬ɚ/"
+  },
+  {
+    "number": 25,
+    "word": "incomplete",
+    "definition": "chưa hoàn chỉnh",
+    "pronunciation": "/ˌɪn.kəmˈpliːt/"
+  },
+  {
+    "number": 26,
+    "word": "insufficient",
+    "definition": "không đủ",
+    "pronunciation": "/ˌɪn.səˈfɪʃ.ənt/"
+  },
+  {
+    "number": 27,
+    "word": "equipment",
+    "definition": "thiết bị",
+    "pronunciation": "/ɪˈkwɪp.mənt/"
+  },
+  {
+    "number": 28,
+    "word": "rare",
+    "definition": "hiếm",
+    "pronunciation": "/rer/"
+  },
+  {
+    "number": 29,
+    "word": "practice",
+    "definition": "thực hành",
+    "pronunciation": "/ˈpræk.tɪs/"
+  },
+  {
+    "number": 30,
+    "word": "publicity",
+    "definition": "sự quảng bá",
+    "pronunciation": "/pʌbˈlɪs.ə.t̬i/"
+  },
+  {
+    "number": 31,
+    "word": "wing",
+    "definition": "khu phụ, cánh",
+    "pronunciation": "/wɪŋ/"
+  },
+  {
+    "number": 32,
+    "word": "city hall",
+    "definition": "tòa thị chính",
+    "pronunciation": "/ˈsɪt.i hɔːl/"
+  },
+  {
+    "number": 33,
+    "word": "create",
+    "definition": "tạo ra",
+    "pronunciation": "/kriˈeɪt/"
+  },
+  {
+    "number": 34,
+    "word": "official",
+    "definition": "quan chức",
+    "pronunciation": "/əˈfɪʃ.əl/"
+  },
+  {
+    "number": 35,
+    "word": "construction",
+    "definition": "xây dựng",
+    "pronunciation": "/kənˈstrʌk.ʃən/"
+  },
+  {
+    "number": 36,
+    "word": "soil",
+    "definition": "đất",
+    "pronunciation": "/sɔɪl/"
+  },
+  {
+    "number": 37,
+    "word": "agriculture",
+    "definition": "nông nghiệp",
+    "pronunciation": "/ˈæɡ.rɪ.kʌl.tʃɚ/"
+  },
+  {
+    "number": 38,
+    "word": "curious",
+    "definition": "tò mò",
+    "pronunciation": "/ˈkjʊr.i.əs/"
+  },
+  {
+    "number": 39,
+    "word": "improvement",
+    "definition": "sự cải tiến",
+    "pronunciation": "/ɪmˈpruːv.mənt/"
+  },
+  {
+    "number": 40,
+    "word": "script",
+    "definition": "kịch bản",
+    "pronunciation": "/skrɪpt/"
+  },
+  {
+    "number": 41,
+    "word": "episode",
+    "definition": "tập (chương trình)",
+    "pronunciation": "/ˈep.ə.soʊd/"
+  },
+  {
+    "number": 42,
+    "word": "performer",
+    "definition": "nghệ sĩ biểu diễn",
+    "pronunciation": "/pɚˈfɔːr.mɚ/"
+  },
+  {
+    "number": 43,
+    "word": "outdoor",
+    "definition": "ngoài trời",
+    "pronunciation": "/ˈaʊt.dɔːr/"
+  },
+  {
+    "number": 44,
+    "word": "flat rate",
+    "definition": "mức giá cố định",
+    "pronunciation": "/flæt reɪt/"
+  },
+  {
+    "number": 45,
+    "word": "varied",
+    "definition": "đa dạng",
+    "pronunciation": "/ˈver.id/"
+  },
+  {
+    "number": 46,
+    "word": "machinery",
+    "definition": "máy móc",
+    "pronunciation": "/məˈʃiː.nɚ.i/"
+  },
+  {
+    "number": 47,
+    "word": "automated",
+    "definition": "tự động hóa",
+    "pronunciation": "/ˈɔː.t̬ə.meɪ.t̬ɪd/"
+  },
+  {
+    "number": 48,
+    "word": "transplant",
+    "definition": "cấy ghép",
+    "pronunciation": "/trænsˈplænt/"
+  },
+  {
+    "number": 49,
+    "word": "handle",
+    "definition": "xử lý",
+    "pronunciation": "/ˈhæn.dəl/"
+  },
+  {
+    "number": 50,
+    "word": "amazement",
+    "definition": "sự kinh ngạc",
+    "pronunciation": "/əˈmeɪz.mənt/"
+  },
+  {
+    "number": 51,
+    "word": "inclement weather",
+    "definition": "thời tiết khắc nghiệt",
+    "pronunciation": "/ɪnˈklem.ənt ˈweð.ɚ/"
+  },
+  {
+    "number": 52,
+    "word": "doubt",
+    "definition": "nghi ngờ",
+    "pronunciation": "/daʊt/"
+  },
+  {
+    "number": 53,
+    "word": "organizer",
+    "definition": "người tổ chức",
+    "pronunciation": "/ˈɔːr.ɡə.naɪ.zɚ/"
+  },
+  {
+    "number": 54,
+    "word": "rebook",
+    "definition": "đặt lại",
+    "pronunciation": "/ˌriːˈbʊk/"
+  },
+  {
+    "number": 55,
+    "word": "misinformation",
+    "definition": "thông tin sai lệch",
+    "pronunciation": "/ˌmɪs.ɪn.fɚˈmeɪ.ʃən/"
+  },
+  {
+    "number": 56,
+    "word": "compliment",
+    "definition": "lời khen",
+    "pronunciation": "/ˈkɑːm.plə.mənt/"
+  },
+  {
+    "number": 57,
+    "word": "pillow",
+    "definition": "gối",
+    "pronunciation": "/ˈpɪl.oʊ/"
+  },
+  {
+    "number": 58,
+    "word": "assist",
+    "definition": "hỗ trợ",
+    "pronunciation": "/əˈsɪst/"
+  },
+  {
+    "number": 59,
+    "word": "position",
+    "definition": "vị trí",
+    "pronunciation": "/pəˈzɪʃ.ən/"
+  },
+  {
+    "number": 60,
+    "word": "firm",
+    "definition": "vững chắc",
+    "pronunciation": "/fɝːm/"
+  },
+  {
+    "number": 61,
+    "word": "pain",
+    "definition": "cơn đau",
+    "pronunciation": "/peɪn/"
+  },
+  {
+    "number": 62,
+    "word": "objection",
+    "definition": "sự phản đối",
+    "pronunciation": "/əbˈdʒek.ʃən/"
+  },
+  {
+    "number": 63,
+    "word": "paperwork",
+    "definition": "giấy tờ",
+    "pronunciation": "/ˈpeɪ.pɚ.wɝːk/"
+  },
+  {
+    "number": 64,
+    "word": "autonomous",
+    "definition": "tự chủ",
+    "pronunciation": "/ɔːˈtɑː.nə.məs/"
+  },
+  {
+    "number": 65,
+    "word": "remotely",
+    "definition": "từ xa",
+    "pronunciation": "/rɪˈmoʊt.li/"
+  },
+  {
+    "number": 66,
+    "word": "operate",
+    "definition": "vận hành",
+    "pronunciation": "/ˈɑː.pə.reɪt/"
+  },
+  {
+    "number": 67,
+    "word": "maintain",
+    "definition": "duy trì",
+    "pronunciation": "/meɪnˈteɪn/"
+  },
+  {
+    "number": 68,
+    "word": "administer",
+    "definition": "thực thi",
+    "pronunciation": "/ədˈmɪn.ɪ.stɚ/"
+  },
+  {
+    "number": 69,
+    "word": "compliance",
+    "definition": "sự tuân thủ",
+    "pronunciation": "/kəmˈplaɪ.əns/"
+  },
+  {
+    "number": 70,
+    "word": "primarily",
+    "definition": "chủ yếu",
+    "pronunciation": "/praɪˈmer.ə.li/"
+  },
+  {
+    "number": 71,
+    "word": "exceed",
+    "definition": "vượt quá",
+    "pronunciation": "/ɪkˈsiːd/"
+  },
+  {
+    "number": 72,
+    "word": "standard",
+    "definition": "tiêu chuẩn",
+    "pronunciation": "/ˈstæn.dɚd/"
+  },
+  {
+    "number": 73,
+    "word": "responsibility",
+    "definition": "trách nhiệm",
+    "pronunciation": "/rɪˌspɑːn.səˈbɪl.ə.t̬i/"
+  },
+  {
+    "number": 74,
+    "word": "respond",
+    "definition": "phản hồi",
+    "pronunciation": "/rɪˈspɑːnd/"
+  },
+  {
+    "number": 75,
+    "word": "control",
+    "definition": "kiểm soát",
+    "pronunciation": "/kənˈtroʊl/"
+  },
+  {
+    "number": 76,
+    "word": "allow",
+    "definition": "cho phép",
+    "pronunciation": "/əˈlaʊ/"
+  },
+  {
+    "number": 77,
+    "word": "clinical",
+    "definition": "lâm sàng",
+    "pronunciation": "/ˈklɪn.ɪ.kəl/"
+  },
+  {
+    "number": 78,
+    "word": "alternative",
+    "definition": "phương án thay thế",
+    "pronunciation": "/ɔːlˈtɝː.nə.t̬ɪv/"
+  },
+  {
+    "number": 79,
+    "word": "bulk",
+    "definition": "số lượng lớn",
+    "pronunciation": "/bʌlk/"
+  },
+  {
+    "number": 80,
+    "word": "officially",
+    "definition": "chính thức",
+    "pronunciation": "/əˈfɪʃ.ə.li/"
+  }
+]
