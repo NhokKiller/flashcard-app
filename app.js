@@ -882,6 +882,7 @@ function initQuizMode() {
 
     quizScore = 0;
     quizCorrectCount = 0; // Reset correct count
+    quizWrongAnswers = []; // Reset wrong answers list
     quizSeconds = 0;
     elements.quizScore.textContent = '0';
     if (quizTimer) clearInterval(quizTimer);
@@ -942,8 +943,11 @@ function nextQuizQuestion() {
 }
 
 let quizCorrectCount = 0; // Track correct answers
+let quizWrongAnswers = []; // Track wrong answers for review
 
 function checkAnswer(btn, correctId) {
+    // Get current card for speaking
+    const currentCard = quizCards[quizCurrentIndex];
     const isCorrect = btn.dataset.correct === 'true';
 
     document.querySelectorAll('.quiz-option').forEach(opt => {
@@ -962,6 +966,16 @@ function checkAnswer(btn, correctId) {
         quizScore += 10;
         quizCorrectCount++;
         elements.quizScore.textContent = quizScore;
+        // Speak the correct word
+        speak(currentCard.vocabulary.word);
+    } else {
+        // Save wrong answer for review
+        quizWrongAnswers.push({
+            word: currentCard.vocabulary.word,
+            wordType: currentCard.vocabulary.wordType || '',
+            meaning: currentCard.vocabulary.meaning,
+            phonetic: currentCard.vocabulary.phonetic || ''
+        });
     }
 
     // Move to next question
@@ -1028,12 +1042,49 @@ function showQuizCompletionScreen() {
                 <span class="final-stat-value highlight">${quizScore}</span>
             </div>
         </div>
-        <button class="btn btn-primary quiz-restart-btn" onclick="initQuizMode()">
-            🔄 Làm lại
-        </button>
+        <div class="quiz-completion-buttons">
+            <button class="btn btn-primary quiz-restart-btn" onclick="initQuizMode()">
+                🔄 Làm lại
+            </button>
+            ${wrongCount > 0 ? `<button class="btn btn-secondary quiz-review-btn" onclick="showWrongAnswers()">
+                📝 Xem từ sai (${wrongCount})
+            </button>` : ''}
+        </div>
+        <div id="wrongAnswersList" class="wrong-answers-list" style="display: none;"></div>
     `;
 
     elements.quizResult.classList.remove('show');
+}
+
+// Show wrong answers for review
+function showWrongAnswers() {
+    const listContainer = document.getElementById('wrongAnswersList');
+    if (!listContainer) return;
+
+    // Toggle visibility
+    if (listContainer.style.display === 'none') {
+        listContainer.style.display = 'block';
+        listContainer.innerHTML = `
+            <div class="wrong-answers-header">
+                <h4>📝 Các từ cần ôn lại:</h4>
+            </div>
+            <div class="wrong-answers-cards">
+                ${quizWrongAnswers.map(item => `
+                    <div class="wrong-answer-card">
+                        <div class="wrong-word-line">
+                            <span class="wrong-word">${item.word}</span>
+                            ${item.wordType ? `<span class="wrong-word-type">(${item.wordType})</span>` : ''}
+                        </div>
+                        ${item.phonetic ? `<div class="wrong-phonetic">${item.phonetic}</div>` : ''}
+                        <button class="speak-btn-small" onclick="speak('${item.word.replace(/'/g, "\\'")}')">🔊</button>
+                        <div class="wrong-meaning">${item.meaning}</div>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    } else {
+        listContainer.style.display = 'none';
+    }
 }
 
 // Card Management
@@ -1129,6 +1180,7 @@ let spellingScore = 0;
 let spellingStreak = 0;
 let spellingCorrectCount = 0;
 let spellingWrongCount = 0;
+let spellingWrongAnswers = []; // Track wrong answers for review
 let currentHintLevel = 0;
 let hasAnswered = false;
 let currentAttempts = 0;
@@ -1267,6 +1319,7 @@ function initSpellingMode() {
     spellingStreak = 0;
     spellingCorrectCount = 0;
     spellingWrongCount = 0;
+    spellingWrongAnswers = []; // Reset wrong answers list
     updateSpellingStats();
 
     // Show total words info
@@ -1385,9 +1438,15 @@ function showSpellingCompletionScreen() {
                 <span class="final-stat-value highlight">${spellingScore}</span>
             </div>
         </div>
-        <button class="btn btn-primary quiz-restart-btn" onclick="restartSpellingMode()">
-            🔄 Làm lại
-        </button>
+        <div class="quiz-completion-buttons">
+            <button class="btn btn-primary quiz-restart-btn" onclick="restartSpellingMode()">
+                🔄 Làm lại
+            </button>
+            ${spellingWrongCount > 0 ? `<button class="btn btn-secondary quiz-review-btn" onclick="showSpellingWrongAnswers()">
+                📝 Xem từ sai (${spellingWrongCount})
+            </button>` : ''}
+        </div>
+        <div id="spellingWrongAnswersList" class="wrong-answers-list" style="display: none;"></div>
     `;
 }
 
@@ -1400,6 +1459,37 @@ function restartSpellingMode() {
     spellingElements.speakBtn.style.display = '';
 
     initSpellingMode();
+}
+
+// Show spelling wrong answers for review
+function showSpellingWrongAnswers() {
+    const listContainer = document.getElementById('spellingWrongAnswersList');
+    if (!listContainer) return;
+
+    // Toggle visibility
+    if (listContainer.style.display === 'none') {
+        listContainer.style.display = 'block';
+        listContainer.innerHTML = `
+            <div class="wrong-answers-header">
+                <h4>📝 Các từ cần ôn lại:</h4>
+            </div>
+            <div class="wrong-answers-cards">
+                ${spellingWrongAnswers.map(item => `
+                    <div class="wrong-answer-card">
+                        <div class="wrong-word-line">
+                            <span class="wrong-word">${item.word}</span>
+                            ${item.wordType ? `<span class="wrong-word-type">(${item.wordType})</span>` : ''}
+                        </div>
+                        ${item.phonetic ? `<div class="wrong-phonetic">${item.phonetic}</div>` : ''}
+                        <button class="speak-btn-small" onclick="speak('${item.word.replace(/'/g, "\\'")}')">🔊</button>
+                        <div class="wrong-meaning">${item.meaning}</div>
+                    </div>
+                `).join('')}
+            </div>
+        `;
+    } else {
+        listContainer.style.display = 'none';
+    }
 }
 
 /**
@@ -1538,6 +1628,14 @@ function checkSpellingAnswer() {
             spellingStreak = 0;
             spellingWrongCount++;
             spellingCurrentIndex++; // Move to next question
+
+            // Save wrong answer for review
+            spellingWrongAnswers.push({
+                word: currentSpellingCard.vocabulary.word,
+                wordType: currentSpellingCard.vocabulary.wordType || '',
+                meaning: currentSpellingCard.vocabulary.meaning,
+                phonetic: currentSpellingCard.vocabulary.phonetic || ''
+            });
 
             updateSpellingStats();
             spellingElements.nextBtn.focus();
